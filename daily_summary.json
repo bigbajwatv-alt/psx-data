@@ -1,7 +1,7 @@
 {
-  "as_of": "2026-05-22T15:41:55.189979+05:00",
+  "as_of": "2026-05-22T15:50:21.611576+05:00",
   "source": "https://dps.psx.com.pk/market-watch",
-  "count": 482,
+  "count": 484,
   "schema": {
     "sym": "ticker",
     "sec_code": "PSX sector code (numeric)",
@@ -24,10 +24,10 @@
       "open": 21.47,
       "high": 22.4,
       "low": 20.32,
-      "close": 21.1,
-      "change": 0.31,
-      "pct": 1.4909999999999999,
-      "volume": 72959365
+      "close": 21.14,
+      "change": 0.35,
+      "pct": 1.6840000000000002,
+      "volume": 75163389
     },
     {
       "sym": "PASL",
@@ -37,10 +37,10 @@
       "open": 3.35,
       "high": 3.4,
       "low": 2.78,
-      "close": 2.83,
-      "change": -0.2,
-      "pct": -6.601,
-      "volume": 32404611
+      "close": 2.84,
+      "change": -0.19,
+      "pct": -6.271,
+      "volume": 32454437
     },
     {
       "sym": "PTC",
@@ -50,10 +50,10 @@
       "open": 56.7,
       "high": 60.15,
       "low": 56.11,
-      "close": 58.56,
-      "change": 2.04,
-      "pct": 3.6089999999999995,
-      "volume": 22316611
+      "close": 58.4,
+      "change": 1.88,
+      "pct": 3.3259999999999996,
+      "volume": 22663579
     },
     {
       "sym": "HASCOL",
@@ -63,10 +63,10 @@
       "open": 23.9,
       "high": 23.9,
       "low": 22.95,
-      "close": 23.04,
-      "change": -0.93,
-      "pct": -3.88,
-      "volume": 16538942
+      "close": 23.0,
+      "change": -0.97,
+      "pct": -4.047,
+      "volume": 17238149
     },
     {
       "sym": "BOP",
@@ -76,10 +76,10 @@
       "open": 34.35,
       "high": 34.38,
       "low": 33.6,
-      "close": 33.68,
-      "change": -0.45,
-      "pct": -1.318,
-      "volume": 13628575
+      "close": 33.66,
+      "change": -0.47,
+      "pct": -1.377,
+      "volume": 13894104
     },
     {
       "sym": "WTL",
@@ -92,7 +92,7 @@
       "close": 1.29,
       "change": -0.01,
       "pct": -0.769,
-      "volume": 11019144
+      "volume": 11241641
     },
     {
       "sym": "CNERGY",
@@ -105,7 +105,7 @@
       "close": 8.41,
       "change": -0.15,
       "pct": -1.752,
-      "volume": 9411032
+      "volume": 10172164
     },
     {
       "sym": "KEL",
@@ -115,23 +115,10 @@
       "open": 8.39,
       "high": 8.4,
       "low": 8.22,
-      "close": 8.28,
-      "change": -0.06,
-      "pct": -0.719,
-      "volume": 8955430
-    },
-    {
-      "sym": "AGHA",
-      "sec_code": "0808",
-      "listed": "ALLSHR",
-      "ldcp": 8.0,
-      "open": 8.1,
-      "high": 8.24,
-      "low": 7.82,
-      "close": 7.89,
-      "change": -0.11,
-      "pct": -1.375,
-      "volume": 8618378
+      "close": 8.3,
+      "change": -0.04,
+      "pct": -0.48,
+      "volume": 9578661
     },
     {
       "sym": "OBOY",
@@ -141,10 +128,23 @@
       "open": 12.52,
       "high": 13.94,
       "low": 12.5,
-      "close": 13.4,
-      "change": 0.72,
-      "pct": 5.678,
-      "volume": 8353135
+      "close": 13.7,
+      "change": 1.02,
+      "pct": 8.044,
+      "volume": 8960875
+    },
+    {
+      "sym": "AGHA",
+      "sec_code": "0808",
+      "listed": "ALLSHR",
+      "ldcp": 8.0,
+      "open": 8.1,
+      "high": 8.24,
+      "low": 7.82,
+      "close": 7.88,
+      "change": -0.12,
+      "pct": -1.5,
+      "volume": 8711071
     },
     {
       "sym": "FCEPL",
@@ -154,10 +154,10 @@
       "open": 107.01,
       "high": 114.75,
       "low": 106.0,
-      "close": 110.15,
-      "change": 3.65,
-      "pct": 3.427,
-      "volume": 8067806
+      "close": 109.84,
+      "change": 3.34,
+      "pct": 3.136,
+      "volume": 8317269
     },
     {
       "sym": "SSGC",
@@ -167,23 +167,10 @@
       "open": 26.82,
       "high": 27.0,
       "low": 26.0,
-      "close": 26.25,
-      "change": -0.14,
-      "pct": -0.5309999999999999,
-      "volume": 6152740
-    },
-    {
-      "sym": "FFL",
-      "sec_code": "0810",
-      "listed": "ACI,ALLSHR,KMI30,KMIALLSHR,KSE100,KSE100PR",
-      "ldcp": 17.59,
-      "open": 17.7,
-      "high": 18.18,
-      "low": 17.5,
-      "close": 17.72,
-      "change": 0.13,
-      "pct": 0.739,
-      "volume": 5949840
+      "close": 26.24,
+      "change": -0.15,
+      "pct": -0.5680000000000001,
+      "volume": 6218892
     },
     {
       "sym": "TPLP",
@@ -196,7 +183,20 @@
       "close": 8.1,
       "change": -0.19,
       "pct": -2.292,
-      "volume": 5943162
+      "volume": 6087195
+    },
+    {
+      "sym": "FFL",
+      "sec_code": "0810",
+      "listed": "ACI,ALLSHR,KMI30,KMIALLSHR,KSE100,KSE100PR",
+      "ldcp": 17.59,
+      "open": 17.7,
+      "high": 18.18,
+      "low": 17.5,
+      "close": 17.67,
+      "change": 0.08,
+      "pct": 0.455,
+      "volume": 6005480
     },
     {
       "sym": "BNL",
@@ -206,10 +206,10 @@
       "open": 7.26,
       "high": 7.26,
       "low": 7.0,
-      "close": 7.11,
-      "change": -0.05,
-      "pct": -0.698,
-      "volume": 5163792
+      "close": 7.12,
+      "change": -0.04,
+      "pct": -0.559,
+      "volume": 5426233
     },
     {
       "sym": "UNITY",
@@ -219,23 +219,10 @@
       "open": 12.02,
       "high": 12.15,
       "low": 11.86,
-      "close": 11.89,
-      "change": -0.12,
-      "pct": -0.9990000000000001,
-      "volume": 4614235
-    },
-    {
-      "sym": "NBP",
-      "sec_code": "0807",
-      "listed": "ALLSHR,BKTI,JSGBKTI,KSE100,KSE100PR,KSE30,NBPPGI",
-      "ldcp": 186.73,
-      "open": 187.5,
-      "high": 191.48,
-      "low": 185.01,
-      "close": 185.8,
-      "change": -0.93,
-      "pct": -0.498,
-      "volume": 4544288
+      "close": 11.87,
+      "change": -0.14,
+      "pct": -1.166,
+      "volume": 4839113
     },
     {
       "sym": "FNEL",
@@ -245,10 +232,23 @@
       "open": 1.38,
       "high": 1.38,
       "low": 1.3,
-      "close": 1.32,
-      "change": -0.03,
-      "pct": -2.222,
-      "volume": 4498847
+      "close": 1.33,
+      "change": -0.02,
+      "pct": -1.481,
+      "volume": 4747943
+    },
+    {
+      "sym": "NBP",
+      "sec_code": "0807",
+      "listed": "ALLSHR,BKTI,JSGBKTI,KSE100,KSE100PR,KSE30,NBPPGI",
+      "ldcp": 186.73,
+      "open": 187.5,
+      "high": 191.48,
+      "low": 185.01,
+      "close": 185.89,
+      "change": -0.84,
+      "pct": -0.44999999999999996,
+      "volume": 4602323
     },
     {
       "sym": "AGP",
@@ -258,10 +258,10 @@
       "open": 188.21,
       "high": 196.46,
       "low": 184.26,
-      "close": 189.99,
-      "change": 3.75,
-      "pct": 2.0140000000000002,
-      "volume": 4339908
+      "close": 188.1,
+      "change": 1.86,
+      "pct": 0.9990000000000001,
+      "volume": 4430616
     },
     {
       "sym": "TRG",
@@ -271,10 +271,10 @@
       "open": 63.06,
       "high": 64.74,
       "low": 62.35,
-      "close": 62.62,
-      "change": -0.3,
-      "pct": -0.477,
-      "volume": 4262119
+      "close": 62.7,
+      "change": -0.22,
+      "pct": -0.35000000000000003,
+      "volume": 4364139
     },
     {
       "sym": "AIRLINK",
@@ -284,10 +284,10 @@
       "open": 149.4,
       "high": 153.98,
       "low": 147.51,
-      "close": 150.0,
-      "change": 1.13,
-      "pct": 0.759,
-      "volume": 3738424
+      "close": 149.11,
+      "change": 0.24,
+      "pct": 0.161,
+      "volume": 3821740
     },
     {
       "sym": "ITANZ",
@@ -297,10 +297,10 @@
       "open": 33.9,
       "high": 36.63,
       "low": 33.6,
-      "close": 35.31,
-      "change": 1.74,
-      "pct": 5.183,
-      "volume": 3690126
+      "close": 35.02,
+      "change": 1.45,
+      "pct": 4.319,
+      "volume": 3811887
     },
     {
       "sym": "PIBTL",
@@ -310,23 +310,10 @@
       "open": 16.6,
       "high": 16.6,
       "low": 16.18,
-      "close": 16.18,
-      "change": -0.25,
-      "pct": -1.522,
-      "volume": 3343815
-    },
-    {
-      "sym": "HIRAT",
-      "sec_code": "0830",
-      "listed": "ALLSHR",
-      "ldcp": 6.97,
-      "open": 6.89,
-      "high": 7.6,
-      "low": 6.7,
-      "close": 7.23,
-      "change": 0.26,
-      "pct": 3.73,
-      "volume": 3340662
+      "close": 16.19,
+      "change": -0.24,
+      "pct": -1.461,
+      "volume": 3468606
     },
     {
       "sym": "PPL",
@@ -336,10 +323,23 @@
       "open": 235.0,
       "high": 236.0,
       "low": 232.56,
-      "close": 234.5,
-      "change": 0.39,
-      "pct": 0.167,
-      "volume": 3221778
+      "close": 234.6,
+      "change": 0.49,
+      "pct": 0.209,
+      "volume": 3447165
+    },
+    {
+      "sym": "HIRAT",
+      "sec_code": "0830",
+      "listed": "ALLSHR",
+      "ldcp": 6.97,
+      "open": 6.89,
+      "high": 7.6,
+      "low": 6.7,
+      "close": 7.17,
+      "change": 0.2,
+      "pct": 2.869,
+      "volume": 3347717
     },
     {
       "sym": "TSBL",
@@ -349,10 +349,10 @@
       "open": 1.87,
       "high": 1.89,
       "low": 1.78,
-      "close": 1.83,
-      "change": -0.03,
-      "pct": -1.6129999999999998,
-      "volume": 3077495
+      "close": 1.81,
+      "change": -0.05,
+      "pct": -2.688,
+      "volume": 3246917
     },
     {
       "sym": "MLCF",
@@ -362,10 +362,10 @@
       "open": 86.25,
       "high": 86.49,
       "low": 84.1,
-      "close": 84.2,
-      "change": -1.34,
-      "pct": -1.567,
-      "volume": 3056117
+      "close": 84.25,
+      "change": -1.29,
+      "pct": -1.508,
+      "volume": 3134215
     },
     {
       "sym": "PAEL",
@@ -375,36 +375,10 @@
       "open": 40.5,
       "high": 40.5,
       "low": 39.0,
-      "close": 39.15,
-      "change": -0.45,
-      "pct": -1.1360000000000001,
-      "volume": 3018416
-    },
-    {
-      "sym": "TPL",
-      "sec_code": "0828",
-      "listed": "ALLSHR",
-      "ldcp": 11.17,
-      "open": 11.15,
-      "high": 11.23,
-      "low": 10.85,
-      "close": 10.91,
-      "change": -0.26,
-      "pct": -2.328,
-      "volume": 2993209
-    },
-    {
-      "sym": "NCPL",
-      "sec_code": "0824",
-      "listed": "ALLSHR",
-      "ldcp": 65.6,
-      "open": 65.9,
-      "high": 66.23,
-      "low": 64.45,
-      "close": 64.6,
-      "change": -1.0,
-      "pct": -1.524,
-      "volume": 2604963
+      "close": 39.1,
+      "change": -0.5,
+      "pct": -1.2630000000000001,
+      "volume": 3089735
     },
     {
       "sym": "PIAHCLA",
@@ -414,10 +388,36 @@
       "open": 26.49,
       "high": 26.74,
       "low": 26.1,
-      "close": 26.15,
-      "change": -0.37,
-      "pct": -1.395,
-      "volume": 2578034
+      "close": 26.3,
+      "change": -0.22,
+      "pct": -0.83,
+      "volume": 3055144
+    },
+    {
+      "sym": "TPL",
+      "sec_code": "0828",
+      "listed": "ALLSHR",
+      "ldcp": 11.17,
+      "open": 11.15,
+      "high": 11.23,
+      "low": 10.85,
+      "close": 10.93,
+      "change": -0.24,
+      "pct": -2.149,
+      "volume": 3007659
+    },
+    {
+      "sym": "NCPL",
+      "sec_code": "0824",
+      "listed": "ALLSHR",
+      "ldcp": 65.6,
+      "open": 65.9,
+      "high": 66.23,
+      "low": 64.4,
+      "close": 64.5,
+      "change": -1.1,
+      "pct": -1.677,
+      "volume": 2685605
     },
     {
       "sym": "TOMCL",
@@ -430,7 +430,7 @@
       "close": 34.4,
       "change": 0.42,
       "pct": 1.236,
-      "volume": 2457950
+      "volume": 2486903
     },
     {
       "sym": "HUBC",
@@ -440,23 +440,10 @@
       "open": 217.0,
       "high": 218.49,
       "low": 215.31,
-      "close": 215.75,
-      "change": -0.24,
-      "pct": -0.11100000000000002,
-      "volume": 2372063
-    },
-    {
-      "sym": "TELE",
-      "sec_code": "0828",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 8.21,
-      "open": 8.24,
-      "high": 8.29,
-      "low": 8.15,
-      "close": 8.18,
-      "change": -0.03,
-      "pct": -0.365,
-      "volume": 2147958
+      "close": 215.5,
+      "change": -0.49,
+      "pct": -0.22699999999999998,
+      "volume": 2474183
     },
     {
       "sym": "FCCL",
@@ -466,10 +453,23 @@
       "open": 51.78,
       "high": 51.78,
       "low": 50.22,
-      "close": 50.32,
-      "change": -0.82,
-      "pct": -1.603,
-      "volume": 2138806
+      "close": 50.35,
+      "change": -0.79,
+      "pct": -1.545,
+      "volume": 2289650
+    },
+    {
+      "sym": "TELE",
+      "sec_code": "0828",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 8.21,
+      "open": 8.24,
+      "high": 8.29,
+      "low": 8.15,
+      "close": 8.22,
+      "change": 0.01,
+      "pct": 0.122,
+      "volume": 2220808
     },
     {
       "sym": "FCL",
@@ -479,10 +479,10 @@
       "open": 24.01,
       "high": 24.32,
       "low": 23.75,
-      "close": 23.82,
-      "change": -0.29,
-      "pct": -1.203,
-      "volume": 1857911
+      "close": 23.97,
+      "change": -0.14,
+      "pct": -0.581,
+      "volume": 1864812
     },
     {
       "sym": "POWER",
@@ -492,10 +492,23 @@
       "open": 19.86,
       "high": 20.4,
       "low": 19.5,
-      "close": 20.08,
-      "change": 0.25,
-      "pct": 1.261,
-      "volume": 1782956
+      "close": 20.1,
+      "change": 0.27,
+      "pct": 1.362,
+      "volume": 1852147
+    },
+    {
+      "sym": "PRL",
+      "sec_code": "0825",
+      "listed": "ALLSHR,JSMFI,KMI30,KMIALLSHR",
+      "ldcp": 35.17,
+      "open": 35.5,
+      "high": 35.51,
+      "low": 34.65,
+      "close": 34.67,
+      "change": -0.5,
+      "pct": -1.422,
+      "volume": 1814210
     },
     {
       "sym": "EPCL",
@@ -505,23 +518,10 @@
       "open": 33.0,
       "high": 34.0,
       "low": 32.55,
-      "close": 33.59,
-      "change": 0.76,
-      "pct": 2.315,
-      "volume": 1730875
-    },
-    {
-      "sym": "PRL",
-      "sec_code": "0825",
-      "listed": "ALLSHR,JSMFI,KMI30,KMIALLSHR",
-      "ldcp": 35.17,
-      "open": 35.5,
-      "high": 35.51,
-      "low": 34.8,
-      "close": 34.95,
-      "change": -0.22,
-      "pct": -0.626,
-      "volume": 1627710
+      "close": 33.66,
+      "change": 0.83,
+      "pct": 2.528,
+      "volume": 1741786
     },
     {
       "sym": "LSECL",
@@ -530,11 +530,24 @@
       "ldcp": 5.62,
       "open": 5.66,
       "high": 5.79,
-      "low": 5.55,
-      "close": 5.55,
-      "change": -0.07,
-      "pct": -1.246,
-      "volume": 1587466
+      "low": 5.51,
+      "close": 5.59,
+      "change": -0.03,
+      "pct": -0.534,
+      "volume": 1631266
+    },
+    {
+      "sym": "PACE",
+      "sec_code": "0838",
+      "listed": "ALLSHR",
+      "ldcp": 10.78,
+      "open": 10.85,
+      "high": 10.88,
+      "low": 10.5,
+      "close": 10.64,
+      "change": -0.14,
+      "pct": -1.299,
+      "volume": 1597650
     },
     {
       "sym": "TBL",
@@ -544,10 +557,23 @@
       "open": 9.99,
       "high": 9.99,
       "low": 9.75,
-      "close": 9.76,
-      "change": -0.13,
-      "pct": -1.314,
-      "volume": 1525213
+      "close": 9.75,
+      "change": -0.14,
+      "pct": -1.4160000000000001,
+      "volume": 1559732
+    },
+    {
+      "sym": "NPL",
+      "sec_code": "0824",
+      "listed": "ALLSHR,KSE100,KSE100PR",
+      "ldcp": 71.18,
+      "open": 71.26,
+      "high": 71.68,
+      "low": 69.51,
+      "close": 69.8,
+      "change": -1.38,
+      "pct": -1.939,
+      "volume": 1465565
     },
     {
       "sym": "DGKC",
@@ -557,36 +583,23 @@
       "open": 187.0,
       "high": 188.4,
       "low": 183.25,
-      "close": 184.3,
-      "change": -2.09,
-      "pct": -1.121,
-      "volume": 1407669
+      "close": 184.0,
+      "change": -2.39,
+      "pct": -1.282,
+      "volume": 1452487
     },
     {
-      "sym": "NPL",
-      "sec_code": "0824",
-      "listed": "ALLSHR,KSE100,KSE100PR",
-      "ldcp": 71.18,
-      "open": 71.26,
-      "high": 71.68,
-      "low": 69.75,
-      "close": 70.0,
-      "change": -1.18,
-      "pct": -1.6580000000000001,
-      "volume": 1387645
-    },
-    {
-      "sym": "PACE",
-      "sec_code": "0838",
-      "listed": "ALLSHR",
-      "ldcp": 10.78,
-      "open": 10.85,
-      "high": 10.88,
-      "low": 10.57,
-      "close": 10.64,
-      "change": -0.14,
-      "pct": -1.299,
-      "volume": 1376880
+      "sym": "TPLT",
+      "sec_code": "0828",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 17.79,
+      "open": 18.09,
+      "high": 18.09,
+      "low": 17.0,
+      "close": 17.05,
+      "change": -0.74,
+      "pct": -4.16,
+      "volume": 1379968
     },
     {
       "sym": "UBL",
@@ -596,10 +609,10 @@
       "open": 411.0,
       "high": 414.0,
       "low": 403.0,
-      "close": 405.0,
-      "change": -2.03,
-      "pct": -0.49899999999999994,
-      "volume": 1288127
+      "close": 405.06,
+      "change": -1.97,
+      "pct": -0.484,
+      "volume": 1357526
     },
     {
       "sym": "BECO",
@@ -609,10 +622,10 @@
       "open": 5.31,
       "high": 5.38,
       "low": 5.3,
-      "close": 5.32,
-      "change": -0.09,
-      "pct": -1.664,
-      "volume": 1287085
+      "close": 5.33,
+      "change": -0.08,
+      "pct": -1.4789999999999999,
+      "volume": 1346424
     },
     {
       "sym": "PREMA",
@@ -622,10 +635,10 @@
       "open": 35.88,
       "high": 36.4,
       "low": 35.05,
-      "close": 35.33,
-      "change": -0.21,
-      "pct": -0.5910000000000001,
-      "volume": 1273147
+      "close": 35.21,
+      "change": -0.33,
+      "pct": -0.9289999999999999,
+      "volume": 1318143
     },
     {
       "sym": "SEARL",
@@ -634,11 +647,11 @@
       "ldcp": 89.03,
       "open": 89.74,
       "high": 90.0,
-      "low": 87.86,
-      "close": 88.0,
-      "change": -1.03,
-      "pct": -1.157,
-      "volume": 1249474
+      "low": 87.8,
+      "close": 87.8,
+      "change": -1.23,
+      "pct": -1.3820000000000001,
+      "volume": 1312868
     },
     {
       "sym": "ICIBL",
@@ -648,23 +661,23 @@
       "open": 4.62,
       "high": 4.62,
       "low": 4.32,
-      "close": 4.38,
-      "change": -0.18,
-      "pct": -3.9469999999999996,
-      "volume": 1241399
+      "close": 4.37,
+      "change": -0.19,
+      "pct": -4.167,
+      "volume": 1252994
     },
     {
-      "sym": "TPLT",
-      "sec_code": "0828",
+      "sym": "TREET",
+      "sec_code": "0810",
       "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 17.79,
-      "open": 18.09,
-      "high": 18.09,
-      "low": 17.21,
-      "close": 17.35,
-      "change": -0.44,
-      "pct": -2.473,
-      "volume": 1232776
+      "ldcp": 24.12,
+      "open": 24.25,
+      "high": 24.28,
+      "low": 23.81,
+      "close": 23.86,
+      "change": -0.26,
+      "pct": -1.078,
+      "volume": 1176760
     },
     {
       "sym": "MACFL",
@@ -674,10 +687,10 @@
       "open": 61.4,
       "high": 62.97,
       "low": 59.0,
-      "close": 59.6,
-      "change": -0.98,
-      "pct": -1.6179999999999999,
-      "volume": 1149921
+      "close": 59.49,
+      "change": -1.09,
+      "pct": -1.799,
+      "volume": 1158560
     },
     {
       "sym": "NML",
@@ -687,49 +700,10 @@
       "open": 143.9,
       "high": 144.35,
       "low": 141.51,
-      "close": 142.35,
-      "change": -0.44,
-      "pct": -0.308,
-      "volume": 1127862
-    },
-    {
-      "sym": "CPHL",
-      "sec_code": "0823",
-      "listed": "ALLSHR,KMI30,KMIALLSHR,KSE100,KSE100PR",
-      "ldcp": 77.38,
-      "open": 78.01,
-      "high": 78.52,
-      "low": 77.18,
-      "close": 77.25,
-      "change": -0.13,
-      "pct": -0.168,
-      "volume": 1088405
-    },
-    {
-      "sym": "CLOV",
-      "sec_code": "0810",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 8.45,
-      "open": 8.46,
-      "high": 8.59,
-      "low": 8.3,
-      "close": 8.33,
-      "change": -0.12,
-      "pct": -1.4200000000000002,
-      "volume": 1075592
-    },
-    {
-      "sym": "DCL",
-      "sec_code": "0804",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 9.62,
-      "open": 9.69,
-      "high": 9.69,
-      "low": 9.37,
-      "close": 9.4,
-      "change": -0.22,
-      "pct": -2.287,
-      "volume": 1070652
+      "close": 142.0,
+      "change": -0.79,
+      "pct": -0.553,
+      "volume": 1151042
     },
     {
       "sym": "OGDC",
@@ -739,10 +713,10 @@
       "open": 326.8,
       "high": 327.6,
       "low": 322.0,
-      "close": 323.74,
-      "change": -2.08,
-      "pct": -0.638,
-      "volume": 1065092
+      "close": 322.79,
+      "change": -3.03,
+      "pct": -0.9299999999999999,
+      "volume": 1147298
     },
     {
       "sym": "YOUW",
@@ -755,345 +729,46 @@
       "close": 5.79,
       "change": -0.1,
       "pct": -1.698,
-      "volume": 1042777
+      "volume": 1106801
     },
     {
-      "sym": "TREET",
+      "sym": "CPHL",
+      "sec_code": "0823",
+      "listed": "ALLSHR,KMI30,KMIALLSHR,KSE100,KSE100PR",
+      "ldcp": 77.38,
+      "open": 78.01,
+      "high": 78.52,
+      "low": 77.18,
+      "close": 77.3,
+      "change": -0.08,
+      "pct": -0.10300000000000001,
+      "volume": 1102194
+    },
+    {
+      "sym": "CLOV",
       "sec_code": "0810",
       "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 24.12,
-      "open": 24.25,
-      "high": 24.28,
-      "low": 23.81,
-      "close": 23.9,
-      "change": -0.22,
-      "pct": -0.9119999999999999,
-      "volume": 1038238
-    },
-    {
-      "sym": "CSIL",
-      "sec_code": "0812",
-      "listed": "ALLSHR",
-      "ldcp": 6.32,
-      "open": 6.32,
-      "high": 6.39,
-      "low": 6.12,
-      "close": 6.14,
-      "change": -0.18,
-      "pct": -2.848,
-      "volume": 998465
-    },
-    {
-      "sym": "KOSM",
-      "sec_code": "0830",
-      "listed": "ALLSHR",
-      "ldcp": 5.63,
-      "open": 5.75,
-      "high": 5.76,
-      "low": 5.51,
-      "close": 5.57,
-      "change": -0.06,
-      "pct": -1.0659999999999998,
-      "volume": 993503
-    },
-    {
-      "sym": "DSL",
-      "sec_code": "0808",
-      "listed": "ALLSHR",
-      "ldcp": 5.24,
-      "open": 5.28,
-      "high": 5.28,
-      "low": 5.11,
-      "close": 5.12,
-      "change": -0.12,
-      "pct": -2.29,
-      "volume": 941241
-    },
-    {
-      "sym": "GCWL",
-      "sec_code": "0805",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 16.76,
-      "open": 16.86,
-      "high": 17.25,
-      "low": 16.6,
-      "close": 16.65,
-      "change": -0.11,
-      "pct": -0.656,
-      "volume": 916813
-    },
-    {
-      "sym": "PSX",
-      "sec_code": "0813",
-      "listed": "ALLSHR,KSE100,KSE100PR",
-      "ldcp": 36.91,
-      "open": 37.45,
-      "high": 37.5,
-      "low": 36.6,
-      "close": 36.85,
-      "change": -0.06,
-      "pct": -0.163,
-      "volume": 873712
-    },
-    {
-      "sym": "AHCL",
-      "sec_code": "0809",
-      "listed": "ALLSHR,KSE100,KSE100PR,PSXDIV20",
-      "ldcp": 14.23,
-      "open": 14.25,
-      "high": 14.3,
-      "low": 13.95,
-      "close": 14.03,
-      "change": -0.2,
-      "pct": -1.405,
-      "volume": 849883
-    },
-    {
-      "sym": "ENGROH",
-      "sec_code": "0813",
-      "listed": "ALLSHR,KMI30,KMIALLSHR,KSE100,KSE100PR,KSE30,MII30,MZNPI,NBPPGI,NITPGI,UPP9",
-      "ldcp": 261.96,
-      "open": 264.99,
-      "high": 264.99,
-      "low": 259.5,
-      "close": 260.5,
-      "change": -1.46,
-      "pct": -0.557,
-      "volume": 848120
-    },
-    {
-      "sym": "CTM",
-      "sec_code": "0830",
-      "listed": "ALLSHR",
-      "ldcp": 7.78,
-      "open": 7.81,
-      "high": 7.81,
-      "low": 7.42,
-      "close": 7.5,
-      "change": -0.28,
-      "pct": -3.599,
-      "volume": 834693
-    },
-    {
-      "sym": "LUCK",
-      "sec_code": "0804",
-      "listed": "ACI,ALLSHR,KMI30,KMIALLSHR,KSE100,KSE100PR,KSE30,MII30,MZNPI,NBPPGI,NITPGI,UPP9",
-      "ldcp": 426.82,
-      "open": 430.48,
-      "high": 431.5,
-      "low": 420.16,
-      "close": 421.0,
-      "change": -5.82,
-      "pct": -1.3639999999999999,
-      "volume": 826907
-    },
-    {
-      "sym": "SNGP",
-      "sec_code": "0821",
-      "listed": "ACI,ALLSHR,KMI30,KMIALLSHR,KSE100,KSE100PR,KSE30,MII30",
-      "ldcp": 101.32,
-      "open": 101.99,
-      "high": 102.0,
-      "low": 98.51,
-      "close": 100.3,
-      "change": -1.02,
-      "pct": -1.0070000000000001,
-      "volume": 806452
-    },
-    {
-      "sym": "EFERT",
-      "sec_code": "0809",
-      "listed": "ALLSHR,KMI30,KMIALLSHR,KSE100,KSE100PR,KSE30,MII30,NBPPGI,PSXDIV20,UPP9",
-      "ldcp": 200.37,
-      "open": 200.6,
-      "high": 202.0,
-      "low": 199.2,
-      "close": 200.3,
+      "ldcp": 8.45,
+      "open": 8.46,
+      "high": 8.59,
+      "low": 8.3,
+      "close": 8.38,
       "change": -0.07,
-      "pct": -0.034999999999999996,
-      "volume": 797162
+      "pct": -0.828,
+      "volume": 1094213
     },
     {
-      "sym": "LSEVL",
-      "sec_code": "0813",
-      "listed": "ALLSHR",
-      "ldcp": 9.15,
-      "open": 9.29,
-      "high": 9.45,
-      "low": 9.05,
-      "close": 9.26,
-      "change": 0.11,
-      "pct": 1.202,
-      "volume": 781627
-    },
-    {
-      "sym": "STCL",
-      "sec_code": "0811",
+      "sym": "DCL",
+      "sec_code": "0804",
       "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 12.07,
-      "open": 12.18,
-      "high": 12.18,
-      "low": 11.6,
-      "close": 11.62,
-      "change": -0.45,
-      "pct": -3.728,
-      "volume": 740737
-    },
-    {
-      "sym": "MEBL",
-      "sec_code": "0807",
-      "listed": "ALLSHR,BKTI,JSGBKTI,KMI30,KMIALLSHR,KSE100,KSE100PR,KSE30,MII30,NBPPGI,NITPGI,PSXDIV20,UPP9",
-      "ldcp": 481.45,
-      "open": 485.0,
-      "high": 485.0,
-      "low": 480.02,
-      "close": 481.25,
-      "change": -0.2,
-      "pct": -0.042,
-      "volume": 734198
-    },
-    {
-      "sym": "PSO",
-      "sec_code": "0821",
-      "listed": "ACI,ALLSHR,KMI30,KMIALLSHR,KSE100,KSE100PR,KSE30,MII30,MZNPI",
-      "ldcp": 350.89,
-      "open": 352.9,
-      "high": 352.99,
-      "low": 346.09,
-      "close": 347.0,
-      "change": -3.89,
-      "pct": -1.109,
-      "volume": 718591
-    },
-    {
-      "sym": "WAVESAPP",
-      "sec_code": "0803",
-      "listed": "ALLSHR",
-      "ldcp": 7.78,
-      "open": 7.85,
-      "high": 7.9,
-      "low": 7.69,
-      "close": 7.7,
-      "change": -0.08,
-      "pct": -1.028,
-      "volume": 709081
-    },
-    {
-      "sym": "FFC",
-      "sec_code": "0809",
-      "listed": "ALLSHR,KMI30,KMIALLSHR,KSE100,KSE100PR,KSE30,MII30,MZNPI,NBPPGI,NITPGI,PSXDIV20,UPP9",
-      "ldcp": 531.21,
-      "open": 535.0,
-      "high": 535.0,
-      "low": 528.1,
-      "close": 530.75,
-      "change": -0.46,
-      "pct": -0.087,
-      "volume": 705821
-    },
-    {
-      "sym": "HBL",
-      "sec_code": "0807",
-      "listed": "ALLSHR,BKTI,JSGBKTI,KSE100,KSE100PR,KSE30,NBPPGI,NITPGI,PSXDIV20,UPP9",
-      "ldcp": 279.52,
-      "open": 281.99,
-      "high": 282.0,
-      "low": 274.11,
-      "close": 275.0,
-      "change": -4.52,
-      "pct": -1.617,
-      "volume": 672534
-    },
-    {
-      "sym": "SGPL",
-      "sec_code": "0824",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 40.14,
-      "open": 36.13,
-      "high": 36.13,
-      "low": 36.13,
-      "close": 36.13,
-      "change": -4.01,
-      "pct": -9.99,
-      "volume": 667073
-    },
-    {
-      "sym": "SYM",
-      "sec_code": "0828",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 10.58,
-      "open": 10.65,
-      "high": 10.69,
-      "low": 10.3,
-      "close": 10.3,
-      "change": -0.28,
-      "pct": -2.6470000000000002,
-      "volume": 612783
-    },
-    {
-      "sym": "ASL",
-      "sec_code": "0808",
-      "listed": "ACI,ALLSHR,KMIALLSHR",
-      "ldcp": 12.25,
-      "open": 12.26,
-      "high": 12.39,
-      "low": 11.99,
-      "close": 12.01,
+      "ldcp": 9.62,
+      "open": 9.69,
+      "high": 9.69,
+      "low": 9.37,
+      "close": 9.38,
       "change": -0.24,
-      "pct": -1.959,
-      "volume": 595097
-    },
-    {
-      "sym": "MUGHAL",
-      "sec_code": "0808",
-      "listed": "ACI,ALLSHR,KMIALLSHR",
-      "ldcp": 73.14,
-      "open": 73.82,
-      "high": 74.58,
-      "low": 72.71,
-      "close": 72.79,
-      "change": -0.35,
-      "pct": -0.479,
-      "volume": 570707
-    },
-    {
-      "sym": "DFML",
-      "sec_code": "0801",
-      "listed": "ALLSHR",
-      "ldcp": 21.68,
-      "open": 21.68,
-      "high": 21.79,
-      "low": 20.99,
-      "close": 21.02,
-      "change": -0.66,
-      "pct": -3.044,
-      "volume": 553821
-    },
-    {
-      "sym": "LOTCHEM",
-      "sec_code": "0805",
-      "listed": "ALLSHR,KMIALLSHR,KSE100,KSE100PR",
-      "ldcp": 27.02,
-      "open": 27.15,
-      "high": 27.35,
-      "low": 26.85,
-      "close": 27.05,
-      "change": 0.03,
-      "pct": 0.11100000000000002,
-      "volume": 553009
-    },
-    {
-      "sym": "BAFL",
-      "sec_code": "0807",
-      "listed": "ALLSHR,BKTI,JSGBKTI,KSE100,KSE100PR,PSXDIV20",
-      "ldcp": 57.57,
-      "open": 57.9,
-      "high": 57.9,
-      "low": 57.0,
-      "close": 57.25,
-      "change": -0.32,
-      "pct": -0.5559999999999999,
-      "volume": 545347
+      "pct": -2.495,
+      "volume": 1092002
     },
     {
       "sym": "AKBL",
@@ -1106,7 +781,345 @@
       "close": 92.7,
       "change": 0.12,
       "pct": 0.13,
-      "volume": 533533
+      "volume": 1033703
+    },
+    {
+      "sym": "CSIL",
+      "sec_code": "0812",
+      "listed": "ALLSHR",
+      "ldcp": 6.32,
+      "open": 6.32,
+      "high": 6.39,
+      "low": 6.12,
+      "close": 6.15,
+      "change": -0.17,
+      "pct": -2.69,
+      "volume": 1009629
+    },
+    {
+      "sym": "KOSM",
+      "sec_code": "0830",
+      "listed": "ALLSHR",
+      "ldcp": 5.63,
+      "open": 5.75,
+      "high": 5.76,
+      "low": 5.51,
+      "close": 5.52,
+      "change": -0.11,
+      "pct": -1.9539999999999997,
+      "volume": 997114
+    },
+    {
+      "sym": "DSL",
+      "sec_code": "0808",
+      "listed": "ALLSHR",
+      "ldcp": 5.24,
+      "open": 5.28,
+      "high": 5.28,
+      "low": 5.11,
+      "close": 5.15,
+      "change": -0.09,
+      "pct": -1.718,
+      "volume": 961946
+    },
+    {
+      "sym": "AHCL",
+      "sec_code": "0809",
+      "listed": "ALLSHR,KSE100,KSE100PR,PSXDIV20",
+      "ldcp": 14.23,
+      "open": 14.25,
+      "high": 14.3,
+      "low": 13.95,
+      "close": 13.99,
+      "change": -0.24,
+      "pct": -1.687,
+      "volume": 933595
+    },
+    {
+      "sym": "GCWL",
+      "sec_code": "0805",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 16.76,
+      "open": 16.86,
+      "high": 17.25,
+      "low": 16.6,
+      "close": 16.72,
+      "change": -0.04,
+      "pct": -0.23900000000000002,
+      "volume": 927275
+    },
+    {
+      "sym": "ENGROH",
+      "sec_code": "0813",
+      "listed": "ALLSHR,KMI30,KMIALLSHR,KSE100,KSE100PR,KSE30,MII30,MZNPI,NBPPGI,NITPGI,UPP9",
+      "ldcp": 261.96,
+      "open": 264.99,
+      "high": 264.99,
+      "low": 259.5,
+      "close": 260.4,
+      "change": -1.56,
+      "pct": -0.596,
+      "volume": 900464
+    },
+    {
+      "sym": "PSX",
+      "sec_code": "0813",
+      "listed": "ALLSHR,KSE100,KSE100PR",
+      "ldcp": 36.91,
+      "open": 37.45,
+      "high": 37.5,
+      "low": 36.6,
+      "close": 36.85,
+      "change": -0.06,
+      "pct": -0.163,
+      "volume": 874472
+    },
+    {
+      "sym": "EFERT",
+      "sec_code": "0809",
+      "listed": "ALLSHR,KMI30,KMIALLSHR,KSE100,KSE100PR,KSE30,MII30,NBPPGI,PSXDIV20,UPP9",
+      "ldcp": 200.37,
+      "open": 200.6,
+      "high": 202.0,
+      "low": 199.2,
+      "close": 200.39,
+      "change": 0.02,
+      "pct": 0.01,
+      "volume": 850446
+    },
+    {
+      "sym": "LUCK",
+      "sec_code": "0804",
+      "listed": "ACI,ALLSHR,KMI30,KMIALLSHR,KSE100,KSE100PR,KSE30,MII30,MZNPI,NBPPGI,NITPGI,UPP9",
+      "ldcp": 426.82,
+      "open": 430.48,
+      "high": 431.5,
+      "low": 420.16,
+      "close": 422.0,
+      "change": -4.82,
+      "pct": -1.129,
+      "volume": 848532
+    },
+    {
+      "sym": "SNGP",
+      "sec_code": "0821",
+      "listed": "ACI,ALLSHR,KMI30,KMIALLSHR,KSE100,KSE100PR,KSE30,MII30",
+      "ldcp": 101.32,
+      "open": 101.99,
+      "high": 102.0,
+      "low": 98.51,
+      "close": 100.68,
+      "change": -0.64,
+      "pct": -0.632,
+      "volume": 846585
+    },
+    {
+      "sym": "CTM",
+      "sec_code": "0830",
+      "listed": "ALLSHR",
+      "ldcp": 7.78,
+      "open": 7.81,
+      "high": 7.81,
+      "low": 7.42,
+      "close": 7.6,
+      "change": -0.18,
+      "pct": -2.314,
+      "volume": 839966
+    },
+    {
+      "sym": "LSEVL",
+      "sec_code": "0813",
+      "listed": "ALLSHR",
+      "ldcp": 9.15,
+      "open": 9.29,
+      "high": 9.45,
+      "low": 9.05,
+      "close": 9.25,
+      "change": 0.1,
+      "pct": 1.093,
+      "volume": 814077
+    },
+    {
+      "sym": "MEBL",
+      "sec_code": "0807",
+      "listed": "ALLSHR,BKTI,JSGBKTI,KMI30,KMIALLSHR,KSE100,KSE100PR,KSE30,MII30,NBPPGI,NITPGI,PSXDIV20,UPP9",
+      "ldcp": 481.45,
+      "open": 485.0,
+      "high": 485.0,
+      "low": 480.02,
+      "close": 481.24,
+      "change": -0.21,
+      "pct": -0.044000000000000004,
+      "volume": 806393
+    },
+    {
+      "sym": "PSO",
+      "sec_code": "0821",
+      "listed": "ACI,ALLSHR,KMI30,KMIALLSHR,KSE100,KSE100PR,KSE30,MII30,MZNPI",
+      "ldcp": 350.89,
+      "open": 352.9,
+      "high": 352.99,
+      "low": 346.09,
+      "close": 348.0,
+      "change": -2.89,
+      "pct": -0.8240000000000001,
+      "volume": 790119
+    },
+    {
+      "sym": "FFC",
+      "sec_code": "0809",
+      "listed": "ALLSHR,KMI30,KMIALLSHR,KSE100,KSE100PR,KSE30,MII30,MZNPI,NBPPGI,NITPGI,PSXDIV20,UPP9",
+      "ldcp": 531.21,
+      "open": 535.0,
+      "high": 535.0,
+      "low": 528.1,
+      "close": 531.0,
+      "change": -0.21,
+      "pct": -0.04,
+      "volume": 768151
+    },
+    {
+      "sym": "HBL",
+      "sec_code": "0807",
+      "listed": "ALLSHR,BKTI,JSGBKTI,KSE100,KSE100PR,KSE30,NBPPGI,NITPGI,PSXDIV20,UPP9",
+      "ldcp": 279.52,
+      "open": 281.99,
+      "high": 282.0,
+      "low": 274.11,
+      "close": 274.9,
+      "change": -4.62,
+      "pct": -1.653,
+      "volume": 767214
+    },
+    {
+      "sym": "STCL",
+      "sec_code": "0811",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 12.07,
+      "open": 12.18,
+      "high": 12.18,
+      "low": 11.6,
+      "close": 11.6,
+      "change": -0.47,
+      "pct": -3.894,
+      "volume": 753737
+    },
+    {
+      "sym": "WAVESAPP",
+      "sec_code": "0803",
+      "listed": "ALLSHR",
+      "ldcp": 7.78,
+      "open": 7.85,
+      "high": 7.9,
+      "low": 7.69,
+      "close": 7.69,
+      "change": -0.09,
+      "pct": -1.157,
+      "volume": 710592
+    },
+    {
+      "sym": "SGPL",
+      "sec_code": "0824",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 40.14,
+      "open": 36.13,
+      "high": 36.13,
+      "low": 36.13,
+      "close": 36.13,
+      "change": -4.01,
+      "pct": -9.99,
+      "volume": 670849
+    },
+    {
+      "sym": "SYM",
+      "sec_code": "0828",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 10.58,
+      "open": 10.65,
+      "high": 10.69,
+      "low": 10.29,
+      "close": 10.3,
+      "change": -0.28,
+      "pct": -2.6470000000000002,
+      "volume": 645085
+    },
+    {
+      "sym": "DFML",
+      "sec_code": "0801",
+      "listed": "ALLSHR",
+      "ldcp": 21.68,
+      "open": 21.68,
+      "high": 21.79,
+      "low": 20.99,
+      "close": 21.07,
+      "change": -0.61,
+      "pct": -2.814,
+      "volume": 604793
+    },
+    {
+      "sym": "HUMNL",
+      "sec_code": "0828",
+      "listed": "ALLSHR,KSE100,KSE100PR",
+      "ldcp": 10.8,
+      "open": 11.0,
+      "high": 11.0,
+      "low": 10.51,
+      "close": 10.6,
+      "change": -0.2,
+      "pct": -1.8519999999999999,
+      "volume": 598666
+    },
+    {
+      "sym": "ASL",
+      "sec_code": "0808",
+      "listed": "ACI,ALLSHR,KMIALLSHR",
+      "ldcp": 12.25,
+      "open": 12.26,
+      "high": 12.39,
+      "low": 11.99,
+      "close": 12.01,
+      "change": -0.24,
+      "pct": -1.959,
+      "volume": 595103
+    },
+    {
+      "sym": "MUGHAL",
+      "sec_code": "0808",
+      "listed": "ACI,ALLSHR,KMIALLSHR",
+      "ldcp": 73.14,
+      "open": 73.82,
+      "high": 74.58,
+      "low": 72.7,
+      "close": 72.7,
+      "change": -0.44,
+      "pct": -0.602,
+      "volume": 580236
+    },
+    {
+      "sym": "BAFL",
+      "sec_code": "0807",
+      "listed": "ALLSHR,BKTI,JSGBKTI,KSE100,KSE100PR,PSXDIV20",
+      "ldcp": 57.57,
+      "open": 57.9,
+      "high": 57.9,
+      "low": 57.0,
+      "close": 57.25,
+      "change": -0.32,
+      "pct": -0.5559999999999999,
+      "volume": 558708
+    },
+    {
+      "sym": "LOTCHEM",
+      "sec_code": "0805",
+      "listed": "ALLSHR,KMIALLSHR,KSE100,KSE100PR",
+      "ldcp": 27.02,
+      "open": 27.15,
+      "high": 27.35,
+      "low": 26.85,
+      "close": 27.1,
+      "change": 0.08,
+      "pct": 0.296,
+      "volume": 557209
     },
     {
       "sym": "SPAC1",
@@ -1116,10 +1129,23 @@
       "open": 14.8,
       "high": 15.1,
       "low": 13.82,
-      "close": 13.85,
-      "change": -0.91,
-      "pct": -6.165,
-      "volume": 514222
+      "close": 13.9,
+      "change": -0.86,
+      "pct": -5.827,
+      "volume": 541823
+    },
+    {
+      "sym": "QUICE",
+      "sec_code": "0810",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 28.89,
+      "open": 29.1,
+      "high": 29.1,
+      "low": 27.8,
+      "close": 28.25,
+      "change": -0.64,
+      "pct": -2.215,
+      "volume": 514788
     },
     {
       "sym": "JSML",
@@ -1129,10 +1155,23 @@
       "open": 75.0,
       "high": 77.0,
       "low": 67.91,
-      "close": 68.06,
-      "change": -6.19,
-      "pct": -8.337,
-      "volume": 506680
+      "close": 68.5,
+      "change": -5.75,
+      "pct": -7.744,
+      "volume": 513319
+    },
+    {
+      "sym": "SEL",
+      "sec_code": "0824",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 35.74,
+      "open": 36.25,
+      "high": 39.31,
+      "low": 33.5,
+      "close": 35.75,
+      "change": 0.01,
+      "pct": 0.027999999999999997,
+      "volume": 509185
     },
     {
       "sym": "TSMF",
@@ -1148,30 +1187,17 @@
       "volume": 504979
     },
     {
-      "sym": "HUMNL",
-      "sec_code": "0828",
-      "listed": "ALLSHR,KSE100,KSE100PR",
-      "ldcp": 10.8,
-      "open": 11.0,
-      "high": 11.0,
-      "low": 10.55,
-      "close": 10.55,
-      "change": -0.25,
-      "pct": -2.315,
-      "volume": 502236
-    },
-    {
-      "sym": "SEL",
-      "sec_code": "0824",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 35.74,
-      "open": 36.25,
-      "high": 39.31,
-      "low": 33.5,
-      "close": 34.5,
-      "change": -1.24,
-      "pct": -3.47,
-      "volume": 497861
+      "sym": "MZNPETF",
+      "sec_code": "0837",
+      "listed": null,
+      "ldcp": 20.25,
+      "open": 20.4,
+      "high": 20.4,
+      "low": 20.2,
+      "close": 20.24,
+      "change": -0.01,
+      "pct": -0.049,
+      "volume": 501000
     },
     {
       "sym": "MDTL",
@@ -1184,20 +1210,20 @@
       "close": 5.68,
       "change": 0.03,
       "pct": 0.5309999999999999,
-      "volume": 497520
+      "volume": 498920
     },
     {
-      "sym": "MZNPETF",
+      "sym": "MIIETF",
       "sec_code": "0837",
       "listed": null,
-      "ldcp": 20.25,
-      "open": 20.4,
-      "high": 20.4,
-      "low": 20.2,
-      "close": 20.2,
-      "change": -0.05,
-      "pct": -0.247,
-      "volume": 495000
+      "ldcp": 16.85,
+      "open": 16.85,
+      "high": 16.96,
+      "low": 16.5,
+      "close": 16.94,
+      "change": 0.09,
+      "pct": 0.534,
+      "volume": 469500
     },
     {
       "sym": "DSIL",
@@ -1210,20 +1236,7 @@
       "close": 9.52,
       "change": 0.21,
       "pct": 2.2560000000000002,
-      "volume": 449629
-    },
-    {
-      "sym": "QUICE",
-      "sec_code": "0810",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 28.89,
-      "open": 29.1,
-      "high": 29.1,
-      "low": 27.8,
-      "close": 27.9,
-      "change": -0.99,
-      "pct": -3.427,
-      "volume": 438182
+      "volume": 452314
     },
     {
       "sym": "AVN",
@@ -1233,10 +1246,10 @@
       "open": 34.65,
       "high": 34.65,
       "low": 33.61,
-      "close": 33.7,
-      "change": -0.51,
-      "pct": -1.4909999999999999,
-      "volume": 435278
+      "close": 34.02,
+      "change": -0.19,
+      "pct": -0.555,
+      "volume": 446343
     },
     {
       "sym": "RICL",
@@ -1249,7 +1262,7 @@
       "close": 11.8,
       "change": -1.06,
       "pct": -8.243,
-      "volume": 433468
+      "volume": 437464
     },
     {
       "sym": "WAVES",
@@ -1259,10 +1272,23 @@
       "open": 10.03,
       "high": 10.1,
       "low": 9.89,
-      "close": 9.89,
-      "change": -0.14,
-      "pct": -1.396,
-      "volume": 426985
+      "close": 9.95,
+      "change": -0.08,
+      "pct": -0.7979999999999999,
+      "volume": 432206
+    },
+    {
+      "sym": "GGL",
+      "sec_code": "0805",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 17.38,
+      "open": 17.55,
+      "high": 17.69,
+      "low": 17.15,
+      "close": 17.19,
+      "change": -0.19,
+      "pct": -1.093,
+      "volume": 429663
     },
     {
       "sym": "ANSM",
@@ -1272,23 +1298,23 @@
       "open": 13.0,
       "high": 13.93,
       "low": 12.67,
-      "close": 13.26,
-      "change": 0.6,
-      "pct": 4.739,
-      "volume": 425513
+      "close": 13.46,
+      "change": 0.8,
+      "pct": 6.319,
+      "volume": 429513
     },
     {
-      "sym": "MIIETF",
-      "sec_code": "0837",
-      "listed": null,
-      "ldcp": 16.85,
-      "open": 16.85,
-      "high": 16.95,
-      "low": 16.5,
-      "close": 16.95,
-      "change": 0.1,
-      "pct": 0.5930000000000001,
-      "volume": 414500
+      "sym": "SYS",
+      "sec_code": "0828",
+      "listed": "ALLSHR,KMI30,KMIALLSHR,KSE100,KSE100PR,KSE30,MII30,NBPPGI,NITPGI,UPP9",
+      "ldcp": 151.81,
+      "open": 152.41,
+      "high": 152.8,
+      "low": 150.05,
+      "close": 151.0,
+      "change": -0.81,
+      "pct": -0.534,
+      "volume": 426508
     },
     {
       "sym": "FCSC",
@@ -1301,20 +1327,7 @@
       "close": 4.75,
       "change": 0.05,
       "pct": 1.064,
-      "volume": 401088
-    },
-    {
-      "sym": "DFSM",
-      "sec_code": "0830",
-      "listed": "ALLSHR",
-      "ldcp": 18.1,
-      "open": 18.09,
-      "high": 18.09,
-      "low": 17.0,
-      "close": 17.15,
-      "change": -0.95,
-      "pct": -5.2490000000000006,
-      "volume": 386405
+      "volume": 401093
     },
     {
       "sym": "SAIF",
@@ -1324,10 +1337,23 @@
       "open": 34.8,
       "high": 34.8,
       "low": 31.66,
-      "close": 33.5,
-      "change": 1.86,
-      "pct": 5.8790000000000004,
-      "volume": 379523
+      "close": 34.4,
+      "change": 2.76,
+      "pct": 8.723,
+      "volume": 394526
+    },
+    {
+      "sym": "DFSM",
+      "sec_code": "0830",
+      "listed": "ALLSHR",
+      "ldcp": 18.1,
+      "open": 18.09,
+      "high": 18.09,
+      "low": 17.0,
+      "close": 17.17,
+      "change": -0.93,
+      "pct": -5.138,
+      "volume": 387805
     },
     {
       "sym": "LOADS",
@@ -1337,23 +1363,10 @@
       "open": 13.3,
       "high": 13.3,
       "low": 13.1,
-      "close": 13.12,
-      "change": -0.12,
-      "pct": -0.906,
-      "volume": 377649
-    },
-    {
-      "sym": "SYS",
-      "sec_code": "0828",
-      "listed": "ALLSHR,KMI30,KMIALLSHR,KSE100,KSE100PR,KSE30,MII30,NBPPGI,NITPGI,UPP9",
-      "ldcp": 151.81,
-      "open": 152.41,
-      "high": 152.8,
-      "low": 150.05,
-      "close": 151.33,
-      "change": -0.48,
-      "pct": -0.316,
-      "volume": 375593
+      "close": 13.15,
+      "change": -0.09,
+      "pct": -0.6799999999999999,
+      "volume": 384766
     },
     {
       "sym": "NETSOL",
@@ -1363,23 +1376,10 @@
       "open": 131.51,
       "high": 131.89,
       "low": 127.25,
-      "close": 127.6,
-      "change": -3.32,
-      "pct": -2.536,
-      "volume": 362140
-    },
-    {
-      "sym": "GGL",
-      "sec_code": "0805",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 17.38,
-      "open": 17.55,
-      "high": 17.69,
-      "low": 17.15,
-      "close": 17.16,
-      "change": -0.22,
-      "pct": -1.266,
-      "volume": 359640
+      "close": 127.5,
+      "change": -3.42,
+      "pct": -2.612,
+      "volume": 374077
     },
     {
       "sym": "HCAR",
@@ -1389,10 +1389,10 @@
       "open": 227.95,
       "high": 227.95,
       "low": 222.99,
-      "close": 223.1,
-      "change": -2.12,
-      "pct": -0.941,
-      "volume": 357450
+      "close": 223.5,
+      "change": -1.72,
+      "pct": -0.764,
+      "volume": 359526
     },
     {
       "sym": "NRSL",
@@ -1402,10 +1402,10 @@
       "open": 33.5,
       "high": 35.77,
       "low": 33.05,
-      "close": 35.5,
-      "change": 2.49,
-      "pct": 7.542999999999999,
-      "volume": 346214
+      "close": 35.69,
+      "change": 2.68,
+      "pct": 8.119,
+      "volume": 351872
     },
     {
       "sym": "WAHDAT",
@@ -1415,23 +1415,10 @@
       "open": 19.8,
       "high": 19.89,
       "low": 19.06,
-      "close": 19.26,
-      "change": -0.61,
-      "pct": -3.0700000000000003,
-      "volume": 342409
-    },
-    {
-      "sym": "AMTEX",
-      "sec_code": "0830",
-      "listed": "ALLSHR",
-      "ldcp": 4.6,
-      "open": 4.7,
-      "high": 4.7,
-      "low": 4.52,
-      "close": 4.56,
-      "change": -0.04,
-      "pct": -0.8699999999999999,
-      "volume": 339996
+      "close": 19.3,
+      "change": -0.57,
+      "pct": -2.869,
+      "volume": 349563
     },
     {
       "sym": "HTL",
@@ -1441,114 +1428,10 @@
       "open": 42.6,
       "high": 43.0,
       "low": 41.0,
-      "close": 41.25,
-      "change": -1.69,
-      "pct": -3.936,
-      "volume": 338923
-    },
-    {
-      "sym": "BLUEX",
-      "sec_code": "0833",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 6.58,
-      "open": 6.6,
-      "high": 7.11,
-      "low": 6.23,
-      "close": 6.37,
-      "change": -0.21,
-      "pct": -3.1910000000000003,
-      "volume": 313949
-    },
-    {
-      "sym": "SLGL",
-      "sec_code": "0833",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 15.12,
-      "open": 15.2,
-      "high": 15.25,
-      "low": 14.81,
-      "close": 14.95,
-      "change": -0.17,
-      "pct": -1.124,
-      "volume": 307833
-    },
-    {
-      "sym": "ZAL",
-      "sec_code": "0828",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 44.52,
-      "open": 45.25,
-      "high": 45.25,
-      "low": 43.51,
-      "close": 43.81,
-      "change": -0.71,
-      "pct": -1.595,
-      "volume": 305612
-    },
-    {
-      "sym": "INKL",
-      "sec_code": "0839",
-      "listed": "ALLSHR",
-      "ldcp": 82.9,
-      "open": 83.2,
-      "high": 86.0,
-      "low": 78.0,
-      "close": 80.0,
-      "change": -2.9,
-      "pct": -3.4979999999999998,
-      "volume": 303075
-    },
-    {
-      "sym": "GDL",
-      "sec_code": "0810",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 20.0,
-      "open": 20.1,
-      "high": 20.29,
-      "low": 19.92,
-      "close": 20.0,
-      "change": 0.0,
-      "pct": 0.0,
-      "volume": 297633
-    },
-    {
-      "sym": "TPLRF1",
-      "sec_code": "0836",
-      "listed": "ALLSHR,KMIALLSHR,KSE100,KSE100PR",
-      "ldcp": 8.0,
-      "open": 8.13,
-      "high": 8.13,
-      "low": 7.85,
-      "close": 7.9,
-      "change": -0.1,
-      "pct": -1.25,
-      "volume": 293200
-    },
-    {
-      "sym": "MSCL",
-      "sec_code": "0808",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 29.65,
-      "open": 30.22,
-      "high": 31.39,
-      "low": 29.01,
-      "close": 29.35,
-      "change": -0.3,
-      "pct": -1.012,
-      "volume": 292402
-    },
-    {
-      "sym": "WASL",
-      "sec_code": "0819",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 4.77,
-      "open": 4.85,
-      "high": 4.85,
-      "low": 4.63,
-      "close": 4.64,
-      "change": -0.13,
-      "pct": -2.725,
-      "volume": 287532
+      "close": 41.14,
+      "change": -1.8,
+      "pct": -4.192,
+      "volume": 342939
     },
     {
       "sym": "ASC",
@@ -1561,7 +1444,150 @@
       "close": 10.85,
       "change": -0.16,
       "pct": -1.4529999999999998,
-      "volume": 287415
+      "volume": 340233
+    },
+    {
+      "sym": "AMTEX",
+      "sec_code": "0830",
+      "listed": "ALLSHR",
+      "ldcp": 4.6,
+      "open": 4.7,
+      "high": 4.7,
+      "low": 4.52,
+      "close": 4.57,
+      "change": -0.03,
+      "pct": -0.652,
+      "volume": 340048
+    },
+    {
+      "sym": "ZAL",
+      "sec_code": "0828",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 44.52,
+      "open": 45.25,
+      "high": 45.25,
+      "low": 43.51,
+      "close": 43.95,
+      "change": -0.57,
+      "pct": -1.28,
+      "volume": 329576
+    },
+    {
+      "sym": "BLUEX",
+      "sec_code": "0833",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 6.58,
+      "open": 6.6,
+      "high": 7.11,
+      "low": 6.23,
+      "close": 6.35,
+      "change": -0.23,
+      "pct": -3.495,
+      "volume": 315949
+    },
+    {
+      "sym": "SLGL",
+      "sec_code": "0833",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 15.12,
+      "open": 15.2,
+      "high": 15.25,
+      "low": 14.81,
+      "close": 14.95,
+      "change": -0.17,
+      "pct": -1.124,
+      "volume": 313591
+    },
+    {
+      "sym": "GDL",
+      "sec_code": "0810",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 20.0,
+      "open": 20.1,
+      "high": 20.29,
+      "low": 19.92,
+      "close": 19.99,
+      "change": -0.01,
+      "pct": -0.05,
+      "volume": 306421
+    },
+    {
+      "sym": "INKL",
+      "sec_code": "0839",
+      "listed": "ALLSHR",
+      "ldcp": 82.9,
+      "open": 83.2,
+      "high": 86.0,
+      "low": 78.0,
+      "close": 82.99,
+      "change": 0.09,
+      "pct": 0.109,
+      "volume": 303080
+    },
+    {
+      "sym": "MSCL",
+      "sec_code": "0808",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 29.65,
+      "open": 30.22,
+      "high": 31.39,
+      "low": 29.01,
+      "close": 29.15,
+      "change": -0.5,
+      "pct": -1.686,
+      "volume": 297570
+    },
+    {
+      "sym": "TPLRF1",
+      "sec_code": "0836",
+      "listed": "ALLSHR,KMIALLSHR,KSE100,KSE100PR",
+      "ldcp": 8.0,
+      "open": 8.13,
+      "high": 8.13,
+      "low": 7.85,
+      "close": 7.9,
+      "change": -0.1,
+      "pct": -1.25,
+      "volume": 293254
+    },
+    {
+      "sym": "WASL",
+      "sec_code": "0819",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 4.77,
+      "open": 4.85,
+      "high": 4.85,
+      "low": 4.63,
+      "close": 4.64,
+      "change": -0.13,
+      "pct": -2.725,
+      "volume": 291995
+    },
+    {
+      "sym": "KOIL",
+      "sec_code": "0829",
+      "listed": "ALLSHR",
+      "ldcp": 48.76,
+      "open": 49.0,
+      "high": 49.0,
+      "low": 46.4,
+      "close": 46.94,
+      "change": -1.82,
+      "pct": -3.733,
+      "volume": 285689
+    },
+    {
+      "sym": "MARI",
+      "sec_code": "0820",
+      "listed": "ALLSHR,KMI30,KMIALLSHR,KSE100,KSE100PR,KSE30,MII30,MZNPI,NBPPGI,NITPGI,OGTI",
+      "ldcp": 647.43,
+      "open": 654.0,
+      "high": 654.0,
+      "low": 642.0,
+      "close": 643.95,
+      "change": -3.48,
+      "pct": -0.538,
+      "volume": 283764
     },
     {
       "sym": "POL",
@@ -1571,10 +1597,10 @@
       "open": 660.99,
       "high": 660.99,
       "low": 657.0,
-      "close": 657.1,
-      "change": -1.53,
-      "pct": -0.232,
-      "volume": 268519
+      "close": 657.99,
+      "change": -0.64,
+      "pct": -0.097,
+      "volume": 269350
     },
     {
       "sym": "THCCL",
@@ -1587,20 +1613,7 @@
       "close": 52.2,
       "change": -0.2,
       "pct": -0.382,
-      "volume": 264990
-    },
-    {
-      "sym": "KOIL",
-      "sec_code": "0829",
-      "listed": "ALLSHR",
-      "ldcp": 48.76,
-      "open": 49.0,
-      "high": 49.0,
-      "low": 46.4,
-      "close": 46.5,
-      "change": -2.26,
-      "pct": -4.635,
-      "volume": 264484
+      "volume": 265493
     },
     {
       "sym": "SNBL",
@@ -1610,23 +1623,10 @@
       "open": 19.6,
       "high": 19.74,
       "low": 19.24,
-      "close": 19.43,
-      "change": 0.0,
-      "pct": 0.0,
-      "volume": 263291
-    },
-    {
-      "sym": "MARI",
-      "sec_code": "0820",
-      "listed": "ALLSHR,KMI30,KMIALLSHR,KSE100,KSE100PR,KSE30,MII30,MZNPI,NBPPGI,NITPGI,OGTI",
-      "ldcp": 647.43,
-      "open": 654.0,
-      "high": 654.0,
-      "low": 643.0,
-      "close": 643.0,
-      "change": -4.43,
-      "pct": -0.6839999999999999,
-      "volume": 255168
+      "close": 19.42,
+      "change": -0.01,
+      "pct": -0.051000000000000004,
+      "volume": 263644
     },
     {
       "sym": "CHBL",
@@ -1636,23 +1636,10 @@
       "open": 9.09,
       "high": 9.18,
       "low": 8.81,
-      "close": 9.09,
-      "change": 0.12,
-      "pct": 1.3379999999999999,
-      "volume": 254575
-    },
-    {
-      "sym": "IMAGE",
-      "sec_code": "0839",
-      "listed": "ALLSHR,KMIALLSHR,PSXDIV20",
-      "ldcp": 24.03,
-      "open": 24.0,
-      "high": 24.25,
-      "low": 23.8,
-      "close": 24.08,
-      "change": 0.05,
-      "pct": 0.208,
-      "volume": 244011
+      "close": 9.05,
+      "change": 0.08,
+      "pct": 0.8920000000000001,
+      "volume": 254715
     },
     {
       "sym": "GCIL",
@@ -1662,23 +1649,23 @@
       "open": 27.85,
       "high": 27.86,
       "low": 27.06,
-      "close": 27.5,
-      "change": 0.06,
-      "pct": 0.219,
-      "volume": 239344
+      "close": 27.37,
+      "change": -0.07,
+      "pct": -0.255,
+      "volume": 250834
     },
     {
-      "sym": "BAHL",
-      "sec_code": "0807",
-      "listed": "ALLSHR,BKTI,JSGBKTI,KSE100,KSE100PR,NBPPGI,NITPGI,PSXDIV20",
-      "ldcp": 165.3,
-      "open": 166.9,
-      "high": 167.0,
-      "low": 163.42,
-      "close": 165.25,
-      "change": -0.05,
-      "pct": -0.03,
-      "volume": 227801
+      "sym": "IMAGE",
+      "sec_code": "0839",
+      "listed": "ALLSHR,KMIALLSHR,PSXDIV20",
+      "ldcp": 24.03,
+      "open": 24.0,
+      "high": 24.25,
+      "low": 23.8,
+      "close": 24.01,
+      "change": -0.02,
+      "pct": -0.083,
+      "volume": 244421
     },
     {
       "sym": "FABL",
@@ -1688,374 +1675,10 @@
       "open": 87.52,
       "high": 88.25,
       "low": 87.0,
-      "close": 87.42,
-      "change": 0.01,
-      "pct": 0.011000000000000001,
-      "volume": 225450
-    },
-    {
-      "sym": "DCR",
-      "sec_code": "0836",
-      "listed": "ALLSHR,KMIALLSHR,KSE100,KSE100PR",
-      "ldcp": 36.02,
-      "open": 36.1,
-      "high": 36.17,
-      "low": 35.95,
-      "close": 36.03,
-      "change": 0.01,
-      "pct": 0.027999999999999997,
-      "volume": 224500
-    },
-    {
-      "sym": "IREIT",
-      "sec_code": "0836",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 8.1,
-      "open": 8.14,
-      "high": 8.14,
-      "low": 7.95,
-      "close": 8.02,
-      "change": -0.08,
-      "pct": -0.988,
-      "volume": 224027
-    },
-    {
-      "sym": "JSBL",
-      "sec_code": "0807",
-      "listed": "ALLSHR",
-      "ldcp": 11.54,
-      "open": 11.55,
-      "high": 11.55,
-      "low": 11.3,
-      "close": 11.32,
-      "change": -0.22,
-      "pct": -1.9060000000000001,
-      "volume": 218623
-    },
-    {
-      "sym": "NRL",
-      "sec_code": "0825",
-      "listed": "ALLSHR,JSMFI,KMI30,KMIALLSHR,KSE30",
-      "ldcp": 378.7,
-      "open": 380.0,
-      "high": 382.4,
-      "low": 375.15,
-      "close": 375.15,
-      "change": -3.55,
-      "pct": -0.9369999999999999,
-      "volume": 216896
-    },
-    {
-      "sym": "BIPL",
-      "sec_code": "0807",
-      "listed": "ALLSHR,KMIALLSHR,PSXDIV20",
-      "ldcp": 25.0,
-      "open": 25.2,
-      "high": 25.46,
-      "low": 24.93,
-      "close": 25.04,
-      "change": 0.04,
-      "pct": 0.16,
-      "volume": 212194
-    },
-    {
-      "sym": "FATIMA",
-      "sec_code": "0809",
-      "listed": "ALLSHR,KMIALLSHR,KSE100,KSE100PR,MII30,PSXDIV20",
-      "ldcp": 136.77,
-      "open": 138.0,
-      "high": 138.0,
-      "low": 135.12,
-      "close": 135.9,
-      "change": -0.87,
-      "pct": -0.636,
-      "volume": 210870
-    },
-    {
-      "sym": "ITTEFAQ",
-      "sec_code": "0808",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 8.09,
-      "open": 8.01,
-      "high": 8.09,
-      "low": 7.98,
-      "close": 7.98,
+      "close": 87.3,
       "change": -0.11,
-      "pct": -1.3599999999999999,
-      "volume": 209130
-    },
-    {
-      "sym": "SGF",
-      "sec_code": "0816",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 126.4,
-      "open": 127.5,
-      "high": 127.5,
-      "low": 124.52,
-      "close": 125.02,
-      "change": -1.38,
-      "pct": -1.0919999999999999,
-      "volume": 206661
-    },
-    {
-      "sym": "TCORPCPS",
-      "sec_code": "0826",
-      "listed": "ALLSHR",
-      "ldcp": 13.48,
-      "open": 13.3,
-      "high": 13.3,
-      "low": 12.13,
-      "close": 12.14,
-      "change": -1.34,
-      "pct": -9.940999999999999,
-      "volume": 202362
-    },
-    {
-      "sym": "BML",
-      "sec_code": "0807",
-      "listed": "ALLSHR",
-      "ldcp": 52.53,
-      "open": 52.5,
-      "high": 52.99,
-      "low": 51.66,
-      "close": 51.77,
-      "change": -0.76,
-      "pct": -1.447,
-      "volume": 199898
-    },
-    {
-      "sym": "KAPCO",
-      "sec_code": "0824",
-      "listed": "ALLSHR,KSE100,KSE100PR",
-      "ldcp": 27.13,
-      "open": 27.13,
-      "high": 27.21,
-      "low": 27.02,
-      "close": 27.1,
-      "change": -0.03,
-      "pct": -0.11100000000000002,
-      "volume": 192259
-    },
-    {
-      "sym": "IML",
-      "sec_code": "0813",
-      "listed": "ALLSHR",
-      "ldcp": 23.66,
-      "open": 24.89,
-      "high": 26.02,
-      "low": 22.0,
-      "close": 23.0,
-      "change": -0.66,
-      "pct": -2.79,
-      "volume": 188566
-    },
-    {
-      "sym": "PIOC",
-      "sec_code": "0804",
-      "listed": "ALLSHR,KMIALLSHR,KSE100,KSE100PR,MII30",
-      "ldcp": 264.84,
-      "open": 268.05,
-      "high": 273.49,
-      "low": 262.0,
-      "close": 271.0,
-      "change": 6.16,
-      "pct": 2.326,
-      "volume": 175941
-    },
-    {
-      "sym": "AICL",
-      "sec_code": "0812",
-      "listed": "ALLSHR,KSE100,KSE100PR",
-      "ldcp": 72.99,
-      "open": 73.0,
-      "high": 74.5,
-      "low": 71.55,
-      "close": 72.6,
-      "change": -0.39,
-      "pct": -0.534,
-      "volume": 175823
-    },
-    {
-      "sym": "TRSM",
-      "sec_code": "0819",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 16.24,
-      "open": 16.56,
-      "high": 16.9,
-      "low": 16.0,
-      "close": 16.05,
-      "change": -0.19,
-      "pct": -1.17,
-      "volume": 170111
-    },
-    {
-      "sym": "PIL",
-      "sec_code": "0812",
-      "listed": "ALLSHR",
-      "ldcp": 5.82,
-      "open": 5.71,
-      "high": 5.84,
-      "low": 5.52,
-      "close": 5.62,
-      "change": -0.2,
-      "pct": -3.436,
-      "volume": 165616
-    },
-    {
-      "sym": "DOL",
-      "sec_code": "0805",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 31.84,
-      "open": 31.8,
-      "high": 32.19,
-      "low": 31.2,
-      "close": 31.5,
-      "change": -0.34,
-      "pct": -1.068,
-      "volume": 164979
-    },
-    {
-      "sym": "AKDSL",
-      "sec_code": "0813",
-      "listed": "ALLSHR",
-      "ldcp": 33.19,
-      "open": 33.4,
-      "high": 33.4,
-      "low": 31.76,
-      "close": 32.0,
-      "change": -1.19,
-      "pct": -3.585,
-      "volume": 163447
-    },
-    {
-      "sym": "FML",
-      "sec_code": "0829",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 52.25,
-      "open": 54.0,
-      "high": 56.9,
-      "low": 51.1,
-      "close": 54.8,
-      "change": 2.55,
-      "pct": 4.88,
-      "volume": 162468
-    },
-    {
-      "sym": "STPL",
-      "sec_code": "0818",
-      "listed": "ALLSHR",
-      "ldcp": 7.51,
-      "open": 7.65,
-      "high": 7.65,
-      "low": 7.3,
-      "close": 7.33,
-      "change": -0.18,
-      "pct": -2.3970000000000002,
-      "volume": 157348
-    },
-    {
-      "sym": "MTL",
-      "sec_code": "0801",
-      "listed": "ACI,ALLSHR,KMI30,KMIALLSHR,KSE100,KSE100PR,MII30,PSXDIV20",
-      "ldcp": 554.58,
-      "open": 557.0,
-      "high": 558.99,
-      "low": 547.5,
-      "close": 548.5,
-      "change": -6.08,
-      "pct": -1.0959999999999999,
-      "volume": 154906
-    },
-    {
-      "sym": "ESBL",
-      "sec_code": "0813",
-      "listed": "ALLSHR",
-      "ldcp": 12.78,
-      "open": 12.98,
-      "high": 12.98,
-      "low": 12.1,
-      "close": 12.43,
-      "change": -0.35,
-      "pct": -2.7390000000000003,
-      "volume": 154578
-    },
-    {
-      "sym": "FDPL",
-      "sec_code": "0813",
-      "listed": "ALLSHR",
-      "ldcp": 4.67,
-      "open": 4.67,
-      "high": 4.74,
-      "low": 4.6,
-      "close": 4.63,
-      "change": -0.04,
-      "pct": -0.857,
-      "volume": 154524
-    },
-    {
-      "sym": "STL",
-      "sec_code": "0828",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 53.86,
-      "open": 53.99,
-      "high": 54.19,
-      "low": 52.99,
-      "close": 53.0,
-      "change": -0.86,
-      "pct": -1.5970000000000002,
-      "volume": 152510
-    },
-    {
-      "sym": "JVDC",
-      "sec_code": "0838",
-      "listed": "ALLSHR,KMIALLSHR,KSE100,KSE100PR,PSXDIV20",
-      "ldcp": 134.32,
-      "open": 135.49,
-      "high": 135.49,
-      "low": 132.0,
-      "close": 132.74,
-      "change": -1.58,
-      "pct": -1.176,
-      "volume": 146467
-    },
-    {
-      "sym": "TGL",
-      "sec_code": "0811",
-      "listed": "ALLSHR,KMIALLSHR,KSE100,KSE100PR",
-      "ldcp": 160.28,
-      "open": 161.98,
-      "high": 170.48,
-      "low": 157.75,
-      "close": 167.0,
-      "change": 6.72,
-      "pct": 4.1930000000000005,
-      "volume": 146366
-    },
-    {
-      "sym": "IDYM",
-      "sec_code": "0830",
-      "listed": "ALLSHR",
-      "ldcp": 152.75,
-      "open": 155.0,
-      "high": 158.7,
-      "low": 141.0,
-      "close": 143.0,
-      "change": -9.75,
-      "pct": -6.383,
-      "volume": 145119
-    },
-    {
-      "sym": "GLAXO",
-      "sec_code": "0823",
-      "listed": "ACI,ALLSHR,KMI30,KMIALLSHR,KSE100,KSE100PR,MII30",
-      "ldcp": 339.88,
-      "open": 342.99,
-      "high": 342.99,
-      "low": 335.6,
-      "close": 337.5,
-      "change": -2.38,
-      "pct": -0.7000000000000001,
-      "volume": 143261
+      "pct": -0.126,
+      "volume": 240214
     },
     {
       "sym": "JSMFETF",
@@ -2068,46 +1691,332 @@
       "close": 10.19,
       "change": -0.07,
       "pct": -0.6819999999999999,
-      "volume": 139500
+      "volume": 237500
     },
     {
-      "sym": "BWHL",
-      "sec_code": "0802",
+      "sym": "DCR",
+      "sec_code": "0836",
+      "listed": "ALLSHR,KMIALLSHR,KSE100,KSE100PR",
+      "ldcp": 36.02,
+      "open": 36.1,
+      "high": 36.17,
+      "low": 35.95,
+      "close": 36.01,
+      "change": -0.01,
+      "pct": -0.027999999999999997,
+      "volume": 232410
+    },
+    {
+      "sym": "NRL",
+      "sec_code": "0825",
+      "listed": "ALLSHR,JSMFI,KMI30,KMIALLSHR,KSE30",
+      "ldcp": 378.7,
+      "open": 380.0,
+      "high": 382.4,
+      "low": 375.15,
+      "close": 376.0,
+      "change": -2.7,
+      "pct": -0.713,
+      "volume": 231460
+    },
+    {
+      "sym": "IREIT",
+      "sec_code": "0836",
       "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 200.57,
-      "open": 203.1,
-      "high": 218.0,
-      "low": 202.08,
-      "close": 217.49,
-      "change": 16.92,
-      "pct": 8.436,
-      "volume": 136077
+      "ldcp": 8.1,
+      "open": 8.14,
+      "high": 8.14,
+      "low": 7.95,
+      "close": 8.03,
+      "change": -0.07,
+      "pct": -0.864,
+      "volume": 231336
     },
     {
-      "sym": "IGIHL",
+      "sym": "SGF",
+      "sec_code": "0816",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 126.4,
+      "open": 127.5,
+      "high": 127.5,
+      "low": 124.52,
+      "close": 125.0,
+      "change": -1.4,
+      "pct": -1.1079999999999999,
+      "volume": 229886
+    },
+    {
+      "sym": "BAHL",
+      "sec_code": "0807",
+      "listed": "ALLSHR,BKTI,JSGBKTI,KSE100,KSE100PR,NBPPGI,NITPGI,PSXDIV20",
+      "ldcp": 165.3,
+      "open": 166.9,
+      "high": 167.0,
+      "low": 163.42,
+      "close": 163.8,
+      "change": -1.5,
+      "pct": -0.907,
+      "volume": 228381
+    },
+    {
+      "sym": "TCORPCPS",
+      "sec_code": "0826",
+      "listed": "ALLSHR",
+      "ldcp": 13.48,
+      "open": 13.3,
+      "high": 13.3,
+      "low": 12.13,
+      "close": 12.13,
+      "change": -1.35,
+      "pct": -10.015,
+      "volume": 223918
+    },
+    {
+      "sym": "ITTEFAQ",
+      "sec_code": "0808",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 8.09,
+      "open": 8.01,
+      "high": 8.09,
+      "low": 7.95,
+      "close": 7.95,
+      "change": -0.14,
+      "pct": -1.7309999999999999,
+      "volume": 223130
+    },
+    {
+      "sym": "DOL",
+      "sec_code": "0805",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 31.84,
+      "open": 31.8,
+      "high": 32.19,
+      "low": 31.2,
+      "close": 31.75,
+      "change": -0.09,
+      "pct": -0.28300000000000003,
+      "volume": 221962
+    },
+    {
+      "sym": "FATIMA",
+      "sec_code": "0809",
+      "listed": "ALLSHR,KMIALLSHR,KSE100,KSE100PR,MII30,PSXDIV20",
+      "ldcp": 136.77,
+      "open": 138.0,
+      "high": 138.0,
+      "low": 135.12,
+      "close": 135.89,
+      "change": -0.88,
+      "pct": -0.643,
+      "volume": 220362
+    },
+    {
+      "sym": "BIPL",
+      "sec_code": "0807",
+      "listed": "ALLSHR,KMIALLSHR,PSXDIV20",
+      "ldcp": 25.0,
+      "open": 25.2,
+      "high": 25.46,
+      "low": 24.93,
+      "close": 25.1,
+      "change": 0.1,
+      "pct": 0.4,
+      "volume": 219520
+    },
+    {
+      "sym": "JSBL",
+      "sec_code": "0807",
+      "listed": "ALLSHR",
+      "ldcp": 11.54,
+      "open": 11.55,
+      "high": 11.55,
+      "low": 11.3,
+      "close": 11.45,
+      "change": -0.09,
+      "pct": -0.7799999999999999,
+      "volume": 218725
+    },
+    {
+      "sym": "BML",
+      "sec_code": "0807",
+      "listed": "ALLSHR",
+      "ldcp": 52.53,
+      "open": 52.5,
+      "high": 52.99,
+      "low": 51.66,
+      "close": 51.99,
+      "change": -0.54,
+      "pct": -1.028,
+      "volume": 203898
+    },
+    {
+      "sym": "KAPCO",
+      "sec_code": "0824",
+      "listed": "ALLSHR,KSE100,KSE100PR",
+      "ldcp": 27.13,
+      "open": 27.13,
+      "high": 27.21,
+      "low": 27.02,
+      "close": 27.06,
+      "change": -0.07,
+      "pct": -0.258,
+      "volume": 195790
+    },
+    {
+      "sym": "IML",
+      "sec_code": "0813",
+      "listed": "ALLSHR",
+      "ldcp": 23.66,
+      "open": 24.89,
+      "high": 26.02,
+      "low": 22.0,
+      "close": 25.8,
+      "change": 2.14,
+      "pct": 9.045,
+      "volume": 188576
+    },
+    {
+      "sym": "AICL",
+      "sec_code": "0812",
+      "listed": "ALLSHR,KSE100,KSE100PR",
+      "ldcp": 72.99,
+      "open": 73.0,
+      "high": 74.5,
+      "low": 71.55,
+      "close": 72.4,
+      "change": -0.59,
+      "pct": -0.808,
+      "volume": 188280
+    },
+    {
+      "sym": "PIOC",
+      "sec_code": "0804",
+      "listed": "ALLSHR,KMIALLSHR,KSE100,KSE100PR,MII30",
+      "ldcp": 264.84,
+      "open": 268.05,
+      "high": 273.49,
+      "low": 262.0,
+      "close": 270.95,
+      "change": 6.11,
+      "pct": 2.307,
+      "volume": 187908
+    },
+    {
+      "sym": "FDPL",
+      "sec_code": "0813",
+      "listed": "ALLSHR",
+      "ldcp": 4.67,
+      "open": 4.67,
+      "high": 4.74,
+      "low": 4.32,
+      "close": 4.61,
+      "change": -0.06,
+      "pct": -1.2850000000000001,
+      "volume": 181525
+    },
+    {
+      "sym": "TRSM",
+      "sec_code": "0819",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 16.24,
+      "open": 16.56,
+      "high": 16.9,
+      "low": 16.0,
+      "close": 16.01,
+      "change": -0.23,
+      "pct": -1.4160000000000001,
+      "volume": 181181
+    },
+    {
+      "sym": "FML",
+      "sec_code": "0829",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 52.25,
+      "open": 54.0,
+      "high": 56.9,
+      "low": 51.1,
+      "close": 53.0,
+      "change": 0.75,
+      "pct": 1.435,
+      "volume": 174295
+    },
+    {
+      "sym": "AKDSL",
+      "sec_code": "0813",
+      "listed": "ALLSHR",
+      "ldcp": 33.19,
+      "open": 33.4,
+      "high": 33.4,
+      "low": 31.76,
+      "close": 32.01,
+      "change": -1.18,
+      "pct": -3.5549999999999997,
+      "volume": 168147
+    },
+    {
+      "sym": "PIL",
       "sec_code": "0812",
       "listed": "ALLSHR",
-      "ldcp": 235.18,
-      "open": 239.99,
-      "high": 239.99,
-      "low": 230.11,
-      "close": 234.99,
-      "change": -0.19,
-      "pct": -0.08099999999999999,
-      "volume": 132363
+      "ldcp": 5.82,
+      "open": 5.71,
+      "high": 5.84,
+      "low": 5.52,
+      "close": 5.62,
+      "change": -0.2,
+      "pct": -3.436,
+      "volume": 166821
     },
     {
-      "sym": "RPL",
-      "sec_code": "0822",
+      "sym": "GAL",
+      "sec_code": "0801",
+      "listed": "ALLSHR,JSMFI,KMI30,KMIALLSHR,KSE100,KSE100PR,KSE30",
+      "ldcp": 441.49,
+      "open": 442.79,
+      "high": 442.99,
+      "low": 429.0,
+      "close": 434.95,
+      "change": -6.54,
+      "pct": -1.481,
+      "volume": 164569
+    },
+    {
+      "sym": "STPL",
+      "sec_code": "0818",
+      "listed": "ALLSHR",
+      "ldcp": 7.51,
+      "open": 7.65,
+      "high": 7.65,
+      "low": 7.3,
+      "close": 7.44,
+      "change": -0.07,
+      "pct": -0.932,
+      "volume": 162354
+    },
+    {
+      "sym": "MTL",
+      "sec_code": "0801",
+      "listed": "ACI,ALLSHR,KMI30,KMIALLSHR,KSE100,KSE100PR,MII30,PSXDIV20",
+      "ldcp": 554.58,
+      "open": 557.0,
+      "high": 558.99,
+      "low": 547.5,
+      "close": 547.99,
+      "change": -6.59,
+      "pct": -1.188,
+      "volume": 158088
+    },
+    {
+      "sym": "STL",
+      "sec_code": "0828",
       "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 15.7,
-      "open": 16.0,
-      "high": 16.28,
-      "low": 15.65,
-      "close": 15.88,
-      "change": 0.18,
-      "pct": 1.146,
-      "volume": 125280
+      "ldcp": 53.86,
+      "open": 53.99,
+      "high": 54.19,
+      "low": 52.9,
+      "close": 52.98,
+      "change": -0.88,
+      "pct": -1.6340000000000001,
+      "volume": 157360
     },
     {
       "sym": "ANL",
@@ -2117,10 +2026,62 @@
       "open": 10.08,
       "high": 10.4,
       "low": 10.0,
-      "close": 10.15,
-      "change": 0.01,
-      "pct": 0.099,
-      "volume": 124074
+      "close": 10.23,
+      "change": 0.09,
+      "pct": 0.8880000000000001,
+      "volume": 154730
+    },
+    {
+      "sym": "ESBL",
+      "sec_code": "0813",
+      "listed": "ALLSHR",
+      "ldcp": 12.78,
+      "open": 12.98,
+      "high": 12.98,
+      "low": 12.1,
+      "close": 12.43,
+      "change": -0.35,
+      "pct": -2.7390000000000003,
+      "volume": 154579
+    },
+    {
+      "sym": "TGL",
+      "sec_code": "0811",
+      "listed": "ALLSHR,KMIALLSHR,KSE100,KSE100PR",
+      "ldcp": 160.28,
+      "open": 161.98,
+      "high": 170.48,
+      "low": 157.75,
+      "close": 167.0,
+      "change": 6.72,
+      "pct": 4.1930000000000005,
+      "volume": 152943
+    },
+    {
+      "sym": "JVDC",
+      "sec_code": "0838",
+      "listed": "ALLSHR,KMIALLSHR,KSE100,KSE100PR,PSXDIV20",
+      "ldcp": 134.32,
+      "open": 135.49,
+      "high": 135.49,
+      "low": 132.0,
+      "close": 132.7,
+      "change": -1.62,
+      "pct": -1.206,
+      "volume": 150437
+    },
+    {
+      "sym": "GLAXO",
+      "sec_code": "0823",
+      "listed": "ACI,ALLSHR,KMI30,KMIALLSHR,KSE100,KSE100PR,MII30",
+      "ldcp": 339.88,
+      "open": 342.99,
+      "high": 342.99,
+      "low": 335.6,
+      "close": 336.0,
+      "change": -3.88,
+      "pct": -1.142,
+      "volume": 148803
     },
     {
       "sym": "CHCC",
@@ -2129,11 +2090,89 @@
       "ldcp": 278.82,
       "open": 283.98,
       "high": 283.98,
-      "low": 274.15,
-      "close": 274.15,
-      "change": -4.67,
-      "pct": -1.675,
-      "volume": 123518
+      "low": 274.0,
+      "close": 274.0,
+      "change": -4.82,
+      "pct": -1.729,
+      "volume": 146494
+    },
+    {
+      "sym": "IDYM",
+      "sec_code": "0830",
+      "listed": "ALLSHR",
+      "ldcp": 152.75,
+      "open": 155.0,
+      "high": 158.7,
+      "low": 141.0,
+      "close": 142.05,
+      "change": -10.7,
+      "pct": -7.005,
+      "volume": 145939
+    },
+    {
+      "sym": "BWHL",
+      "sec_code": "0802",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 200.57,
+      "open": 203.1,
+      "high": 218.0,
+      "low": 202.08,
+      "close": 216.99,
+      "change": 16.42,
+      "pct": 8.187,
+      "volume": 141402
+    },
+    {
+      "sym": "BGL",
+      "sec_code": "0811",
+      "listed": "ALLSHR",
+      "ldcp": 10.3,
+      "open": 10.42,
+      "high": 10.6,
+      "low": 10.42,
+      "close": 10.57,
+      "change": 0.27,
+      "pct": 2.621,
+      "volume": 133821
+    },
+    {
+      "sym": "IGIHL",
+      "sec_code": "0812",
+      "listed": "ALLSHR",
+      "ldcp": 235.18,
+      "open": 239.99,
+      "high": 239.99,
+      "low": 230.11,
+      "close": 234.0,
+      "change": -1.18,
+      "pct": -0.502,
+      "volume": 133659
+    },
+    {
+      "sym": "KOHC",
+      "sec_code": "0804",
+      "listed": "ALLSHR,KMIALLSHR,KSE100,KSE100PR,MII30",
+      "ldcp": 84.46,
+      "open": 85.0,
+      "high": 85.22,
+      "low": 82.4,
+      "close": 82.4,
+      "change": -2.06,
+      "pct": -2.439,
+      "volume": 126963
+    },
+    {
+      "sym": "RPL",
+      "sec_code": "0822",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 15.7,
+      "open": 16.0,
+      "high": 16.28,
+      "low": 15.65,
+      "close": 15.87,
+      "change": 0.17,
+      "pct": 1.083,
+      "volume": 125296
     },
     {
       "sym": "DADX",
@@ -2162,17 +2201,17 @@
       "volume": 120362
     },
     {
-      "sym": "GAL",
-      "sec_code": "0801",
-      "listed": "ALLSHR,JSMFI,KMI30,KMIALLSHR,KSE100,KSE100PR,KSE30",
-      "ldcp": 441.49,
-      "open": 442.79,
-      "high": 442.99,
-      "low": 429.0,
-      "close": 433.97,
-      "change": -7.52,
-      "pct": -1.703,
-      "volume": 120118
+      "sym": "BIFO",
+      "sec_code": "0805",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 137.33,
+      "open": 137.0,
+      "high": 138.0,
+      "low": 133.3,
+      "close": 134.75,
+      "change": -2.58,
+      "pct": -1.879,
+      "volume": 118147
     },
     {
       "sym": "AGSML",
@@ -2182,10 +2221,10 @@
       "open": 10.55,
       "high": 10.7,
       "low": 10.0,
-      "close": 10.29,
-      "change": -0.3,
-      "pct": -2.833,
-      "volume": 117216
+      "close": 10.3,
+      "change": -0.29,
+      "pct": -2.738,
+      "volume": 117218
     },
     {
       "sym": "JSRR",
@@ -2198,33 +2237,7 @@
       "close": 10.0,
       "change": 0.03,
       "pct": 0.301,
-      "volume": 116281
-    },
-    {
-      "sym": "BIFO",
-      "sec_code": "0805",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 137.33,
-      "open": 137.0,
-      "high": 138.0,
-      "low": 133.3,
-      "close": 134.8,
-      "change": -2.53,
-      "pct": -1.8419999999999999,
-      "volume": 115030
-    },
-    {
-      "sym": "KOHC",
-      "sec_code": "0804",
-      "listed": "ALLSHR,KMIALLSHR,KSE100,KSE100PR,MII30",
-      "ldcp": 84.46,
-      "open": 85.0,
-      "high": 85.22,
-      "low": 82.75,
-      "close": 82.75,
-      "change": -1.71,
-      "pct": -2.025,
-      "volume": 114819
+      "volume": 116381
     },
     {
       "sym": "ZTL",
@@ -2234,10 +2247,23 @@
       "open": 15.79,
       "high": 15.99,
       "low": 15.11,
-      "close": 15.65,
-      "change": 0.4,
-      "pct": 2.6229999999999998,
-      "volume": 114819
+      "close": 15.31,
+      "change": 0.06,
+      "pct": 0.393,
+      "volume": 114820
+    },
+    {
+      "sym": "ADMM",
+      "sec_code": "0829",
+      "listed": "ALLSHR",
+      "ldcp": 68.43,
+      "open": 68.5,
+      "high": 69.0,
+      "low": 65.0,
+      "close": 66.81,
+      "change": -1.62,
+      "pct": -2.367,
+      "volume": 114165
     },
     {
       "sym": "DWSM",
@@ -2247,10 +2273,49 @@
       "open": 7.1,
       "high": 7.12,
       "low": 6.41,
-      "close": 6.67,
-      "change": -0.39,
-      "pct": -5.524,
-      "volume": 112085
+      "close": 6.96,
+      "change": -0.1,
+      "pct": -1.4160000000000001,
+      "volume": 112185
+    },
+    {
+      "sym": "ALTN",
+      "sec_code": "0824",
+      "listed": "ALLSHR",
+      "ldcp": 8.37,
+      "open": 8.5,
+      "high": 8.5,
+      "low": 8.25,
+      "close": 8.31,
+      "change": -0.06,
+      "pct": -0.717,
+      "volume": 111678
+    },
+    {
+      "sym": "ILP",
+      "sec_code": "0829",
+      "listed": "ACI,ALLSHR,KMIALLSHR,KSE100,KSE100PR",
+      "ldcp": 79.48,
+      "open": 80.0,
+      "high": 80.99,
+      "low": 79.5,
+      "close": 80.17,
+      "change": 0.69,
+      "pct": 0.868,
+      "volume": 111520
+    },
+    {
+      "sym": "PQGTL",
+      "sec_code": "0812",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 12.89,
+      "open": 12.9,
+      "high": 12.99,
+      "low": 12.7,
+      "close": 12.94,
+      "change": 0.05,
+      "pct": 0.388,
+      "volume": 110297
     },
     {
       "sym": "SBL",
@@ -2266,45 +2331,6 @@
       "volume": 110179
     },
     {
-      "sym": "ADMM",
-      "sec_code": "0829",
-      "listed": "ALLSHR",
-      "ldcp": 68.43,
-      "open": 68.5,
-      "high": 69.0,
-      "low": 65.0,
-      "close": 67.1,
-      "change": -1.33,
-      "pct": -1.944,
-      "volume": 109350
-    },
-    {
-      "sym": "PQGTL",
-      "sec_code": "0812",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 12.89,
-      "open": 12.9,
-      "high": 12.99,
-      "low": 12.7,
-      "close": 12.97,
-      "change": 0.08,
-      "pct": 0.621,
-      "volume": 109037
-    },
-    {
-      "sym": "BGL",
-      "sec_code": "0811",
-      "listed": "ALLSHR",
-      "ldcp": 10.3,
-      "open": 10.42,
-      "high": 10.56,
-      "low": 10.42,
-      "close": 10.51,
-      "change": 0.21,
-      "pct": 2.0389999999999997,
-      "volume": 108310
-    },
-    {
       "sym": "EPQL",
       "sec_code": "0824",
       "listed": "ALLSHR,KMIALLSHR",
@@ -2312,23 +2338,10 @@
       "open": 24.48,
       "high": 24.48,
       "low": 24.11,
-      "close": 24.23,
-      "change": -0.02,
-      "pct": -0.082,
-      "volume": 107321
-    },
-    {
-      "sym": "ILP",
-      "sec_code": "0829",
-      "listed": "ACI,ALLSHR,KMIALLSHR,KSE100,KSE100PR",
-      "ldcp": 79.48,
-      "open": 80.0,
-      "high": 80.99,
-      "low": 79.5,
-      "close": 80.18,
-      "change": 0.7,
-      "pct": 0.881,
-      "volume": 106511
+      "close": 24.14,
+      "change": -0.11,
+      "pct": -0.45399999999999996,
+      "volume": 108039
     },
     {
       "sym": "FCIBL",
@@ -2338,10 +2351,36 @@
       "open": 60.6,
       "high": 61.33,
       "low": 50.18,
-      "close": 50.51,
-      "change": -5.24,
-      "pct": -9.399000000000001,
-      "volume": 105812
+      "close": 50.18,
+      "change": -5.57,
+      "pct": -9.991,
+      "volume": 107030
+    },
+    {
+      "sym": "ALAC",
+      "sec_code": "0812",
+      "listed": "ALLSHR",
+      "ldcp": 16.99,
+      "open": 16.52,
+      "high": 17.29,
+      "low": 16.07,
+      "close": 16.07,
+      "change": -0.92,
+      "pct": -5.415,
+      "volume": 106640
+    },
+    {
+      "sym": "GHNI",
+      "sec_code": "0801",
+      "listed": "ALLSHR,JSMFI,KMI30,KMIALLSHR,KSE100,KSE100PR,KSE30",
+      "ldcp": 823.85,
+      "open": 828.0,
+      "high": 834.0,
+      "low": 817.0,
+      "close": 817.0,
+      "change": -6.85,
+      "pct": -0.831,
+      "volume": 101348
     },
     {
       "sym": "DBCI",
@@ -2351,10 +2390,10 @@
       "open": 6.97,
       "high": 7.61,
       "low": 6.53,
-      "close": 6.8,
-      "change": 0.19,
-      "pct": 2.874,
-      "volume": 99116
+      "close": 6.98,
+      "change": 0.37,
+      "pct": 5.598,
+      "volume": 99418
     },
     {
       "sym": "TPLI",
@@ -2364,10 +2403,10 @@
       "open": 26.0,
       "high": 26.0,
       "low": 25.55,
-      "close": 25.9,
-      "change": 0.02,
-      "pct": 0.077,
-      "volume": 99047
+      "close": 25.88,
+      "change": 0.0,
+      "pct": 0.0,
+      "volume": 99347
     },
     {
       "sym": "GRR",
@@ -2377,10 +2416,10 @@
       "open": 19.13,
       "high": 19.45,
       "low": 19.03,
-      "close": 19.1,
-      "change": -0.1,
-      "pct": -0.521,
-      "volume": 98476
+      "close": 19.14,
+      "change": -0.06,
+      "pct": -0.313,
+      "volume": 98862
     },
     {
       "sym": "PAKQATAR",
@@ -2390,10 +2429,10 @@
       "open": 17.04,
       "high": 17.7,
       "low": 17.04,
-      "close": 17.36,
-      "change": -0.18,
-      "pct": -1.026,
-      "volume": 97043
+      "close": 17.49,
+      "change": -0.05,
+      "pct": -0.28500000000000003,
+      "volume": 97045
     },
     {
       "sym": "IPAK",
@@ -2409,17 +2448,43 @@
       "volume": 96771
     },
     {
-      "sym": "GHNI",
-      "sec_code": "0801",
-      "listed": "ALLSHR,JSMFI,KMI30,KMIALLSHR,KSE100,KSE100PR,KSE30",
-      "ldcp": 823.85,
-      "open": 828.0,
-      "high": 834.0,
-      "low": 817.0,
-      "close": 822.5,
-      "change": -1.35,
-      "pct": -0.164,
-      "volume": 94987
+      "sym": "ASTL",
+      "sec_code": "0808",
+      "listed": "ALLSHR",
+      "ldcp": 16.2,
+      "open": 16.03,
+      "high": 16.44,
+      "low": 15.9,
+      "close": 15.9,
+      "change": -0.3,
+      "pct": -1.8519999999999999,
+      "volume": 96738
+    },
+    {
+      "sym": "ISL",
+      "sec_code": "0808",
+      "listed": "ACI,ALLSHR,KMIALLSHR,KSE100,KSE100PR",
+      "ldcp": 78.03,
+      "open": 77.9,
+      "high": 78.5,
+      "low": 77.0,
+      "close": 77.48,
+      "change": -0.55,
+      "pct": -0.705,
+      "volume": 93632
+    },
+    {
+      "sym": "KTML",
+      "sec_code": "0829",
+      "listed": "ALLSHR,KMIALLSHR,KSE100,KSE100PR",
+      "ldcp": 45.21,
+      "open": 45.2,
+      "high": 46.0,
+      "low": 45.0,
+      "close": 45.44,
+      "change": 0.23,
+      "pct": 0.509,
+      "volume": 92259
     },
     {
       "sym": "TSPL",
@@ -2432,7 +2497,33 @@
       "close": 9.68,
       "change": 0.77,
       "pct": 8.642,
-      "volume": 91854
+      "volume": 92256
+    },
+    {
+      "sym": "ATRL",
+      "sec_code": "0825",
+      "listed": "ALLSHR,JSMFI,KMI30,KMIALLSHR,KSE100,KSE100PR,KSE30,MII30,MZNPI",
+      "ldcp": 898.46,
+      "open": 900.9,
+      "high": 902.0,
+      "low": 890.11,
+      "close": 895.99,
+      "change": -2.47,
+      "pct": -0.27499999999999997,
+      "volume": 91645
+    },
+    {
+      "sym": "786",
+      "sec_code": "0813",
+      "listed": "ALLSHR",
+      "ldcp": 27.08,
+      "open": 26.86,
+      "high": 27.58,
+      "low": 26.01,
+      "close": 26.9,
+      "change": -0.18,
+      "pct": -0.6649999999999999,
+      "volume": 91060
     },
     {
       "sym": "PKGI",
@@ -2442,49 +2533,23 @@
       "open": 20.81,
       "high": 21.64,
       "low": 20.46,
-      "close": 20.9,
-      "change": 1.23,
-      "pct": 6.253,
-      "volume": 90457
+      "close": 21.45,
+      "change": 1.78,
+      "pct": 9.049,
+      "volume": 90956
     },
     {
-      "sym": "ALTN",
-      "sec_code": "0824",
-      "listed": "ALLSHR",
-      "ldcp": 8.37,
-      "open": 8.5,
-      "high": 8.5,
-      "low": 8.25,
-      "close": 8.3,
-      "change": -0.07,
-      "pct": -0.836,
-      "volume": 90160
-    },
-    {
-      "sym": "ISL",
-      "sec_code": "0808",
-      "listed": "ACI,ALLSHR,KMIALLSHR,KSE100,KSE100PR",
-      "ldcp": 78.03,
-      "open": 77.9,
-      "high": 78.5,
-      "low": 77.0,
-      "close": 77.3,
-      "change": -0.73,
-      "pct": -0.936,
-      "volume": 88625
-    },
-    {
-      "sym": "KTML",
-      "sec_code": "0829",
-      "listed": "ALLSHR,KMIALLSHR,KSE100,KSE100PR",
-      "ldcp": 45.21,
-      "open": 45.2,
-      "high": 46.0,
-      "low": 45.0,
-      "close": 45.2,
-      "change": -0.01,
-      "pct": -0.022000000000000002,
-      "volume": 88111
+      "sym": "FPJM",
+      "sec_code": "0819",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 7.71,
+      "open": 7.97,
+      "high": 7.97,
+      "low": 7.12,
+      "close": 7.15,
+      "change": -0.56,
+      "pct": -7.263,
+      "volume": 88833
     },
     {
       "sym": "DNCC",
@@ -2494,10 +2559,10 @@
       "open": 17.52,
       "high": 18.45,
       "low": 17.5,
-      "close": 17.67,
-      "change": -0.24,
-      "pct": -1.34,
-      "volume": 88105
+      "close": 17.6,
+      "change": -0.31,
+      "pct": -1.7309999999999999,
+      "volume": 88614
     },
     {
       "sym": "QTECH",
@@ -2510,33 +2575,7 @@
       "close": 30.09,
       "change": 0.29,
       "pct": 0.9730000000000001,
-      "volume": 85445
-    },
-    {
-      "sym": "ALAC",
-      "sec_code": "0812",
-      "listed": "ALLSHR",
-      "ldcp": 16.99,
-      "open": 16.52,
-      "high": 17.29,
-      "low": 16.4,
-      "close": 16.4,
-      "change": -0.59,
-      "pct": -3.473,
-      "volume": 84716
-    },
-    {
-      "sym": "ATRL",
-      "sec_code": "0825",
-      "listed": "ALLSHR,JSMFI,KMI30,KMIALLSHR,KSE100,KSE100PR,KSE30,MII30,MZNPI",
-      "ldcp": 898.46,
-      "open": 900.9,
-      "high": 902.0,
-      "low": 890.11,
-      "close": 894.0,
-      "change": -4.46,
-      "pct": -0.496,
-      "volume": 81657
+      "volume": 85447
     },
     {
       "sym": "BPL",
@@ -2549,7 +2588,7 @@
       "close": 65.0,
       "change": -3.55,
       "pct": -5.179,
-      "volume": 81139
+      "volume": 82712
     },
     {
       "sym": "SPWL",
@@ -2562,7 +2601,7 @@
       "close": 9.4,
       "change": -0.05,
       "pct": -0.529,
-      "volume": 77086
+      "volume": 77626
     },
     {
       "sym": "GADT",
@@ -2572,10 +2611,10 @@
       "open": 306.0,
       "high": 307.5,
       "low": 289.0,
-      "close": 290.03,
-      "change": -16.34,
-      "pct": -5.333,
-      "volume": 74769
+      "close": 292.5,
+      "change": -13.87,
+      "pct": -4.527,
+      "volume": 76378
     },
     {
       "sym": "OCTOPUS",
@@ -2588,7 +2627,7 @@
       "close": 31.99,
       "change": 0.27,
       "pct": 0.851,
-      "volume": 73408
+      "volume": 74108
     },
     {
       "sym": "NCL",
@@ -2598,10 +2637,10 @@
       "open": 37.9,
       "high": 38.5,
       "low": 37.84,
-      "close": 37.97,
-      "change": -0.12,
-      "pct": -0.315,
-      "volume": 71495
+      "close": 37.98,
+      "change": -0.11,
+      "pct": -0.28900000000000003,
+      "volume": 71860
     },
     {
       "sym": "JSCL",
@@ -2617,6 +2656,45 @@
       "volume": 71486
     },
     {
+      "sym": "SAZEW",
+      "sec_code": "0801",
+      "listed": "ACI,ALLSHR,JSMFI,KMI30,KMIALLSHR,KSE100,KSE100PR,KSE30,MII30",
+      "ldcp": 2168.61,
+      "open": 2175.0,
+      "high": 2181.99,
+      "low": 2140.0,
+      "close": 2153.0,
+      "change": -15.61,
+      "pct": -0.72,
+      "volume": 69673
+    },
+    {
+      "sym": "CSAP",
+      "sec_code": "0808",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 91.4,
+      "open": 91.44,
+      "high": 91.44,
+      "low": 90.0,
+      "close": 90.21,
+      "change": -1.19,
+      "pct": -1.302,
+      "volume": 69374
+    },
+    {
+      "sym": "KML",
+      "sec_code": "0829",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 8.23,
+      "open": 8.3,
+      "high": 8.3,
+      "low": 8.11,
+      "close": 8.15,
+      "change": -0.08,
+      "pct": -0.972,
+      "volume": 67836
+    },
+    {
       "sym": "CLCPS",
       "sec_code": "0829",
       "listed": "ALLSHR",
@@ -2630,45 +2708,6 @@
       "volume": 67611
     },
     {
-      "sym": "FPJM",
-      "sec_code": "0819",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 7.71,
-      "open": 7.97,
-      "high": 7.97,
-      "low": 7.12,
-      "close": 7.3,
-      "change": -0.41,
-      "pct": -5.318,
-      "volume": 66734
-    },
-    {
-      "sym": "SAZEW",
-      "sec_code": "0801",
-      "listed": "ACI,ALLSHR,JSMFI,KMI30,KMIALLSHR,KSE100,KSE100PR,KSE30,MII30",
-      "ldcp": 2168.61,
-      "open": 2175.0,
-      "high": 2181.99,
-      "low": 2140.0,
-      "close": 2150.0,
-      "change": -18.61,
-      "pct": -0.8580000000000001,
-      "volume": 63019
-    },
-    {
-      "sym": "CSAP",
-      "sec_code": "0808",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 91.4,
-      "open": 91.44,
-      "high": 91.44,
-      "low": 90.0,
-      "close": 90.17,
-      "change": -1.23,
-      "pct": -1.346,
-      "volume": 60974
-    },
-    {
       "sym": "MCB",
       "sec_code": "0807",
       "listed": "ALLSHR,BKTI,JSGBKTI,KSE100,KSE100PR,KSE30,NBPPGI,NITPGI,PSXDIV20",
@@ -2679,7 +2718,20 @@
       "close": 405.24,
       "change": -0.64,
       "pct": -0.158,
-      "volume": 60702
+      "volume": 63003
+    },
+    {
+      "sym": "AGL",
+      "sec_code": "0809",
+      "listed": "ALLSHR",
+      "ldcp": 47.13,
+      "open": 47.75,
+      "high": 47.75,
+      "low": 46.0,
+      "close": 46.59,
+      "change": -0.54,
+      "pct": -1.146,
+      "volume": 59856
     },
     {
       "sym": "UDLI",
@@ -2692,33 +2744,7 @@
       "close": 18.2,
       "change": -0.1,
       "pct": -0.5459999999999999,
-      "volume": 58475
-    },
-    {
-      "sym": "BFBIO",
-      "sec_code": "0823",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 134.98,
-      "open": 134.98,
-      "high": 135.5,
-      "low": 133.61,
-      "close": 134.49,
-      "change": -0.49,
-      "pct": -0.363,
-      "volume": 54979
-    },
-    {
-      "sym": "AGL",
-      "sec_code": "0809",
-      "listed": "ALLSHR",
-      "ldcp": 47.13,
-      "open": 47.75,
-      "high": 47.75,
-      "low": 46.0,
-      "close": 46.5,
-      "change": -0.63,
-      "pct": -1.337,
-      "volume": 54956
+      "volume": 59252
     },
     {
       "sym": "SPEL",
@@ -2728,23 +2754,49 @@
       "open": 43.69,
       "high": 44.45,
       "low": 42.3,
-      "close": 42.53,
-      "change": -1.09,
-      "pct": -2.4989999999999997,
-      "volume": 54387
+      "close": 42.55,
+      "change": -1.07,
+      "pct": -2.453,
+      "volume": 58052
     },
     {
-      "sym": "ASTL",
-      "sec_code": "0808",
-      "listed": "ALLSHR",
-      "ldcp": 16.2,
-      "open": 16.03,
-      "high": 16.44,
-      "low": 16.02,
-      "close": 16.05,
-      "change": -0.15,
-      "pct": -0.9259999999999999,
-      "volume": 53717
+      "sym": "BFBIO",
+      "sec_code": "0823",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 134.98,
+      "open": 134.98,
+      "high": 135.5,
+      "low": 133.61,
+      "close": 134.75,
+      "change": -0.23,
+      "pct": -0.16999999999999998,
+      "volume": 57246
+    },
+    {
+      "sym": "SCBPL",
+      "sec_code": "0807",
+      "listed": "ALLSHR,KSE100,KSE100PR",
+      "ldcp": 64.06,
+      "open": 65.98,
+      "high": 65.98,
+      "low": 62.42,
+      "close": 65.0,
+      "change": 0.94,
+      "pct": 1.467,
+      "volume": 56227
+    },
+    {
+      "sym": "NATF",
+      "sec_code": "0810",
+      "listed": "ACI,ALLSHR,KMIALLSHR,KSE100,KSE100PR,MII30,PSXDIV20",
+      "ldcp": 371.89,
+      "open": 375.0,
+      "high": 375.0,
+      "low": 368.0,
+      "close": 368.0,
+      "change": -3.89,
+      "pct": -1.046,
+      "volume": 53311
     },
     {
       "sym": "DIIL",
@@ -2760,30 +2812,17 @@
       "volume": 53021
     },
     {
-      "sym": "KML",
+      "sym": "GATM",
       "sec_code": "0829",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 8.23,
-      "open": 8.3,
-      "high": 8.3,
-      "low": 8.11,
-      "close": 8.15,
-      "change": -0.08,
-      "pct": -0.972,
-      "volume": 52741
-    },
-    {
-      "sym": "SCBPL",
-      "sec_code": "0807",
-      "listed": "ALLSHR,KSE100,KSE100PR",
-      "ldcp": 64.06,
-      "open": 65.98,
-      "high": 65.98,
-      "low": 62.42,
-      "close": 64.0,
-      "change": -0.06,
-      "pct": -0.094,
-      "volume": 51207
+      "listed": "ACI,ALLSHR,KMIALLSHR",
+      "ldcp": 22.7,
+      "open": 22.8,
+      "high": 22.98,
+      "low": 22.25,
+      "close": 22.79,
+      "change": 0.09,
+      "pct": 0.396,
+      "volume": 52014
     },
     {
       "sym": "HMB",
@@ -2793,23 +2832,10 @@
       "open": 117.0,
       "high": 117.0,
       "low": 115.0,
-      "close": 116.0,
-      "change": 0.71,
-      "pct": 0.616,
-      "volume": 51207
-    },
-    {
-      "sym": "786",
-      "sec_code": "0813",
-      "listed": "ALLSHR",
-      "ldcp": 27.08,
-      "open": 26.86,
-      "high": 27.58,
-      "low": 26.01,
-      "close": 26.44,
-      "change": -0.64,
-      "pct": -2.363,
-      "volume": 50127
+      "close": 115.5,
+      "change": 0.21,
+      "pct": 0.182,
+      "volume": 51209
     },
     {
       "sym": "ZUMA",
@@ -2822,7 +2848,20 @@
       "close": 59.99,
       "change": -1.34,
       "pct": -2.185,
-      "volume": 49805
+      "volume": 51026
+    },
+    {
+      "sym": "BBFL",
+      "sec_code": "0810",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 44.0,
+      "open": 44.4,
+      "high": 44.4,
+      "low": 43.1,
+      "close": 43.5,
+      "change": -0.5,
+      "pct": -1.1360000000000001,
+      "volume": 50797
     },
     {
       "sym": "IDRT",
@@ -2835,33 +2874,7 @@
       "close": 35.27,
       "change": -0.56,
       "pct": -1.5630000000000002,
-      "volume": 49066
-    },
-    {
-      "sym": "NATF",
-      "sec_code": "0810",
-      "listed": "ACI,ALLSHR,KMIALLSHR,KSE100,KSE100PR,MII30,PSXDIV20",
-      "ldcp": 371.89,
-      "open": 375.0,
-      "high": 375.0,
-      "low": 370.0,
-      "close": 370.0,
-      "change": -1.89,
-      "pct": -0.508,
-      "volume": 46067
-    },
-    {
-      "sym": "KOHP",
-      "sec_code": "0824",
-      "listed": "ALLSHR",
-      "ldcp": 24.92,
-      "open": 24.3,
-      "high": 26.0,
-      "low": 24.15,
-      "close": 24.5,
-      "change": -0.42,
-      "pct": -1.685,
-      "volume": 43715
+      "volume": 49086
     },
     {
       "sym": "BFAGRO",
@@ -2871,10 +2884,23 @@
       "open": 33.0,
       "high": 33.25,
       "low": 32.65,
-      "close": 32.95,
-      "change": 0.06,
-      "pct": 0.182,
-      "volume": 43637
+      "close": 33.1,
+      "change": 0.21,
+      "pct": 0.638,
+      "volume": 46638
+    },
+    {
+      "sym": "KOHP",
+      "sec_code": "0824",
+      "listed": "ALLSHR",
+      "ldcp": 24.92,
+      "open": 24.3,
+      "high": 26.0,
+      "low": 24.15,
+      "close": 24.51,
+      "change": -0.41,
+      "pct": -1.645,
+      "volume": 43865
     },
     {
       "sym": "KOHE",
@@ -2897,10 +2923,10 @@
       "open": 10.11,
       "high": 10.64,
       "low": 9.8,
-      "close": 9.95,
-      "change": -0.13,
-      "pct": -1.29,
-      "volume": 42995
+      "close": 9.96,
+      "change": -0.12,
+      "pct": -1.1900000000000002,
+      "volume": 42998
     },
     {
       "sym": "ICL",
@@ -2916,19 +2942,6 @@
       "volume": 42659
     },
     {
-      "sym": "BBFL",
-      "sec_code": "0810",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 44.0,
-      "open": 44.4,
-      "high": 44.4,
-      "low": 43.1,
-      "close": 43.48,
-      "change": -0.52,
-      "pct": -1.1820000000000002,
-      "volume": 41999
-    },
-    {
       "sym": "HGFA",
       "sec_code": "0806",
       "listed": "ALLSHR,KSE100,KSE100PR",
@@ -2942,17 +2955,17 @@
       "volume": 41932
     },
     {
-      "sym": "GATM",
-      "sec_code": "0829",
-      "listed": "ACI,ALLSHR,KMIALLSHR",
-      "ldcp": 22.7,
-      "open": 22.8,
-      "high": 22.98,
-      "low": 22.25,
-      "close": 22.78,
-      "change": 0.08,
-      "pct": 0.35200000000000004,
-      "volume": 41627
+      "sym": "GTYR",
+      "sec_code": "0802",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 29.39,
+      "open": 29.89,
+      "high": 29.89,
+      "low": 29.0,
+      "close": 29.25,
+      "change": -0.14,
+      "pct": -0.47600000000000003,
+      "volume": 41805
     },
     {
       "sym": "AMBL",
@@ -2962,10 +2975,10 @@
       "open": 23.02,
       "high": 24.49,
       "low": 21.96,
-      "close": 22.59,
-      "change": -1.81,
-      "pct": -7.417999999999999,
-      "volume": 40461
+      "close": 22.58,
+      "change": -1.82,
+      "pct": -7.4590000000000005,
+      "volume": 40761
     },
     {
       "sym": "EPCLPS",
@@ -2975,23 +2988,23 @@
       "open": 12.2,
       "high": 12.25,
       "low": 12.2,
-      "close": 12.2,
-      "change": 0.0,
-      "pct": 0.0,
-      "volume": 38721
+      "close": 12.25,
+      "change": 0.05,
+      "pct": 0.41000000000000003,
+      "volume": 38723
     },
     {
-      "sym": "GTYR",
-      "sec_code": "0802",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 29.39,
-      "open": 29.89,
-      "high": 29.89,
-      "low": 29.0,
-      "close": 29.0,
-      "change": -0.39,
-      "pct": -1.327,
-      "volume": 37905
+      "sym": "LCI",
+      "sec_code": "0805",
+      "listed": "ALLSHR,KMIALLSHR,KSE100,KSE100PR,MII30",
+      "ldcp": 224.0,
+      "open": 224.1,
+      "high": 225.0,
+      "low": 223.0,
+      "close": 223.01,
+      "change": -0.99,
+      "pct": -0.44200000000000006,
+      "volume": 38420
     },
     {
       "sym": "UCAPM",
@@ -3005,19 +3018,6 @@
       "change": -0.01,
       "pct": -0.20600000000000002,
       "volume": 37707
-    },
-    {
-      "sym": "LCI",
-      "sec_code": "0805",
-      "listed": "ALLSHR,KMIALLSHR,KSE100,KSE100PR,MII30",
-      "ldcp": 224.0,
-      "open": 224.1,
-      "high": 225.0,
-      "low": 223.0,
-      "close": 224.0,
-      "change": 0.0,
-      "pct": 0.0,
-      "volume": 37684
     },
     {
       "sym": "NEXT",
@@ -3040,10 +3040,10 @@
       "open": 23.8,
       "high": 23.8,
       "low": 22.0,
-      "close": 23.0,
-      "change": 0.18,
-      "pct": 0.7889999999999999,
-      "volume": 34200
+      "close": 23.4,
+      "change": 0.58,
+      "pct": 2.5420000000000003,
+      "volume": 35701
     },
     {
       "sym": "IBLHL",
@@ -3053,10 +3053,49 @@
       "open": 45.41,
       "high": 45.97,
       "low": 45.0,
-      "close": 45.12,
-      "change": -0.86,
-      "pct": -1.87,
-      "volume": 34101
+      "close": 45.13,
+      "change": -0.85,
+      "pct": -1.849,
+      "volume": 34796
+    },
+    {
+      "sym": "IMS",
+      "sec_code": "0813",
+      "listed": "ALLSHR",
+      "ldcp": 16.53,
+      "open": 16.49,
+      "high": 16.6,
+      "low": 16.05,
+      "close": 16.5,
+      "change": -0.03,
+      "pct": -0.181,
+      "volume": 33574
+    },
+    {
+      "sym": "GGGL",
+      "sec_code": "0811",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 8.13,
+      "open": 8.19,
+      "high": 8.22,
+      "low": 8.05,
+      "close": 8.05,
+      "change": -0.08,
+      "pct": -0.984,
+      "volume": 32044
+    },
+    {
+      "sym": "GWLC",
+      "sec_code": "0804",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 47.53,
+      "open": 47.79,
+      "high": 47.79,
+      "low": 46.65,
+      "close": 46.94,
+      "change": -0.59,
+      "pct": -1.2409999999999999,
+      "volume": 31015
     },
     {
       "sym": "JUBS",
@@ -3072,6 +3111,32 @@
       "volume": 30499
     },
     {
+      "sym": "ORM",
+      "sec_code": "0819",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 9.4,
+      "open": 9.48,
+      "high": 9.48,
+      "low": 9.28,
+      "close": 9.3,
+      "change": -0.1,
+      "pct": -1.064,
+      "volume": 30315
+    },
+    {
+      "sym": "GHGL",
+      "sec_code": "0811",
+      "listed": "ALLSHR,KMIALLSHR,KSE100,KSE100PR",
+      "ldcp": 35.46,
+      "open": 35.46,
+      "high": 35.46,
+      "low": 34.62,
+      "close": 35.35,
+      "change": -0.11,
+      "pct": -0.31,
+      "volume": 30163
+    },
+    {
       "sym": "ARPL",
       "sec_code": "0805",
       "listed": "ALLSHR,KMIALLSHR",
@@ -3085,19 +3150,6 @@
       "volume": 29941
     },
     {
-      "sym": "GGGL",
-      "sec_code": "0811",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 8.13,
-      "open": 8.19,
-      "high": 8.22,
-      "low": 8.05,
-      "close": 8.05,
-      "change": -0.08,
-      "pct": -0.984,
-      "volume": 29844
-    },
-    {
       "sym": "AHL",
       "sec_code": "0813",
       "listed": "ALLSHR",
@@ -3105,36 +3157,10 @@
       "open": 106.9,
       "high": 107.0,
       "low": 105.0,
-      "close": 105.0,
-      "change": -1.19,
-      "pct": -1.121,
-      "volume": 29827
-    },
-    {
-      "sym": "ORM",
-      "sec_code": "0819",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 9.4,
-      "open": 9.48,
-      "high": 9.48,
-      "low": 9.28,
-      "close": 9.31,
-      "change": -0.09,
-      "pct": -0.9570000000000001,
-      "volume": 29690
-    },
-    {
-      "sym": "GWLC",
-      "sec_code": "0804",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 47.53,
-      "open": 47.79,
-      "high": 47.79,
-      "low": 46.65,
-      "close": 46.94,
-      "change": -0.59,
-      "pct": -1.2409999999999999,
-      "volume": 29582
+      "close": 105.5,
+      "change": -0.69,
+      "pct": -0.65,
+      "volume": 29828
     },
     {
       "sym": "BERG",
@@ -3150,19 +3176,6 @@
       "volume": 29282
     },
     {
-      "sym": "FECTC",
-      "sec_code": "0804",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 91.07,
-      "open": 91.99,
-      "high": 91.99,
-      "low": 88.86,
-      "close": 88.91,
-      "change": -2.16,
-      "pct": -2.3720000000000003,
-      "volume": 26190
-    },
-    {
       "sym": "APL",
       "sec_code": "0821",
       "listed": "ALLSHR,KMIALLSHR,KSE100,KSE100PR",
@@ -3173,20 +3186,46 @@
       "close": 558.0,
       "change": -1.89,
       "pct": -0.338,
-      "volume": 24768
+      "volume": 27985
     },
     {
-      "sym": "IMS",
+      "sym": "FECTC",
+      "sec_code": "0804",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 91.07,
+      "open": 91.99,
+      "high": 91.99,
+      "low": 88.86,
+      "close": 89.3,
+      "change": -1.77,
+      "pct": -1.944,
+      "volume": 27650
+    },
+    {
+      "sym": "SRR",
+      "sec_code": "0836",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 16.3,
+      "open": 16.39,
+      "high": 16.45,
+      "low": 16.06,
+      "close": 16.38,
+      "change": 0.08,
+      "pct": 0.49100000000000005,
+      "volume": 25060
+    },
+    {
+      "sym": "FCEL",
       "sec_code": "0813",
       "listed": "ALLSHR",
-      "ldcp": 16.53,
-      "open": 16.49,
-      "high": 16.6,
-      "low": 16.05,
-      "close": 16.5,
+      "ldcp": 5.13,
+      "open": 5.08,
+      "high": 5.46,
+      "low": 5.01,
+      "close": 5.1,
       "change": -0.03,
-      "pct": -0.181,
-      "volume": 24349
+      "pct": -0.585,
+      "volume": 24618
     },
     {
       "sym": "ABL",
@@ -3196,10 +3235,23 @@
       "open": 181.88,
       "high": 181.88,
       "low": 179.0,
-      "close": 179.75,
-      "change": -0.14,
-      "pct": -0.078,
-      "volume": 23398
+      "close": 179.72,
+      "change": -0.17,
+      "pct": -0.095,
+      "volume": 23799
+    },
+    {
+      "sym": "ABOT",
+      "sec_code": "0823",
+      "listed": "ALLSHR,KMIALLSHR,KSE100,KSE100PR,MII30",
+      "ldcp": 861.32,
+      "open": 863.01,
+      "high": 876.0,
+      "low": 863.01,
+      "close": 866.0,
+      "change": 4.68,
+      "pct": 0.543,
+      "volume": 23222
     },
     {
       "sym": "SHDT",
@@ -3215,19 +3267,6 @@
       "volume": 22992
     },
     {
-      "sym": "ABOT",
-      "sec_code": "0823",
-      "listed": "ALLSHR,KMIALLSHR,KSE100,KSE100PR,MII30",
-      "ldcp": 861.32,
-      "open": 863.01,
-      "high": 876.0,
-      "low": 863.01,
-      "close": 866.0,
-      "change": 4.68,
-      "pct": 0.543,
-      "volume": 22974
-    },
-    {
       "sym": "PAKRI",
       "sec_code": "0812",
       "listed": "ALLSHR",
@@ -3235,23 +3274,10 @@
       "open": 16.03,
       "high": 16.03,
       "low": 15.61,
-      "close": 15.66,
-      "change": -0.33,
-      "pct": -2.064,
-      "volume": 22220
-    },
-    {
-      "sym": "SRR",
-      "sec_code": "0836",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 16.3,
-      "open": 16.39,
-      "high": 16.45,
-      "low": 16.06,
-      "close": 16.22,
-      "change": -0.08,
-      "pct": -0.49100000000000005,
-      "volume": 22060
+      "close": 15.69,
+      "change": -0.3,
+      "pct": -1.876,
+      "volume": 22880
     },
     {
       "sym": "CRTM",
@@ -3267,19 +3293,6 @@
       "volume": 21951
     },
     {
-      "sym": "FCEL",
-      "sec_code": "0813",
-      "listed": "ALLSHR",
-      "ldcp": 5.13,
-      "open": 5.08,
-      "high": 5.46,
-      "low": 5.01,
-      "close": 5.07,
-      "change": -0.06,
-      "pct": -1.17,
-      "volume": 21417
-    },
-    {
       "sym": "PICT",
       "sec_code": "0833",
       "listed": "ALLSHR",
@@ -3290,7 +3303,7 @@
       "close": 37.5,
       "change": -0.98,
       "pct": -2.547,
-      "volume": 21379
+      "volume": 21929
     },
     {
       "sym": "UBLPETF",
@@ -3306,19 +3319,6 @@
       "volume": 21000
     },
     {
-      "sym": "SERT",
-      "sec_code": "0830",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 32.06,
-      "open": 33.0,
-      "high": 34.0,
-      "low": 31.56,
-      "close": 33.13,
-      "change": 1.07,
-      "pct": 3.3369999999999997,
-      "volume": 20500
-    },
-    {
       "sym": "STML",
       "sec_code": "0829",
       "listed": "ALLSHR,KMIALLSHR",
@@ -3329,7 +3329,20 @@
       "close": 42.48,
       "change": 3.86,
       "pct": 9.995,
-      "volume": 20310
+      "volume": 20837
+    },
+    {
+      "sym": "SERT",
+      "sec_code": "0830",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 32.06,
+      "open": 33.0,
+      "high": 34.0,
+      "low": 31.56,
+      "close": 33.74,
+      "change": 1.68,
+      "pct": 5.24,
+      "volume": 20501
     },
     {
       "sym": "FEM",
@@ -3339,23 +3352,10 @@
       "open": 10.6,
       "high": 11.2,
       "low": 10.6,
-      "close": 10.77,
-      "change": -0.2,
-      "pct": -1.823,
-      "volume": 20263
-    },
-    {
-      "sym": "GHGL",
-      "sec_code": "0811",
-      "listed": "ALLSHR,KMIALLSHR,KSE100,KSE100PR",
-      "ldcp": 35.46,
-      "open": 35.46,
-      "high": 35.46,
-      "low": 34.62,
-      "close": 35.0,
-      "change": -0.46,
-      "pct": -1.2970000000000002,
-      "volume": 20191
+      "close": 10.66,
+      "change": -0.31,
+      "pct": -2.826,
+      "volume": 20338
     },
     {
       "sym": "ACPL",
@@ -3365,10 +3365,10 @@
       "open": 226.82,
       "high": 229.23,
       "low": 225.5,
-      "close": 228.51,
-      "change": 1.69,
-      "pct": 0.745,
-      "volume": 19872
+      "close": 228.52,
+      "change": 1.7,
+      "pct": 0.749,
+      "volume": 20188
     },
     {
       "sym": "FFLM",
@@ -3384,6 +3384,32 @@
       "volume": 19314
     },
     {
+      "sym": "HALEON",
+      "sec_code": "0823",
+      "listed": "ALLSHR,KMIALLSHR,KSE100,KSE100PR",
+      "ldcp": 767.01,
+      "open": 770.01,
+      "high": 779.9,
+      "low": 753.0,
+      "close": 759.99,
+      "change": -7.02,
+      "pct": -0.915,
+      "volume": 18814
+    },
+    {
+      "sym": "ZAHID",
+      "sec_code": "0829",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 56.08,
+      "open": 56.9,
+      "high": 59.9,
+      "low": 53.0,
+      "close": 54.9,
+      "change": -1.18,
+      "pct": -2.104,
+      "volume": 17853
+    },
+    {
       "sym": "IDSM",
       "sec_code": "0830",
       "listed": "ALLSHR,KMIALLSHR",
@@ -3397,30 +3423,17 @@
       "volume": 17797
     },
     {
-      "sym": "ZAHID",
-      "sec_code": "0829",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 56.08,
-      "open": 56.9,
-      "high": 59.9,
-      "low": 53.0,
-      "close": 55.0,
-      "change": -1.08,
-      "pct": -1.926,
-      "volume": 17793
-    },
-    {
-      "sym": "HALEON",
-      "sec_code": "0823",
-      "listed": "ALLSHR,KMIALLSHR,KSE100,KSE100PR",
-      "ldcp": 767.01,
-      "open": 770.01,
-      "high": 779.9,
-      "low": 753.0,
-      "close": 758.0,
-      "change": -9.01,
-      "pct": -1.175,
-      "volume": 17494
+      "sym": "INIL",
+      "sec_code": "0808",
+      "listed": "ACI,ALLSHR,KMIALLSHR,KSE100,KSE100PR",
+      "ldcp": 159.51,
+      "open": 162.0,
+      "high": 162.47,
+      "low": 157.0,
+      "close": 157.0,
+      "change": -2.51,
+      "pct": -1.574,
+      "volume": 17493
     },
     {
       "sym": "UVIC",
@@ -3430,10 +3443,36 @@
       "open": 23.71,
       "high": 23.85,
       "low": 21.55,
-      "close": 23.84,
-      "change": 2.16,
-      "pct": 9.963,
-      "volume": 17422
+      "close": 22.0,
+      "change": 0.32,
+      "pct": 1.476,
+      "volume": 17423
+    },
+    {
+      "sym": "HINOON",
+      "sec_code": "0823",
+      "listed": "ALLSHR,KMIALLSHR,KSE100,KSE100PR,MII30",
+      "ldcp": 943.32,
+      "open": 945.1,
+      "high": 955.0,
+      "low": 943.2,
+      "close": 943.2,
+      "change": -0.12,
+      "pct": -0.013,
+      "volume": 17223
+    },
+    {
+      "sym": "RUBY",
+      "sec_code": "0830",
+      "listed": "ALLSHR",
+      "ldcp": 15.31,
+      "open": 15.95,
+      "high": 15.97,
+      "low": 14.05,
+      "close": 14.05,
+      "change": -1.26,
+      "pct": -8.23,
+      "volume": 17108
     },
     {
       "sym": "MFL",
@@ -3443,23 +3482,23 @@
       "open": 50.25,
       "high": 50.4,
       "low": 49.6,
-      "close": 49.98,
-      "change": 0.41,
-      "pct": 0.827,
-      "volume": 16553
+      "close": 49.99,
+      "change": 0.42,
+      "pct": 0.847,
+      "volume": 16555
     },
     {
-      "sym": "HINOON",
-      "sec_code": "0823",
-      "listed": "ALLSHR,KMIALLSHR,KSE100,KSE100PR,MII30",
-      "ldcp": 943.32,
-      "open": 945.1,
-      "high": 955.0,
-      "low": 943.32,
-      "close": 947.5,
-      "change": 4.18,
-      "pct": 0.443,
-      "volume": 16001
+      "sym": "JSGBETF",
+      "sec_code": "0837",
+      "listed": null,
+      "ldcp": 39.0,
+      "open": 39.0,
+      "high": 39.0,
+      "low": 38.79,
+      "close": 38.82,
+      "change": -0.18,
+      "pct": -0.462,
+      "volume": 16000
     },
     {
       "sym": "FANM",
@@ -3469,10 +3508,10 @@
       "open": 5.37,
       "high": 5.86,
       "low": 5.26,
-      "close": 5.78,
-      "change": 0.43,
-      "pct": 8.036999999999999,
-      "volume": 15013
+      "close": 5.54,
+      "change": 0.19,
+      "pct": 3.551,
+      "volume": 15033
     },
     {
       "sym": "OML",
@@ -3488,6 +3527,19 @@
       "volume": 14910
     },
     {
+      "sym": "TRIPF",
+      "sec_code": "0818",
+      "listed": "ALLSHR",
+      "ldcp": 132.77,
+      "open": 134.4,
+      "high": 134.5,
+      "low": 130.0,
+      "close": 132.0,
+      "change": -0.77,
+      "pct": -0.58,
+      "volume": 14730
+    },
+    {
       "sym": "LEUL",
       "sec_code": "0816",
       "listed": "ALLSHR,KMIALLSHR",
@@ -3501,30 +3553,17 @@
       "volume": 14255
     },
     {
-      "sym": "TRIPF",
-      "sec_code": "0818",
+      "sym": "CJPL",
+      "sec_code": "0814",
       "listed": "ALLSHR",
-      "ldcp": 132.77,
-      "open": 134.4,
-      "high": 134.5,
-      "low": 130.0,
-      "close": 132.4,
-      "change": -0.37,
-      "pct": -0.27899999999999997,
-      "volume": 14223
-    },
-    {
-      "sym": "JSGBETF",
-      "sec_code": "0837",
-      "listed": null,
-      "ldcp": 39.0,
-      "open": 39.0,
-      "high": 39.0,
-      "low": 38.79,
-      "close": 38.92,
-      "change": -0.08,
-      "pct": -0.20500000000000002,
-      "volume": 13500
+      "ldcp": 13.67,
+      "open": 13.41,
+      "high": 13.99,
+      "low": 13.32,
+      "close": 13.4,
+      "change": -0.27,
+      "pct": -1.975,
+      "volume": 13890
     },
     {
       "sym": "HBLTETF",
@@ -3540,17 +3579,30 @@
       "volume": 13300
     },
     {
-      "sym": "INIL",
-      "sec_code": "0808",
-      "listed": "ACI,ALLSHR,KMIALLSHR,KSE100,KSE100PR",
-      "ldcp": 159.51,
-      "open": 162.0,
-      "high": 162.47,
-      "low": 157.05,
-      "close": 158.0,
-      "change": -1.51,
-      "pct": -0.947,
-      "volume": 12686
+      "sym": "JATM",
+      "sec_code": "0830",
+      "listed": "ALLSHR",
+      "ldcp": 23.01,
+      "open": 24.27,
+      "high": 24.45,
+      "low": 23.0,
+      "close": 23.12,
+      "change": 0.11,
+      "pct": 0.47800000000000004,
+      "volume": 12866
+    },
+    {
+      "sym": "GATI",
+      "sec_code": "0827",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 90.27,
+      "open": 89.97,
+      "high": 90.98,
+      "low": 88.12,
+      "close": 88.7,
+      "change": -1.57,
+      "pct": -1.7389999999999999,
+      "volume": 12233
     },
     {
       "sym": "PGLC",
@@ -3566,19 +3618,6 @@
       "volume": 12121
     },
     {
-      "sym": "RUBY",
-      "sec_code": "0830",
-      "listed": "ALLSHR",
-      "ldcp": 15.31,
-      "open": 15.95,
-      "high": 15.97,
-      "low": 15.16,
-      "close": 15.5,
-      "change": 0.19,
-      "pct": 1.2409999999999999,
-      "volume": 12108
-    },
-    {
       "sym": "ACIETF",
       "sec_code": "0837",
       "listed": null,
@@ -3592,19 +3631,6 @@
       "volume": 12000
     },
     {
-      "sym": "JATM",
-      "sec_code": "0830",
-      "listed": "ALLSHR",
-      "ldcp": 23.01,
-      "open": 24.27,
-      "high": 24.45,
-      "low": 23.0,
-      "close": 24.2,
-      "change": 1.19,
-      "pct": 5.172000000000001,
-      "volume": 11813
-    },
-    {
       "sym": "BRRG",
       "sec_code": "0838",
       "listed": "ALLSHR,KMIALLSHR",
@@ -3612,10 +3638,10 @@
       "open": 46.9,
       "high": 46.9,
       "low": 40.02,
-      "close": 44.5,
-      "change": 0.7,
-      "pct": 1.598,
-      "volume": 11528
+      "close": 45.63,
+      "change": 1.83,
+      "pct": 4.178,
+      "volume": 11530
     },
     {
       "sym": "LSEFSL",
@@ -3629,6 +3655,32 @@
       "change": -0.19,
       "pct": -0.8380000000000001,
       "volume": 11443
+    },
+    {
+      "sym": "WAFI",
+      "sec_code": "0821",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 195.98,
+      "open": 196.01,
+      "high": 196.9,
+      "low": 192.0,
+      "close": 195.0,
+      "change": -0.98,
+      "pct": -0.5,
+      "volume": 11216
+    },
+    {
+      "sym": "KSBP",
+      "sec_code": "0808",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 200.35,
+      "open": 202.0,
+      "high": 202.33,
+      "low": 198.0,
+      "close": 201.5,
+      "change": 1.15,
+      "pct": 0.5740000000000001,
+      "volume": 10929
     },
     {
       "sym": "AATM",
@@ -3657,17 +3709,17 @@
       "volume": 10209
     },
     {
-      "sym": "KSBP",
-      "sec_code": "0808",
+      "sym": "LIVEN",
+      "sec_code": "0823",
       "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 200.35,
-      "open": 202.0,
-      "high": 202.0,
-      "low": 198.0,
-      "close": 200.9,
-      "change": 0.55,
-      "pct": 0.27499999999999997,
-      "volume": 10157
+      "ldcp": 36.5,
+      "open": 36.01,
+      "high": 36.3,
+      "low": 36.0,
+      "close": 36.0,
+      "change": -0.5,
+      "pct": -1.37,
+      "volume": 9543
     },
     {
       "sym": "NBPGETF",
@@ -3683,17 +3735,30 @@
       "volume": 9500
     },
     {
-      "sym": "GATI",
-      "sec_code": "0827",
+      "sym": "FECM",
+      "sec_code": "0819",
       "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 90.27,
-      "open": 89.97,
-      "high": 90.98,
-      "low": 89.0,
-      "close": 89.0,
-      "change": -1.27,
-      "pct": -1.407,
-      "volume": 9183
+      "ldcp": 17.07,
+      "open": 17.08,
+      "high": 17.4,
+      "low": 16.66,
+      "close": 17.4,
+      "change": 0.33,
+      "pct": 1.933,
+      "volume": 9332
+    },
+    {
+      "sym": "JGICL",
+      "sec_code": "0812",
+      "listed": "ALLSHR",
+      "ldcp": 72.95,
+      "open": 72.98,
+      "high": 73.7,
+      "low": 72.0,
+      "close": 72.0,
+      "change": -0.95,
+      "pct": -1.302,
+      "volume": 9176
     },
     {
       "sym": "ICCI",
@@ -3703,10 +3768,23 @@
       "open": 12.25,
       "high": 12.68,
       "low": 12.25,
-      "close": 12.3,
-      "change": -0.01,
-      "pct": -0.08099999999999999,
-      "volume": 9116
+      "close": 12.25,
+      "change": -0.06,
+      "pct": -0.48700000000000004,
+      "volume": 9117
+    },
+    {
+      "sym": "UNIC",
+      "sec_code": "0812",
+      "listed": "ALLSHR",
+      "ldcp": 12.35,
+      "open": 12.19,
+      "high": 12.69,
+      "low": 12.19,
+      "close": 12.21,
+      "change": -0.14,
+      "pct": -1.134,
+      "volume": 9084
     },
     {
       "sym": "QUET",
@@ -3722,19 +3800,6 @@
       "volume": 9045
     },
     {
-      "sym": "CJPL",
-      "sec_code": "0814",
-      "listed": "ALLSHR",
-      "ldcp": 13.67,
-      "open": 13.41,
-      "high": 13.99,
-      "low": 13.32,
-      "close": 13.4,
-      "change": -0.27,
-      "pct": -1.975,
-      "volume": 8890
-    },
-    {
       "sym": "TCORP",
       "sec_code": "0826",
       "listed": "ALLSHR,KMIALLSHR",
@@ -3742,36 +3807,23 @@
       "open": 23.65,
       "high": 23.65,
       "low": 22.05,
-      "close": 23.36,
-      "change": 0.14,
-      "pct": 0.603,
-      "volume": 8720
+      "close": 22.99,
+      "change": -0.23,
+      "pct": -0.991,
+      "volume": 8920
     },
     {
-      "sym": "LIVEN",
-      "sec_code": "0823",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 36.5,
-      "open": 36.01,
-      "high": 36.3,
-      "low": 36.01,
-      "close": 36.16,
-      "change": -0.34,
-      "pct": -0.932,
-      "volume": 8646
-    },
-    {
-      "sym": "FECM",
-      "sec_code": "0819",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 17.07,
-      "open": 17.08,
-      "high": 17.4,
-      "low": 16.66,
-      "close": 17.3,
-      "change": 0.23,
-      "pct": 1.347,
-      "volume": 8632
+      "sym": "COLG",
+      "sec_code": "0810",
+      "listed": "ALLSHR,KSE100,KSE100PR",
+      "ldcp": 1117.46,
+      "open": 1155.0,
+      "high": 1155.0,
+      "low": 1111.53,
+      "close": 1135.5,
+      "change": 18.04,
+      "pct": 1.614,
+      "volume": 8597
     },
     {
       "sym": "DWAE",
@@ -3798,6 +3850,19 @@
       "change": 0.3,
       "pct": 1.5630000000000002,
       "volume": 8513
+    },
+    {
+      "sym": "LPL",
+      "sec_code": "0824",
+      "listed": "ALLSHR",
+      "ldcp": 20.02,
+      "open": 19.6,
+      "high": 19.99,
+      "low": 19.51,
+      "close": 19.66,
+      "change": -0.36,
+      "pct": -1.798,
+      "volume": 7803
     },
     {
       "sym": "OTSU",
@@ -3833,36 +3898,62 @@
       "open": 450.1,
       "high": 456.8,
       "low": 450.1,
-      "close": 452.0,
-      "change": -0.33,
-      "pct": -0.073,
-      "volume": 7559
+      "close": 454.7,
+      "change": 2.37,
+      "pct": 0.524,
+      "volume": 7668
     },
     {
-      "sym": "UNIC",
-      "sec_code": "0812",
-      "listed": "ALLSHR",
-      "ldcp": 12.35,
-      "open": 12.19,
-      "high": 12.69,
-      "low": 12.19,
-      "close": 12.22,
-      "change": -0.13,
-      "pct": -1.053,
-      "volume": 7443
+      "sym": "BFMOD",
+      "sec_code": "0819",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 22.11,
+      "open": 22.11,
+      "high": 22.42,
+      "low": 21.51,
+      "close": 21.6,
+      "change": -0.51,
+      "pct": -2.307,
+      "volume": 7600
     },
     {
-      "sym": "JGICL",
-      "sec_code": "0812",
+      "sym": "AGIL",
+      "sec_code": "0802",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 160.0,
+      "open": 162.99,
+      "high": 162.99,
+      "low": 157.11,
+      "close": 157.99,
+      "change": -2.01,
+      "pct": -1.256,
+      "volume": 7478
+    },
+    {
+      "sym": "FEROZ",
+      "sec_code": "0823",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 372.17,
+      "open": 374.5,
+      "high": 374.5,
+      "low": 369.51,
+      "close": 374.0,
+      "change": 1.83,
+      "pct": 0.492,
+      "volume": 7459
+    },
+    {
+      "sym": "DWTM",
+      "sec_code": "0830",
       "listed": "ALLSHR",
-      "ldcp": 72.95,
-      "open": 72.98,
-      "high": 73.7,
-      "low": 72.4,
-      "close": 72.4,
-      "change": -0.55,
-      "pct": -0.754,
-      "volume": 7176
+      "ldcp": 9.6,
+      "open": 10.0,
+      "high": 10.0,
+      "low": 9.26,
+      "close": 9.45,
+      "change": -0.15,
+      "pct": -1.5630000000000002,
+      "volume": 7210
     },
     {
       "sym": "MFFL",
@@ -3875,46 +3966,33 @@
       "close": 158.0,
       "change": 0.81,
       "pct": 0.515,
-      "volume": 7112
+      "volume": 7195
     },
     {
-      "sym": "DWTM",
-      "sec_code": "0830",
-      "listed": "ALLSHR",
-      "ldcp": 9.6,
-      "open": 10.0,
-      "high": 10.0,
-      "low": 9.26,
-      "close": 9.5,
-      "change": -0.1,
-      "pct": -1.042,
-      "volume": 7110
-    },
-    {
-      "sym": "LPL",
-      "sec_code": "0824",
-      "listed": "ALLSHR",
-      "ldcp": 20.02,
-      "open": 19.6,
-      "high": 19.99,
-      "low": 19.51,
-      "close": 19.66,
-      "change": -0.36,
-      "pct": -1.798,
-      "volume": 7003
-    },
-    {
-      "sym": "BFMOD",
-      "sec_code": "0819",
+      "sym": "GOC",
+      "sec_code": "0818",
       "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 22.11,
-      "open": 22.11,
-      "high": 22.42,
-      "low": 21.6,
-      "close": 21.6,
-      "change": -0.51,
-      "pct": -2.307,
-      "volume": 6955
+      "ldcp": 95.02,
+      "open": 95.02,
+      "high": 104.45,
+      "low": 90.0,
+      "close": 95.0,
+      "change": -0.02,
+      "pct": -0.021,
+      "volume": 6949
+    },
+    {
+      "sym": "ARUJ",
+      "sec_code": "0829",
+      "listed": "ALLSHR",
+      "ldcp": 10.86,
+      "open": 11.1,
+      "high": 11.25,
+      "low": 10.25,
+      "close": 11.25,
+      "change": 0.39,
+      "pct": 3.5909999999999997,
+      "volume": 6852
     },
     {
       "sym": "MIRKS",
@@ -3930,32 +4008,6 @@
       "volume": 6751
     },
     {
-      "sym": "GOC",
-      "sec_code": "0818",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 95.02,
-      "open": 95.02,
-      "high": 104.45,
-      "low": 90.0,
-      "close": 100.0,
-      "change": 4.98,
-      "pct": 5.241,
-      "volume": 6749
-    },
-    {
-      "sym": "WAFI",
-      "sec_code": "0821",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 195.98,
-      "open": 196.01,
-      "high": 196.9,
-      "low": 193.0,
-      "close": 193.0,
-      "change": -2.98,
-      "pct": -1.521,
-      "volume": 6316
-    },
-    {
       "sym": "ASHT",
       "sec_code": "0831",
       "listed": "ALLSHR,KMIALLSHR",
@@ -3963,23 +4015,36 @@
       "open": 40.75,
       "high": 40.75,
       "low": 36.0,
-      "close": 37.0,
-      "change": -2.04,
-      "pct": -5.225,
-      "volume": 6295
+      "close": 38.0,
+      "change": -1.04,
+      "pct": -2.664,
+      "volume": 6545
     },
     {
-      "sym": "COLG",
-      "sec_code": "0810",
-      "listed": "ALLSHR,KSE100,KSE100PR",
-      "ldcp": 1117.46,
-      "open": 1155.0,
-      "high": 1155.0,
-      "low": 1111.53,
-      "close": 1132.94,
-      "change": 15.48,
-      "pct": 1.385,
-      "volume": 6234
+      "sym": "HABSM",
+      "sec_code": "0826",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 73.02,
+      "open": 72.54,
+      "high": 73.06,
+      "low": 72.54,
+      "close": 73.0,
+      "change": -0.02,
+      "pct": -0.027,
+      "volume": 6326
+    },
+    {
+      "sym": "ECOP",
+      "sec_code": "0818",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 46.29,
+      "open": 47.75,
+      "high": 47.75,
+      "low": 45.5,
+      "close": 45.8,
+      "change": -0.49,
+      "pct": -1.059,
+      "volume": 6035
     },
     {
       "sym": "OLPL",
@@ -3995,17 +4060,17 @@
       "volume": 6007
     },
     {
-      "sym": "ARUJ",
-      "sec_code": "0829",
-      "listed": "ALLSHR",
-      "ldcp": 10.86,
-      "open": 11.1,
-      "high": 11.13,
-      "low": 10.25,
-      "close": 10.95,
-      "change": 0.09,
-      "pct": 0.8290000000000001,
-      "volume": 5989
+      "sym": "KPUS",
+      "sec_code": "0826",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 2108.92,
+      "open": 2319.81,
+      "high": 2319.81,
+      "low": 1898.03,
+      "close": 2020.0,
+      "change": -88.92,
+      "pct": -4.216,
+      "volume": 5937
     },
     {
       "sym": "KOHTM",
@@ -4021,58 +4086,6 @@
       "volume": 5927
     },
     {
-      "sym": "ECOP",
-      "sec_code": "0818",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 46.29,
-      "open": 47.75,
-      "high": 47.75,
-      "low": 45.5,
-      "close": 46.0,
-      "change": -0.29,
-      "pct": -0.626,
-      "volume": 5815
-    },
-    {
-      "sym": "FEROZ",
-      "sec_code": "0823",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 372.17,
-      "open": 374.5,
-      "high": 374.5,
-      "low": 369.51,
-      "close": 373.98,
-      "change": 1.81,
-      "pct": 0.486,
-      "volume": 5799
-    },
-    {
-      "sym": "KPUS",
-      "sec_code": "0826",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 2108.92,
-      "open": 2319.81,
-      "high": 2319.81,
-      "low": 1898.03,
-      "close": 2000.06,
-      "change": -108.86,
-      "pct": -5.162,
-      "volume": 5767
-    },
-    {
-      "sym": "HABSM",
-      "sec_code": "0826",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 73.02,
-      "open": 72.54,
-      "high": 73.06,
-      "low": 72.54,
-      "close": 73.0,
-      "change": -0.02,
-      "pct": -0.027,
-      "volume": 5767
-    },
-    {
       "sym": "GFIL",
       "sec_code": "0829",
       "listed": "ALLSHR,KMIALLSHR",
@@ -4084,6 +4097,19 @@
       "change": -0.33,
       "pct": -1.0699999999999998,
       "volume": 5728
+    },
+    {
+      "sym": "FLYNG",
+      "sec_code": "0804",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 41.17,
+      "open": 40.7,
+      "high": 41.64,
+      "low": 40.6,
+      "close": 41.1,
+      "change": -0.07,
+      "pct": -0.16999999999999998,
+      "volume": 5355
     },
     {
       "sym": "FTMM",
@@ -4099,32 +4125,6 @@
       "volume": 5010
     },
     {
-      "sym": "AGIL",
-      "sec_code": "0802",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 160.0,
-      "open": 162.99,
-      "high": 162.99,
-      "low": 158.0,
-      "close": 159.99,
-      "change": -0.01,
-      "pct": -0.006,
-      "volume": 5001
-    },
-    {
-      "sym": "FLYNG",
-      "sec_code": "0804",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 41.17,
-      "open": 40.7,
-      "high": 41.64,
-      "low": 40.6,
-      "close": 41.1,
-      "change": -0.07,
-      "pct": -0.16999999999999998,
-      "volume": 4955
-    },
-    {
       "sym": "MSOT",
       "sec_code": "0829",
       "listed": "ALLSHR",
@@ -4132,10 +4132,10 @@
       "open": 71.25,
       "high": 82.68,
       "low": 71.25,
-      "close": 74.0,
-      "change": -1.29,
-      "pct": -1.7129999999999999,
-      "volume": 4945
+      "close": 76.0,
+      "change": 0.71,
+      "pct": 0.943,
+      "volume": 4946
     },
     {
       "sym": "BAFS",
@@ -4148,7 +4148,20 @@
       "close": 294.82,
       "change": 26.8,
       "pct": 9.998999999999999,
-      "volume": 4887
+      "volume": 4921
+    },
+    {
+      "sym": "UDPL",
+      "sec_code": "0818",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 110.98,
+      "open": 112.48,
+      "high": 112.5,
+      "low": 110.05,
+      "close": 111.75,
+      "change": 0.77,
+      "pct": 0.694,
+      "volume": 4760
     },
     {
       "sym": "FHAM",
@@ -4164,19 +4177,6 @@
       "volume": 4739
     },
     {
-      "sym": "UDPL",
-      "sec_code": "0818",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 110.98,
-      "open": 112.48,
-      "high": 112.5,
-      "low": 110.05,
-      "close": 112.0,
-      "change": 1.02,
-      "pct": 0.919,
-      "volume": 4706
-    },
-    {
       "sym": "INDU",
       "sec_code": "0801",
       "listed": "ALLSHR,KSE100,KSE100PR",
@@ -4184,10 +4184,36 @@
       "open": 2010.0,
       "high": 2010.0,
       "low": 1982.12,
-      "close": 1999.96,
-      "change": 0.77,
-      "pct": 0.039,
-      "volume": 4538
+      "close": 1999.0,
+      "change": -0.19,
+      "pct": -0.01,
+      "volume": 4649
+    },
+    {
+      "sym": "STYLERS",
+      "sec_code": "0839",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 47.14,
+      "open": 47.0,
+      "high": 49.5,
+      "low": 46.0,
+      "close": 46.0,
+      "change": -1.14,
+      "pct": -2.418,
+      "volume": 4553
+    },
+    {
+      "sym": "BAPL",
+      "sec_code": "0805",
+      "listed": "ALLSHR",
+      "ldcp": 33.0,
+      "open": 33.49,
+      "high": 33.95,
+      "low": 32.9,
+      "close": 33.49,
+      "change": 0.49,
+      "pct": 1.485,
+      "volume": 4475
     },
     {
       "sym": "SANSM",
@@ -4216,32 +4242,6 @@
       "volume": 4410
     },
     {
-      "sym": "BAPL",
-      "sec_code": "0805",
-      "listed": "ALLSHR",
-      "ldcp": 33.0,
-      "open": 33.49,
-      "high": 33.95,
-      "low": 32.9,
-      "close": 32.95,
-      "change": -0.05,
-      "pct": -0.152,
-      "volume": 4375
-    },
-    {
-      "sym": "STYLERS",
-      "sec_code": "0839",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 47.14,
-      "open": 47.0,
-      "high": 49.5,
-      "low": 46.0,
-      "close": 46.0,
-      "change": -1.14,
-      "pct": -2.418,
-      "volume": 4363
-    },
-    {
       "sym": "PASM",
       "sec_code": "0829",
       "listed": "ALLSHR",
@@ -4253,6 +4253,32 @@
       "change": -0.23,
       "pct": -3.5770000000000004,
       "volume": 4100
+    },
+    {
+      "sym": "SPL",
+      "sec_code": "0805",
+      "listed": "ALLSHR",
+      "ldcp": 65.55,
+      "open": 66.5,
+      "high": 66.5,
+      "low": 64.0,
+      "close": 64.5,
+      "change": -1.05,
+      "pct": -1.6019999999999999,
+      "volume": 4085
+    },
+    {
+      "sym": "AGIC",
+      "sec_code": "0812",
+      "listed": "ALLSHR",
+      "ldcp": 36.87,
+      "open": 36.87,
+      "high": 37.48,
+      "low": 36.2,
+      "close": 36.85,
+      "change": -0.02,
+      "pct": -0.054,
+      "volume": 4018
     },
     {
       "sym": "CPPL",
@@ -4268,30 +4294,17 @@
       "volume": 3998
     },
     {
-      "sym": "AGIC",
-      "sec_code": "0812",
-      "listed": "ALLSHR",
-      "ldcp": 36.87,
-      "open": 36.87,
-      "high": 37.48,
-      "low": 36.2,
-      "close": 36.85,
-      "change": -0.02,
-      "pct": -0.054,
-      "volume": 3988
-    },
-    {
-      "sym": "SPL",
-      "sec_code": "0805",
-      "listed": "ALLSHR",
-      "ldcp": 65.55,
-      "open": 66.5,
-      "high": 66.5,
-      "low": 64.0,
-      "close": 65.39,
-      "change": -0.16,
-      "pct": -0.244,
-      "volume": 3935
+      "sym": "POML",
+      "sec_code": "0834",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 136.12,
+      "open": 142.0,
+      "high": 149.73,
+      "low": 136.2,
+      "close": 142.0,
+      "change": 5.88,
+      "pct": 4.32,
+      "volume": 3957
     },
     {
       "sym": "MACTER",
@@ -4301,10 +4314,10 @@
       "open": 270.0,
       "high": 270.0,
       "low": 267.55,
-      "close": 267.8,
-      "change": -0.94,
-      "pct": -0.35000000000000003,
-      "volume": 3844
+      "close": 267.99,
+      "change": -0.75,
+      "pct": -0.27899999999999997,
+      "volume": 3906
     },
     {
       "sym": "THALL",
@@ -4333,30 +4346,17 @@
       "volume": 3779
     },
     {
-      "sym": "POML",
-      "sec_code": "0834",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 136.12,
-      "open": 142.0,
-      "high": 149.73,
-      "low": 136.2,
-      "close": 142.0,
-      "change": 5.88,
-      "pct": 4.32,
-      "volume": 3757
-    },
-    {
-      "sym": "KSTM",
-      "sec_code": "0830",
+      "sym": "HIFA",
+      "sec_code": "0806",
       "listed": "ALLSHR",
-      "ldcp": 10.47,
-      "open": 10.01,
-      "high": 10.84,
-      "low": 10.01,
-      "close": 10.84,
-      "change": 0.37,
-      "pct": 3.5340000000000003,
-      "volume": 3643
+      "ldcp": 5.02,
+      "open": 4.96,
+      "high": 5.2,
+      "low": 4.86,
+      "close": 5.1,
+      "change": 0.08,
+      "pct": 1.5939999999999999,
+      "volume": 3730
     },
     {
       "sym": "EXIDE",
@@ -4366,23 +4366,49 @@
       "open": 526.1,
       "high": 528.0,
       "low": 525.0,
-      "close": 526.0,
-      "change": 0.77,
-      "pct": 0.147,
-      "volume": 3598
+      "close": 525.0,
+      "change": -0.23,
+      "pct": -0.044000000000000004,
+      "volume": 3698
     },
     {
-      "sym": "HIFA",
-      "sec_code": "0806",
+      "sym": "KSTM",
+      "sec_code": "0830",
       "listed": "ALLSHR",
-      "ldcp": 5.02,
-      "open": 4.96,
-      "high": 5.2,
-      "low": 4.86,
-      "close": 5.0,
-      "change": -0.02,
-      "pct": -0.398,
-      "volume": 3558
+      "ldcp": 10.47,
+      "open": 10.01,
+      "high": 10.84,
+      "low": 9.79,
+      "close": 9.79,
+      "change": -0.68,
+      "pct": -6.494999999999999,
+      "volume": 3644
+    },
+    {
+      "sym": "TOWL",
+      "sec_code": "0829",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 116.23,
+      "open": 118.49,
+      "high": 118.49,
+      "low": 115.13,
+      "close": 115.16,
+      "change": -1.07,
+      "pct": -0.9209999999999999,
+      "volume": 3610
+    },
+    {
+      "sym": "ARCTM",
+      "sec_code": "0830",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 27.45,
+      "open": 27.0,
+      "high": 27.7,
+      "low": 27.0,
+      "close": 27.05,
+      "change": -0.4,
+      "pct": -1.4569999999999999,
+      "volume": 3606
     },
     {
       "sym": "PNSC",
@@ -4392,10 +4418,10 @@
       "open": 504.0,
       "high": 507.0,
       "low": 496.01,
-      "close": 501.51,
-      "change": -3.48,
-      "pct": -0.6890000000000001,
-      "volume": 3424
+      "close": 505.0,
+      "change": 0.01,
+      "pct": 0.002,
+      "volume": 3425
     },
     {
       "sym": "GAMON",
@@ -4434,7 +4460,7 @@
       "close": 218.0,
       "change": -1.36,
       "pct": -0.62,
-      "volume": 3156
+      "volume": 3256
     },
     {
       "sym": "ATIL",
@@ -4444,10 +4470,62 @@
       "open": 73.89,
       "high": 73.89,
       "low": 72.5,
-      "close": 72.51,
-      "change": 0.26,
-      "pct": 0.36,
-      "volume": 3131
+      "close": 72.7,
+      "change": 0.45,
+      "pct": 0.623,
+      "volume": 3133
+    },
+    {
+      "sym": "SRVI",
+      "sec_code": "0816",
+      "listed": "ALLSHR,KSE100,KSE100PR",
+      "ldcp": 2022.39,
+      "open": 2057.86,
+      "high": 2057.86,
+      "low": 2003.1,
+      "close": 2010.0,
+      "change": -12.39,
+      "pct": -0.613,
+      "volume": 2915
+    },
+    {
+      "sym": "CHAS",
+      "sec_code": "0826",
+      "listed": "ALLSHR",
+      "ldcp": 80.2,
+      "open": 82.0,
+      "high": 82.0,
+      "low": 77.51,
+      "close": 78.0,
+      "change": -2.2,
+      "pct": -2.743,
+      "volume": 2822
+    },
+    {
+      "sym": "PKGP",
+      "sec_code": "0824",
+      "listed": "ALLSHR",
+      "ldcp": 40.9,
+      "open": 41.0,
+      "high": 41.97,
+      "low": 40.48,
+      "close": 40.83,
+      "change": -0.07,
+      "pct": -0.17099999999999999,
+      "volume": 2805
+    },
+    {
+      "sym": "MRNS",
+      "sec_code": "0826",
+      "listed": "ALLSHR",
+      "ldcp": 61.57,
+      "open": 61.02,
+      "high": 61.98,
+      "low": 60.02,
+      "close": 60.86,
+      "change": -0.71,
+      "pct": -1.153,
+      "volume": 2774
     },
     {
       "sym": "BNWM",
@@ -4463,43 +4541,17 @@
       "volume": 2763
     },
     {
-      "sym": "MRNS",
-      "sec_code": "0826",
-      "listed": "ALLSHR",
-      "ldcp": 61.57,
-      "open": 61.02,
-      "high": 61.98,
-      "low": 60.02,
-      "close": 60.87,
-      "change": -0.7,
-      "pct": -1.137,
-      "volume": 2754
-    },
-    {
-      "sym": "TOWL",
-      "sec_code": "0829",
+      "sym": "WAHN",
+      "sec_code": "0805",
       "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 116.23,
-      "open": 118.49,
-      "high": 118.49,
-      "low": 115.13,
-      "close": 115.6,
-      "change": -0.63,
-      "pct": -0.542,
-      "volume": 2610
-    },
-    {
-      "sym": "ARCTM",
-      "sec_code": "0830",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 27.45,
-      "open": 27.0,
-      "high": 27.7,
-      "low": 27.0,
-      "close": 27.05,
-      "change": -0.4,
-      "pct": -1.4569999999999999,
-      "volume": 2606
+      "ldcp": 300.28,
+      "open": 290.0,
+      "high": 298.5,
+      "low": 290.0,
+      "close": 291.5,
+      "change": -8.78,
+      "pct": -2.924,
+      "volume": 2705
     },
     {
       "sym": "MUREB",
@@ -4509,10 +4561,10 @@
       "open": 922.18,
       "high": 948.0,
       "low": 836.85,
-      "close": 916.1,
-      "change": -13.73,
-      "pct": -1.477,
-      "volume": 2526
+      "close": 920.0,
+      "change": -9.83,
+      "pct": -1.057,
+      "volume": 2552
     },
     {
       "sym": "PIM",
@@ -4528,17 +4580,17 @@
       "volume": 2505
     },
     {
-      "sym": "WAHN",
-      "sec_code": "0805",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 300.28,
-      "open": 290.0,
-      "high": 298.5,
-      "low": 290.0,
-      "close": 291.57,
-      "change": -8.71,
-      "pct": -2.9010000000000002,
-      "volume": 2455
+      "sym": "PCAL",
+      "sec_code": "0803",
+      "listed": "ALLSHR",
+      "ldcp": 150.89,
+      "open": 155.0,
+      "high": 155.0,
+      "low": 147.0,
+      "close": 147.0,
+      "change": -3.89,
+      "pct": -2.5780000000000003,
+      "volume": 2501
     },
     {
       "sym": "PAKT",
@@ -4551,7 +4603,7 @@
       "close": 1327.95,
       "change": 2.18,
       "pct": 0.164,
-      "volume": 2403
+      "volume": 2430
     },
     {
       "sym": "PTL",
@@ -4565,32 +4617,6 @@
       "change": 0.21,
       "pct": 0.407,
       "volume": 2400
-    },
-    {
-      "sym": "SRVI",
-      "sec_code": "0816",
-      "listed": "ALLSHR,KSE100,KSE100PR",
-      "ldcp": 2022.39,
-      "open": 2057.86,
-      "high": 2057.86,
-      "low": 2003.1,
-      "close": 2010.0,
-      "change": -12.39,
-      "pct": -0.613,
-      "volume": 2362
-    },
-    {
-      "sym": "PKGP",
-      "sec_code": "0824",
-      "listed": "ALLSHR",
-      "ldcp": 40.9,
-      "open": 41.0,
-      "high": 41.97,
-      "low": 40.48,
-      "close": 41.5,
-      "change": 0.6,
-      "pct": 1.467,
-      "volume": 2337
     },
     {
       "sym": "GRYL",
@@ -4619,6 +4645,19 @@
       "volume": 2324
     },
     {
+      "sym": "NSRM",
+      "sec_code": "0827",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 147.99,
+      "open": 135.49,
+      "high": 150.0,
+      "low": 135.0,
+      "close": 135.0,
+      "change": -12.99,
+      "pct": -8.778,
+      "volume": 2321
+    },
+    {
       "sym": "SURC",
       "sec_code": "0829",
       "listed": "ALLSHR,KMIALLSHR",
@@ -4630,6 +4669,32 @@
       "change": 0.59,
       "pct": 0.45399999999999996,
       "volume": 2266
+    },
+    {
+      "sym": "PINL",
+      "sec_code": "0812",
+      "listed": "ALLSHR",
+      "ldcp": 8.9,
+      "open": 8.93,
+      "high": 9.09,
+      "low": 8.25,
+      "close": 8.9,
+      "change": 0.0,
+      "pct": 0.0,
+      "volume": 2234
+    },
+    {
+      "sym": "SSOM",
+      "sec_code": "0834",
+      "listed": "ALLSHR,KMIALLSHR,KSE100,KSE100PR",
+      "ldcp": 407.1,
+      "open": 413.78,
+      "high": 414.5,
+      "low": 408.0,
+      "close": 410.99,
+      "change": 3.89,
+      "pct": 0.9560000000000001,
+      "volume": 2217
     },
     {
       "sym": "SSML",
@@ -4645,43 +4710,30 @@
       "volume": 2209
     },
     {
-      "sym": "PINL",
-      "sec_code": "0812",
-      "listed": "ALLSHR",
-      "ldcp": 8.9,
-      "open": 8.93,
-      "high": 9.09,
-      "low": 8.25,
-      "close": 8.9,
-      "change": 0.0,
-      "pct": 0.0,
-      "volume": 2174
+      "sym": "FZCM",
+      "sec_code": "0829",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 251.99,
+      "open": 258.98,
+      "high": 258.98,
+      "low": 250.0,
+      "close": 255.95,
+      "change": 3.96,
+      "pct": 1.5709999999999997,
+      "volume": 2188
     },
     {
-      "sym": "SSOM",
-      "sec_code": "0834",
-      "listed": "ALLSHR,KMIALLSHR,KSE100,KSE100PR",
-      "ldcp": 407.1,
-      "open": 413.78,
-      "high": 414.5,
-      "low": 408.0,
-      "close": 410.0,
-      "change": 2.9,
-      "pct": 0.712,
-      "volume": 2152
-    },
-    {
-      "sym": "PCAL",
-      "sec_code": "0803",
-      "listed": "ALLSHR",
-      "ldcp": 150.89,
-      "open": 155.0,
-      "high": 155.0,
-      "low": 148.02,
-      "close": 150.0,
-      "change": -0.89,
-      "pct": -0.59,
-      "volume": 2100
+      "sym": "SITC",
+      "sec_code": "0805",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 913.5,
+      "open": 909.0,
+      "high": 915.0,
+      "low": 890.0,
+      "close": 900.0,
+      "change": -13.5,
+      "pct": -1.478,
+      "volume": 2178
     },
     {
       "sym": "FTSM",
@@ -4697,19 +4749,6 @@
       "volume": 2100
     },
     {
-      "sym": "SITC",
-      "sec_code": "0805",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 913.5,
-      "open": 909.0,
-      "high": 915.0,
-      "low": 890.0,
-      "close": 905.0,
-      "change": -8.5,
-      "pct": -0.9299999999999999,
-      "volume": 2049
-    },
-    {
       "sym": "ATLH",
       "sec_code": "0801",
       "listed": "ALLSHR,KSE100,KSE100PR",
@@ -4717,10 +4756,23 @@
       "open": 1770.0,
       "high": 1780.0,
       "low": 1750.0,
-      "close": 1765.02,
-      "change": -5.28,
-      "pct": -0.298,
-      "volume": 2025
+      "close": 1770.0,
+      "change": -0.3,
+      "pct": -0.017,
+      "volume": 2075
+    },
+    {
+      "sym": "PABC",
+      "sec_code": "0818",
+      "listed": "ALLSHR,KSE100,KSE100PR",
+      "ldcp": 105.6,
+      "open": 105.0,
+      "high": 106.75,
+      "low": 103.01,
+      "close": 105.65,
+      "change": 0.05,
+      "pct": 0.047,
+      "volume": 2072
     },
     {
       "sym": "GSPM",
@@ -4749,17 +4801,17 @@
       "volume": 2001
     },
     {
-      "sym": "NSRM",
-      "sec_code": "0827",
+      "sym": "AGTL",
+      "sec_code": "0801",
       "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 147.99,
-      "open": 135.49,
-      "high": 150.0,
-      "low": 135.13,
-      "close": 135.13,
-      "change": -12.86,
-      "pct": -8.690000000000001,
-      "volume": 1981
+      "ldcp": 353.79,
+      "open": 357.01,
+      "high": 357.01,
+      "low": 350.02,
+      "close": 351.6,
+      "change": -2.19,
+      "pct": -0.619,
+      "volume": 1997
     },
     {
       "sym": "HICL",
@@ -4769,10 +4821,10 @@
       "open": 10.08,
       "high": 10.1,
       "low": 10.0,
-      "close": 10.0,
-      "change": -0.07,
-      "pct": -0.695,
-      "volume": 1918
+      "close": 10.08,
+      "change": 0.01,
+      "pct": 0.099,
+      "volume": 1919
     },
     {
       "sym": "BELA",
@@ -4782,36 +4834,10 @@
       "open": 54.09,
       "high": 56.7,
       "low": 54.09,
-      "close": 55.23,
-      "change": -1.01,
-      "pct": -1.796,
-      "volume": 1810
-    },
-    {
-      "sym": "AGTL",
-      "sec_code": "0801",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 353.79,
-      "open": 357.01,
-      "high": 357.01,
-      "low": 350.02,
-      "close": 353.0,
-      "change": -0.79,
-      "pct": -0.22300000000000003,
-      "volume": 1737
-    },
-    {
-      "sym": "CHAS",
-      "sec_code": "0826",
-      "listed": "ALLSHR",
-      "ldcp": 80.2,
-      "open": 82.0,
-      "high": 82.0,
-      "low": 77.51,
-      "close": 77.51,
-      "change": -2.69,
-      "pct": -3.354,
-      "volume": 1667
+      "close": 56.6,
+      "change": 0.36,
+      "pct": 0.64,
+      "volume": 1811
     },
     {
       "sym": "NONS",
@@ -4851,32 +4877,6 @@
       "change": -2.74,
       "pct": -2.251,
       "volume": 1564
-    },
-    {
-      "sym": "FZCM",
-      "sec_code": "0829",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 251.99,
-      "open": 258.98,
-      "high": 258.98,
-      "low": 250.0,
-      "close": 254.99,
-      "change": 3.0,
-      "pct": 1.191,
-      "volume": 1558
-    },
-    {
-      "sym": "PABC",
-      "sec_code": "0818",
-      "listed": "ALLSHR,KSE100,KSE100PR",
-      "ldcp": 105.6,
-      "open": 105.0,
-      "high": 106.75,
-      "low": 103.53,
-      "close": 105.65,
-      "change": 0.05,
-      "pct": 0.047,
-      "volume": 1521
     },
     {
       "sym": "HAEL",
@@ -5016,10 +5016,10 @@
       "open": 74.98,
       "high": 74.98,
       "low": 72.15,
-      "close": 74.7,
-      "change": 2.44,
-      "pct": 3.3770000000000002,
-      "volume": 1115
+      "close": 74.49,
+      "change": 2.23,
+      "pct": 3.086,
+      "volume": 1127
     },
     {
       "sym": "CENI",
@@ -5033,6 +5033,19 @@
       "change": -0.03,
       "pct": -0.056999999999999995,
       "volume": 1063
+    },
+    {
+      "sym": "SUTM",
+      "sec_code": "0830",
+      "listed": "ALLSHR",
+      "ldcp": 113.18,
+      "open": 117.25,
+      "high": 117.25,
+      "low": 109.0,
+      "close": 109.0,
+      "change": -4.18,
+      "pct": -3.6929999999999996,
+      "volume": 1034
     },
     {
       "sym": "SLYT",
@@ -5100,19 +5113,6 @@
       "volume": 971
     },
     {
-      "sym": "SUTM",
-      "sec_code": "0830",
-      "listed": "ALLSHR",
-      "ldcp": 113.18,
-      "open": 117.25,
-      "high": 117.25,
-      "low": 114.0,
-      "close": 114.99,
-      "change": 1.81,
-      "pct": 1.599,
-      "volume": 934
-    },
-    {
       "sym": "ALNRS",
       "sec_code": "0826",
       "listed": "ALLSHR,KMIALLSHR",
@@ -5124,6 +5124,19 @@
       "change": -0.01,
       "pct": -0.008,
       "volume": 840
+    },
+    {
+      "sym": "HINO",
+      "sec_code": "0801",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 332.81,
+      "open": 334.79,
+      "high": 334.79,
+      "low": 325.01,
+      "close": 326.0,
+      "change": -6.81,
+      "pct": -2.046,
+      "volume": 804
     },
     {
       "sym": "JVDCPS",
@@ -5256,17 +5269,30 @@
       "volume": 610
     },
     {
-      "sym": "HINO",
-      "sec_code": "0801",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 332.81,
-      "open": 334.79,
-      "high": 334.79,
-      "low": 325.01,
-      "close": 326.0,
-      "change": -6.81,
-      "pct": -2.046,
-      "volume": 567
+      "sym": "JDWS",
+      "sec_code": "0826",
+      "listed": "ALLSHR,KMIALLSHR,KSE100,KSE100PR",
+      "ldcp": 895.66,
+      "open": 916.98,
+      "high": 930.0,
+      "low": 902.01,
+      "close": 905.0,
+      "change": 9.34,
+      "pct": 1.043,
+      "volume": 569
+    },
+    {
+      "sym": "ARPAK",
+      "sec_code": "0818",
+      "listed": "ALLSHR",
+      "ldcp": 113.07,
+      "open": 110.0,
+      "high": 114.99,
+      "low": 104.0,
+      "close": 104.0,
+      "change": -9.07,
+      "pct": -8.022,
+      "volume": 563
     },
     {
       "sym": "AHTM",
@@ -5282,19 +5308,6 @@
       "volume": 559
     },
     {
-      "sym": "JDWS",
-      "sec_code": "0826",
-      "listed": "ALLSHR,KMIALLSHR,KSE100,KSE100PR",
-      "ldcp": 895.66,
-      "open": 916.98,
-      "high": 930.0,
-      "low": 902.01,
-      "close": 905.0,
-      "change": 9.34,
-      "pct": 1.043,
-      "volume": 554
-    },
-    {
       "sym": "STJT",
       "sec_code": "0831",
       "listed": "ALLSHR,KMIALLSHR",
@@ -5306,6 +5319,19 @@
       "change": 3.9,
       "pct": 3.1940000000000004,
       "volume": 553
+    },
+    {
+      "sym": "JDMT",
+      "sec_code": "0830",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 100.39,
+      "open": 103.98,
+      "high": 104.0,
+      "low": 95.05,
+      "close": 95.05,
+      "change": -5.34,
+      "pct": -5.319,
+      "volume": 546
     },
     {
       "sym": "ASLCPS",
@@ -5354,10 +5380,10 @@
       "open": 18.79,
       "high": 18.93,
       "low": 18.6,
-      "close": 18.6,
-      "change": -0.05,
-      "pct": -0.268,
-      "volume": 498
+      "close": 18.65,
+      "change": 0.0,
+      "pct": 0.0,
+      "volume": 500
     },
     {
       "sym": "HPL",
@@ -5386,19 +5412,6 @@
       "volume": 442
     },
     {
-      "sym": "JDMT",
-      "sec_code": "0830",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 100.39,
-      "open": 103.98,
-      "high": 104.0,
-      "low": 98.5,
-      "close": 104.0,
-      "change": 3.61,
-      "pct": 3.596,
-      "volume": 414
-    },
-    {
       "sym": "SHCM",
       "sec_code": "0830",
       "listed": "ALLSHR,KMIALLSHR",
@@ -5410,6 +5423,32 @@
       "change": -0.56,
       "pct": -1.398,
       "volume": 403
+    },
+    {
+      "sym": "JLICL",
+      "sec_code": "0812",
+      "listed": "ALLSHR",
+      "ldcp": 170.0,
+      "open": 170.0,
+      "high": 170.05,
+      "low": 170.0,
+      "close": 170.0,
+      "change": 0.0,
+      "pct": 0.0,
+      "volume": 403
+    },
+    {
+      "sym": "REDCO",
+      "sec_code": "0829",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 26.5,
+      "open": 26.2,
+      "high": 27.0,
+      "low": 26.01,
+      "close": 26.01,
+      "change": -0.49,
+      "pct": -1.849,
+      "volume": 402
     },
     {
       "sym": "FRSM",
@@ -5497,10 +5536,10 @@
       "open": 972.0,
       "high": 998.0,
       "low": 972.0,
-      "close": 974.0,
-      "change": -3.96,
-      "pct": -0.40499999999999997,
-      "volume": 239
+      "close": 994.6,
+      "change": 16.64,
+      "pct": 1.702,
+      "volume": 240
     },
     {
       "sym": "BTL",
@@ -5594,6 +5633,19 @@
       "volume": 162
     },
     {
+      "sym": "NESTLE",
+      "sec_code": "0810",
+      "listed": "ALLSHR,KMIALLSHR,KSE100,KSE100PR",
+      "ldcp": 7586.27,
+      "open": 7591.04,
+      "high": 7690.0,
+      "low": 7500.01,
+      "close": 7571.4,
+      "change": -14.87,
+      "pct": -0.196,
+      "volume": 154
+    },
+    {
       "sym": "DYNO",
       "sec_code": "0805",
       "listed": "ALLSHR,KMIALLSHR",
@@ -5605,19 +5657,6 @@
       "change": -2.38,
       "pct": -0.756,
       "volume": 145
-    },
-    {
-      "sym": "NESTLE",
-      "sec_code": "0810",
-      "listed": "ALLSHR,KMIALLSHR,KSE100,KSE100PR",
-      "ldcp": 7586.27,
-      "open": 7591.04,
-      "high": 7690.0,
-      "low": 7500.01,
-      "close": 7647.0,
-      "change": 60.73,
-      "pct": 0.8009999999999999,
-      "volume": 144
     },
     {
       "sym": "TICL",
@@ -5659,19 +5698,6 @@
       "volume": 128
     },
     {
-      "sym": "ARPAK",
-      "sec_code": "0818",
-      "listed": "ALLSHR",
-      "ldcp": 113.07,
-      "open": 110.0,
-      "high": 114.99,
-      "low": 104.5,
-      "close": 104.5,
-      "change": -8.57,
-      "pct": -7.579,
-      "volume": 114
-    },
-    {
       "sym": "PAKOXY",
       "sec_code": "0805",
       "listed": "ALLSHR,KMIALLSHR",
@@ -5698,16 +5724,16 @@
       "volume": 107
     },
     {
-      "sym": "JLICL",
-      "sec_code": "0812",
-      "listed": "ALLSHR",
-      "ldcp": 170.0,
-      "open": 170.0,
-      "high": 170.05,
-      "low": 170.0,
-      "close": 170.0,
-      "change": 0.0,
-      "pct": 0.0,
+      "sym": "HAFL",
+      "sec_code": "0829",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 385.93,
+      "open": 415.0,
+      "high": 415.0,
+      "low": 365.5,
+      "close": 381.0,
+      "change": -4.93,
+      "pct": -1.277,
       "volume": 106
     },
     {
@@ -5722,19 +5748,6 @@
       "change": -0.51,
       "pct": -2.166,
       "volume": 105
-    },
-    {
-      "sym": "REDCO",
-      "sec_code": "0829",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 26.5,
-      "open": 26.2,
-      "high": 27.0,
-      "low": 26.2,
-      "close": 26.2,
-      "change": -0.3,
-      "pct": -1.1320000000000001,
-      "volume": 102
     },
     {
       "sym": "PMRS",
@@ -5799,7 +5812,7 @@
       "close": 370.0,
       "change": 3.99,
       "pct": 1.09,
-      "volume": 70
+      "volume": 80
     },
     {
       "sym": "IBFL",
@@ -5841,6 +5854,19 @@
       "volume": 59
     },
     {
+      "sym": "DINT",
+      "sec_code": "0830",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 58.07,
+      "open": 58.85,
+      "high": 58.85,
+      "low": 55.02,
+      "close": 55.02,
+      "change": -3.05,
+      "pct": -5.252,
+      "volume": 52
+    },
+    {
       "sym": "JSIL",
       "sec_code": "0813",
       "listed": "ALLSHR",
@@ -5852,6 +5878,19 @@
       "change": -1.98,
       "pct": -4.717,
       "volume": 51
+    },
+    {
+      "sym": "ELCM",
+      "sec_code": "0830",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 184.98,
+      "open": 176.49,
+      "high": 176.49,
+      "low": 176.49,
+      "close": 176.49,
+      "change": -8.49,
+      "pct": -4.590000000000001,
+      "volume": 50
     },
     {
       "sym": "SNAI",
@@ -5880,6 +5919,19 @@
       "volume": 46
     },
     {
+      "sym": "SZTM",
+      "sec_code": "0830",
+      "listed": "ALLSHR,KMIALLSHR",
+      "ldcp": 48.71,
+      "open": 47.56,
+      "high": 50.95,
+      "low": 47.56,
+      "close": 50.95,
+      "change": 2.24,
+      "pct": 4.599,
+      "volume": 41
+    },
+    {
       "sym": "ALIFE",
       "sec_code": "0812",
       "listed": "ALLSHR",
@@ -5891,19 +5943,6 @@
       "change": 1.49,
       "pct": 4.656,
       "volume": 41
-    },
-    {
-      "sym": "SZTM",
-      "sec_code": "0830",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 48.71,
-      "open": 47.56,
-      "high": 47.56,
-      "low": 47.56,
-      "close": 47.56,
-      "change": -1.15,
-      "pct": -2.3609999999999998,
-      "volume": 40
     },
     {
       "sym": "SHEZ",
@@ -5971,6 +6010,19 @@
       "volume": 31
     },
     {
+      "sym": "TPLL",
+      "sec_code": "0812",
+      "listed": "ALLSHR",
+      "ldcp": 19.08,
+      "open": 19.08,
+      "high": 19.21,
+      "low": 19.08,
+      "close": 19.08,
+      "change": 0.0,
+      "pct": 0.0,
+      "volume": 28
+    },
+    {
       "sym": "HWQS",
       "sec_code": "0826",
       "listed": "ALLSHR",
@@ -6034,32 +6086,6 @@
       "change": 0.0,
       "pct": 0.0,
       "volume": 24
-    },
-    {
-      "sym": "HAFL",
-      "sec_code": "0829",
-      "listed": "ALLSHR,KMIALLSHR",
-      "ldcp": 385.93,
-      "open": 415.0,
-      "high": 415.0,
-      "low": 365.5,
-      "close": 381.0,
-      "change": -4.93,
-      "pct": -1.277,
-      "volume": 21
-    },
-    {
-      "sym": "TPLL",
-      "sec_code": "0812",
-      "listed": "ALLSHR",
-      "ldcp": 19.08,
-      "open": 19.08,
-      "high": 19.21,
-      "low": 19.08,
-      "close": 19.21,
-      "change": 0.13,
-      "pct": 0.681,
-      "volume": 21
     },
     {
       "sym": "AKGL",
@@ -6127,6 +6153,19 @@
       "volume": 15
     },
     {
+      "sym": "PRET",
+      "sec_code": "0830",
+      "listed": "ALLSHR",
+      "ldcp": 500.0,
+      "open": 471.11,
+      "high": 499.0,
+      "low": 471.0,
+      "close": 499.0,
+      "change": -1.0,
+      "pct": -0.2,
+      "volume": 10
+    },
+    {
       "sym": "FSWL",
       "sec_code": "0829",
       "listed": "ALLSHR",
@@ -6164,19 +6203,6 @@
       "change": 0.0,
       "pct": 0.0,
       "volume": 10
-    },
-    {
-      "sym": "PRET",
-      "sec_code": "0830",
-      "listed": "ALLSHR",
-      "ldcp": 500.0,
-      "open": 471.11,
-      "high": 471.11,
-      "low": 471.0,
-      "close": 471.0,
-      "change": -29.0,
-      "pct": -5.800000000000001,
-      "volume": 9
     },
     {
       "sym": "CFL",
