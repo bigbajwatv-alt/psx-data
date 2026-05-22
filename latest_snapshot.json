@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-21T20:30:12.847293+05:00",
+  "timestamp": "2026-05-22T15:41:50.096869+05:00",
   "source": "dps.psx.com.pk",
   "market_status": "closed",
   "watchlist": {
@@ -11,7 +11,7 @@
       "change_pct": 2.2918,
       "volume": 5129543,
       "open": 322.0,
-      "day_high": 326.8,
+      "day_high": 327.6,
       "day_low": 322.0,
       "as_of": "2026-05-21T11:00:00Z"
     },
@@ -23,8 +23,8 @@
       "change_pct": 4.7076,
       "volume": 4473497,
       "open": 390.1,
-      "day_high": 410.0,
-      "day_low": 390.1,
+      "day_high": 414.0,
+      "day_low": 403.0,
       "as_of": "2026-05-21T11:00:00Z"
     },
     "MCB": {
@@ -35,8 +35,8 @@
       "change_pct": 0.5525,
       "volume": 571134,
       "open": 407.0,
-      "day_high": 409.5,
-      "day_low": 403.66,
+      "day_high": 408.0,
+      "day_low": 403.05,
       "as_of": "2026-05-21T11:00:00Z"
     },
     "PPL": {
@@ -47,8 +47,8 @@
       "change_pct": 3.2277,
       "volume": 6167890,
       "open": 231.88,
-      "day_high": 234.94,
-      "day_low": 230.0,
+      "day_high": 236.0,
+      "day_low": 232.56,
       "as_of": "2026-05-21T11:00:00Z"
     },
     "LUCK": {
@@ -59,8 +59,8 @@
       "change_pct": 3.8795,
       "volume": 4012991,
       "open": 418.0,
-      "day_high": 434.0,
-      "day_low": 418.0,
+      "day_high": 431.5,
+      "day_low": 420.16,
       "as_of": "2026-05-21T11:00:00Z"
     },
     "MARI": {
@@ -72,7 +72,7 @@
       "volume": 571882,
       "open": 644.0,
       "day_high": 654.0,
-      "day_low": 643.0,
+      "day_low": 642.0,
       "as_of": "2026-05-21T11:00:00Z"
     },
     "FFC": {
@@ -83,8 +83,8 @@
       "change_pct": 2.5502,
       "volume": 2216544,
       "open": 525.0,
-      "day_high": 532.5,
-      "day_low": 525.0,
+      "day_high": 535.0,
+      "day_low": 528.1,
       "as_of": "2026-05-21T11:00:00Z"
     },
     "MEBL": {
@@ -96,7 +96,7 @@
       "volume": 1252169,
       "open": 476.0,
       "day_high": 485.0,
-      "day_low": 476.0,
+      "day_low": 480.02,
       "as_of": "2026-05-21T11:00:00Z"
     },
     "HUBC": {
@@ -107,8 +107,8 @@
       "change_pct": 3.0093,
       "volume": 5649761,
       "open": 211.12,
-      "day_high": 216.98,
-      "day_low": 211.12,
+      "day_high": 218.49,
+      "day_low": 215.31,
       "as_of": "2026-05-21T11:00:00Z"
     },
     "EFERT": {
@@ -119,8 +119,8 @@
       "change_pct": 2.1358,
       "volume": 1759570,
       "open": 197.0,
-      "day_high": 200.91,
-      "day_low": 197.0,
+      "day_high": 202.0,
+      "day_low": 199.2,
       "as_of": "2026-05-21T11:00:00Z"
     },
     "ABOT": {
@@ -131,8 +131,8 @@
       "change_pct": 2.0195,
       "volume": 735243,
       "open": 850.0,
-      "day_high": 869.9,
-      "day_low": 849.52,
+      "day_high": 876.0,
+      "day_low": 863.01,
       "as_of": "2026-05-21T11:00:00Z"
     },
     "AICL": {
@@ -143,8 +143,8 @@
       "change_pct": 0.2886,
       "volume": 867102,
       "open": 73.99,
-      "day_high": 74.3,
-      "day_low": 72.2,
+      "day_high": 74.5,
+      "day_low": 71.55,
       "as_of": "2026-05-21T11:00:00Z"
     },
     "NESTLE": {
@@ -155,8 +155,8 @@
       "change_pct": 0.4203,
       "volume": 526,
       "open": 7669.95,
-      "day_high": 7669.95,
-      "day_low": 7560.0,
+      "day_high": 7690.0,
+      "day_low": 7500.01,
       "as_of": "2026-05-21T11:00:00Z"
     },
     "SYS": {
@@ -167,8 +167,8 @@
       "change_pct": 1.3824,
       "volume": 458856,
       "open": 151.0,
-      "day_high": 152.3,
-      "day_low": 150.01,
+      "day_high": 152.8,
+      "day_low": 150.05,
       "as_of": "2026-05-21T11:00:00Z"
     },
     "ATRL": {
@@ -179,8 +179,8 @@
       "change_pct": 0.01,
       "volume": 349638,
       "open": 905.0,
-      "day_high": 907.99,
-      "day_low": 893.01,
+      "day_high": 902.0,
+      "day_low": 890.11,
       "as_of": "2026-05-21T11:00:00Z"
     },
     "HBL": {
@@ -191,8 +191,8 @@
       "change_pct": 4.0345,
       "volume": 1672592,
       "open": 272.0,
-      "day_high": 280.49,
-      "day_low": 270.11,
+      "day_high": 282.0,
+      "day_low": 274.11,
       "as_of": "2026-05-21T11:00:00Z"
     },
     "DGKC": {
@@ -203,8 +203,8 @@
       "change_pct": 2.4853,
       "volume": 5142869,
       "open": 185.89,
-      "day_high": 188.66,
-      "day_low": 185.89,
+      "day_high": 188.4,
+      "day_low": 183.25,
       "as_of": "2026-05-21T11:00:00Z"
     },
     "INDU": {
@@ -216,7 +216,7 @@
       "volume": 11227,
       "open": 1981.0,
       "day_high": 2010.0,
-      "day_low": 1955.01,
+      "day_low": 1982.12,
       "as_of": "2026-05-21T11:00:00Z"
     }
   },
@@ -229,8 +229,8 @@
       "change_pct": 2.2344,
       "volume": 270584554,
       "open": 166638.563,
-      "day_high": 168869.18,
-      "day_low": 166638.56,
+      "day_high": 169624.78,
+      "day_low": 167781.47,
       "as_of": "2026-05-21T11:00:00Z"
     },
     "KSE30": {
@@ -241,8 +241,8 @@
       "change_pct": 2.4766,
       "volume": 130900986,
       "open": 49919.2727,
-      "day_high": 50692.31,
-      "day_low": 49919.27,
+      "day_high": 50947.09,
+      "day_low": 50304.96,
       "as_of": "2026-05-21T11:00:00Z"
     },
     "KMI30": {
@@ -253,8 +253,8 @@
       "change_pct": 2.1658,
       "volume": 110707604,
       "open": 240051.3262,
-      "day_high": 243013.88,
-      "day_low": 240051.33,
+      "day_high": 243973.49,
+      "day_low": 241039.86,
       "as_of": "2026-05-21T11:00:00Z"
     },
     "ALLSHR": {
@@ -265,8 +265,8 @@
       "change_pct": 2.1155,
       "volume": 727149251,
       "open": 100333.3286,
-      "day_high": 101609.17,
-      "day_low": 100333.33,
+      "day_high": 102038.27,
+      "day_low": 101082.83,
       "as_of": "2026-05-21T11:00:00Z"
     },
     "BKTI": {
@@ -277,8 +277,8 @@
       "change_pct": 2.6765,
       "volume": 48157470,
       "open": 45469.0957,
-      "day_high": 46335.34,
-      "day_low": 45469.1,
+      "day_high": 46589.04,
+      "day_low": 45903.25,
       "as_of": "2026-05-21T11:00:00Z"
     },
     "OGTI": {
@@ -289,8 +289,8 @@
       "change_pct": 2.4094,
       "volume": 11869315,
       "open": 35344.1059,
-      "day_high": 35741.51,
-      "day_low": 35332.57,
+      "day_high": 35899.69,
+      "day_low": 35493.82,
       "as_of": "2026-05-21T11:00:00Z"
     },
     "KMIALLSHR": {
@@ -301,8 +301,8 @@
       "change_pct": 1.8971,
       "volume": 380098402,
       "open": 65498.0955,
-      "day_high": 66117.09,
-      "day_low": 65498.1,
+      "day_high": 66373.3,
+      "day_low": 65721.5,
       "as_of": "2026-05-21T11:00:00Z"
     }
   },
