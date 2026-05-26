@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-26T09:45:38+05:00",
+  "timestamp": "2026-05-26T09:50:38+05:00",
   "source": "dps.psx.com.pk",
   "market_status": "open",
   "watchlist": {
@@ -13,7 +13,7 @@
       "open": 328,
       "day_high": 330.9,
       "day_low": 326.7,
-      "as_of": "2026-05-26T09:45:38+05:00",
+      "as_of": "2026-05-26T09:50:38+05:00",
       "source": "market_watch"
     },
     "UBL": {
@@ -26,7 +26,7 @@
       "open": 414.9,
       "day_high": 417,
       "day_low": 409.1,
-      "as_of": "2026-05-26T09:45:38+05:00",
+      "as_of": "2026-05-26T09:50:38+05:00",
       "source": "market_watch"
     },
     "MCB": {
@@ -39,7 +39,7 @@
       "open": 408,
       "day_high": 414.49,
       "day_low": 407,
-      "as_of": "2026-05-26T09:45:38+05:00",
+      "as_of": "2026-05-26T09:50:38+05:00",
       "source": "market_watch"
     },
     "PPL": {
@@ -52,7 +52,7 @@
       "open": 239.99,
       "day_high": 242,
       "day_low": 238.5,
-      "as_of": "2026-05-26T09:45:38+05:00",
+      "as_of": "2026-05-26T09:50:38+05:00",
       "source": "market_watch"
     },
     "LUCK": {
@@ -65,7 +65,7 @@
       "open": 435,
       "day_high": 438.5,
       "day_low": 430,
-      "as_of": "2026-05-26T09:45:38+05:00",
+      "as_of": "2026-05-26T09:50:38+05:00",
       "source": "market_watch"
     },
     "MARI": {
@@ -78,7 +78,7 @@
       "open": 654.88,
       "day_high": 662,
       "day_low": 649.9,
-      "as_of": "2026-05-26T09:45:38+05:00",
+      "as_of": "2026-05-26T09:50:38+05:00",
       "source": "market_watch"
     },
     "FFC": {
@@ -91,7 +91,7 @@
       "open": 538,
       "day_high": 543.8,
       "day_low": 536,
-      "as_of": "2026-05-26T09:45:38+05:00",
+      "as_of": "2026-05-26T09:50:38+05:00",
       "source": "market_watch"
     },
     "MEBL": {
@@ -104,7 +104,7 @@
       "open": 483.09,
       "day_high": 493,
       "day_low": 482,
-      "as_of": "2026-05-26T09:45:38+05:00",
+      "as_of": "2026-05-26T09:50:38+05:00",
       "source": "market_watch"
     },
     "HUBC": {
@@ -117,7 +117,7 @@
       "open": 218.85,
       "day_high": 221,
       "day_low": 215.91,
-      "as_of": "2026-05-26T09:45:38+05:00",
+      "as_of": "2026-05-26T09:50:38+05:00",
       "source": "market_watch"
     },
     "EFERT": {
@@ -130,7 +130,7 @@
       "open": 204.1,
       "day_high": 207,
       "day_low": 201,
-      "as_of": "2026-05-26T09:45:38+05:00",
+      "as_of": "2026-05-26T09:50:38+05:00",
       "source": "market_watch"
     },
     "ABOT": {
@@ -143,7 +143,7 @@
       "open": 885,
       "day_high": 896.99,
       "day_low": 880,
-      "as_of": "2026-05-26T09:45:38+05:00",
+      "as_of": "2026-05-26T09:50:38+05:00",
       "source": "market_watch"
     },
     "AICL": {
@@ -156,7 +156,7 @@
       "open": 77,
       "day_high": 77,
       "day_low": 73.55,
-      "as_of": "2026-05-26T09:45:38+05:00",
+      "as_of": "2026-05-26T09:50:38+05:00",
       "source": "market_watch"
     },
     "NESTLE": {
@@ -169,7 +169,7 @@
       "open": 7550,
       "day_high": 7700,
       "day_low": 7550,
-      "as_of": "2026-05-26T09:45:38+05:00",
+      "as_of": "2026-05-26T09:50:38+05:00",
       "source": "market_watch"
     },
     "SYS": {
@@ -182,7 +182,7 @@
       "open": 152.01,
       "day_high": 153.49,
       "day_low": 149,
-      "as_of": "2026-05-26T09:45:38+05:00",
+      "as_of": "2026-05-26T09:50:38+05:00",
       "source": "market_watch"
     },
     "ATRL": {
@@ -195,7 +195,7 @@
       "open": 890.5,
       "day_high": 910,
       "day_low": 890.5,
-      "as_of": "2026-05-26T09:45:38+05:00",
+      "as_of": "2026-05-26T09:50:38+05:00",
       "source": "market_watch"
     },
     "HBL": {
@@ -208,7 +208,7 @@
       "open": 280,
       "day_high": 291.5,
       "day_low": 280,
-      "as_of": "2026-05-26T09:45:38+05:00",
+      "as_of": "2026-05-26T09:50:38+05:00",
       "source": "market_watch"
     },
     "DGKC": {
@@ -221,7 +221,7 @@
       "open": 190.25,
       "day_high": 193.85,
       "day_low": 187.98,
-      "as_of": "2026-05-26T09:45:38+05:00",
+      "as_of": "2026-05-26T09:50:38+05:00",
       "source": "market_watch"
     },
     "INDU": {
@@ -234,7 +234,7 @@
       "open": 2022,
       "day_high": 2050,
       "day_low": 1990.05,
-      "as_of": "2026-05-26T09:45:38+05:00",
+      "as_of": "2026-05-26T09:50:38+05:00",
       "source": "market_watch"
     }
   },
@@ -304,7 +304,19 @@
       "as_of": "2026-05-25T15:30:00+05:00",
       "source": "historical+eod"
     },
-    "OGTI": null,
+    "OGTI": {
+      "symbol": "OGTI",
+      "close": 36341.37,
+      "prev_close": 35557.92,
+      "change": 783.4500000000044,
+      "change_pct": 2.2033,
+      "volume": 10643373,
+      "open": 36157.55,
+      "day_high": 36401.36,
+      "day_low": 36049.36,
+      "as_of": "2026-05-25T15:30:00+05:00",
+      "source": "historical+eod"
+    },
     "KMIALLSHR": {
       "symbol": "KMIALLSHR",
       "close": 67042.77,
@@ -319,7 +331,5 @@
       "source": "historical+eod"
     }
   },
-  "errors": [
-    "OGTI:520 <none> from https://dps.psx.com.pk/timeseries/eod/OGTI"
-  ]
+  "errors": []
 }
