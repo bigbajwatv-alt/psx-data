@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-15T11:30:07+05:00",
+  "timestamp": "2026-06-15T11:35:06+05:00",
   "source": "dps.psx.com.pk",
   "market_status": "open",
   "watchlist": {
@@ -23,23 +23,47 @@
     "INDU": null
   },
   "indices": {
-    "KSE100": null,
-    "KSE30": null,
-    "KMI30": null,
-    "ALLSHR": null,
-    "BKTI": {
-      "symbol": "BKTI",
-      "close": 46974.29,
-      "prev_close": 46200.64,
-      "change": 773.6500000000015,
-      "change_pct": 1.6745,
-      "volume": 67028611,
-      "open": 46767.0183,
+    "KSE100": {
+      "symbol": "KSE100",
+      "close": 172399.9,
+      "prev_close": 169703.6,
+      "change": 2696.2999999999884,
+      "change_pct": 1.5888,
+      "volume": 320001208,
+      "open": 171562.2282,
       "day_high": null,
       "day_low": null,
       "as_of": "2026-06-12T11:00:00.000Z",
       "source": "eod_only"
     },
+    "KSE30": {
+      "symbol": "KSE30",
+      "close": 51428.16,
+      "prev_close": 50591.32,
+      "change": 836.8400000000038,
+      "change_pct": 1.6541,
+      "volume": 185271370,
+      "open": 51229.3869,
+      "day_high": null,
+      "day_low": null,
+      "as_of": "2026-06-12T11:00:00.000Z",
+      "source": "eod_only"
+    },
+    "KMI30": null,
+    "ALLSHR": {
+      "symbol": "ALLSHR",
+      "close": 103927.89,
+      "prev_close": 102604.52,
+      "change": 1323.3699999999953,
+      "change_pct": 1.2898,
+      "volume": 888161183,
+      "open": 103590.0562,
+      "day_high": null,
+      "day_low": null,
+      "as_of": "2026-06-12T11:00:00.000Z",
+      "source": "eod_only"
+    },
+    "BKTI": null,
     "OGTI": null,
     "KMIALLSHR": {
       "symbol": "KMIALLSHR",
@@ -57,10 +81,8 @@
   },
   "errors": [
     "market_watch:502 Bad Gateway from https://dps.psx.com.pk/market-watch",
-    "KSE100:502 Bad Gateway from https://dps.psx.com.pk/timeseries/eod/KSE100",
-    "KSE30:502 Bad Gateway from https://dps.psx.com.pk/timeseries/eod/KSE30",
     "KMI30:502 Bad Gateway from https://dps.psx.com.pk/timeseries/eod/KMI30",
-    "ALLSHR:502 Bad Gateway from https://dps.psx.com.pk/timeseries/eod/ALLSHR",
+    "BKTI:502 Bad Gateway from https://dps.psx.com.pk/timeseries/eod/BKTI",
     "OGTI:502 Bad Gateway from https://dps.psx.com.pk/timeseries/eod/OGTI"
   ]
 }
