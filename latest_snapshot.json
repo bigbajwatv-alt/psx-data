@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-18T11:35:45+05:00",
+  "timestamp": "2026-06-18T11:40:45+05:00",
   "source": "dps.psx.com.pk",
   "market_status": "open",
   "watchlist": {
@@ -49,7 +49,7 @@
     "KSE30:520 <none> from https://dps.psx.com.pk/timeseries/eod/KSE30",
     "ALLSHR:520 <none> from https://dps.psx.com.pk/timeseries/eod/ALLSHR",
     "BKTI:520 <none> from https://dps.psx.com.pk/timeseries/eod/BKTI",
-    "OGTI:520 <none> from https://dps.psx.com.pk/timeseries/eod/OGTI",
+    "OGTI:502 Bad Gateway from https://dps.psx.com.pk/timeseries/eod/OGTI",
     "KMIALLSHR:520 <none> from https://dps.psx.com.pk/timeseries/eod/KMIALLSHR"
   ]
 }
