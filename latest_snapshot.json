@@ -1,19 +1,19 @@
 {
-  "timestamp": "2026-06-23T14:45:14+05:00",
+  "timestamp": "2026-06-23T14:50:14+05:00",
   "source": "dps.psx.com.pk",
   "market_status": "open",
   "watchlist": {
     "OGDC": {
       "symbol": "OGDC",
-      "close": 337.8,
+      "close": 337.6,
       "prev_close": 334.25,
-      "change": 3.5500000000000114,
-      "change_pct": 1.0621,
-      "volume": 7909524,
+      "change": 3.3500000000000227,
+      "change_pct": 1.0022,
+      "volume": 7950020,
       "open": 335.4,
       "day_high": 340.6,
       "day_low": 335.25,
-      "as_of": "2026-06-23T14:45:14+05:00",
+      "as_of": "2026-06-23T14:50:14+05:00",
       "source": "market_watch"
     },
     "UBL": {
@@ -22,24 +22,24 @@
       "prev_close": 437.46,
       "change": -6.4599999999999795,
       "change_pct": -1.4767,
-      "volume": 983903,
+      "volume": 1028196,
       "open": 441.4,
       "day_high": 441.4,
       "day_low": 428.8,
-      "as_of": "2026-06-23T14:45:14+05:00",
+      "as_of": "2026-06-23T14:50:14+05:00",
       "source": "market_watch"
     },
     "MCB": {
       "symbol": "MCB",
-      "close": 397.98,
+      "close": 398.5,
       "prev_close": 400.1,
-      "change": -2.1200000000000045,
-      "change_pct": -0.5299,
-      "volume": 185067,
+      "change": -1.6000000000000227,
+      "change_pct": -0.3999,
+      "volume": 289783,
       "open": 401.95,
       "day_high": 403.3,
       "day_low": 396,
-      "as_of": "2026-06-23T14:45:14+05:00",
+      "as_of": "2026-06-23T14:50:14+05:00",
       "source": "market_watch"
     },
     "PPL": {
@@ -52,7 +52,7 @@
       "open": 243.97,
       "day_high": 246.5,
       "day_low": 242.55,
-      "as_of": "2026-06-23T14:45:14+05:00",
+      "as_of": "2026-06-23T14:50:14+05:00",
       "source": "market_watch"
     },
     "LUCK": {
@@ -65,7 +65,7 @@
       "open": 460.01,
       "day_high": 462.9,
       "day_low": 455,
-      "as_of": "2026-06-23T14:45:14+05:00",
+      "as_of": "2026-06-23T14:50:14+05:00",
       "source": "market_watch"
     },
     "MARI": {
@@ -78,7 +78,7 @@
       "open": 662,
       "day_high": 662,
       "day_low": 655,
-      "as_of": "2026-06-23T14:45:14+05:00",
+      "as_of": "2026-06-23T14:50:14+05:00",
       "source": "market_watch"
     },
     "FFC": {
@@ -91,7 +91,7 @@
       "open": 561,
       "day_high": 561.5,
       "day_low": 554,
-      "as_of": "2026-06-23T14:45:14+05:00",
+      "as_of": "2026-06-23T14:50:14+05:00",
       "source": "market_watch"
     },
     "MEBL": {
@@ -100,37 +100,37 @@
       "prev_close": 512.17,
       "change": -0.16999999999995907,
       "change_pct": -0.0332,
-      "volume": 828351,
+      "volume": 830842,
       "open": 515,
       "day_high": 515,
       "day_low": 511,
-      "as_of": "2026-06-23T14:45:14+05:00",
+      "as_of": "2026-06-23T14:50:14+05:00",
       "source": "market_watch"
     },
     "HUBC": {
       "symbol": "HUBC",
-      "close": 232.61,
+      "close": 232.8,
       "prev_close": 231.98,
-      "change": 0.6300000000000239,
-      "change_pct": 0.2716,
-      "volume": 2502472,
+      "change": 0.8200000000000216,
+      "change_pct": 0.3535,
+      "volume": 2539824,
       "open": 232.97,
       "day_high": 234.24,
       "day_low": 231.6,
-      "as_of": "2026-06-23T14:45:14+05:00",
+      "as_of": "2026-06-23T14:50:14+05:00",
       "source": "market_watch"
     },
     "EFERT": {
       "symbol": "EFERT",
-      "close": 199.59,
+      "close": 198.99,
       "prev_close": 199.89,
-      "change": -0.29999999999998295,
-      "change_pct": -0.1501,
-      "volume": 1046571,
+      "change": -0.8999999999999773,
+      "change_pct": -0.4502,
+      "volume": 1076799,
       "open": 200,
       "day_high": 201.05,
-      "day_low": 199,
-      "as_of": "2026-06-23T14:45:14+05:00",
+      "day_low": 198.95,
+      "as_of": "2026-06-23T14:50:14+05:00",
       "source": "market_watch"
     },
     "ABOT": {
@@ -143,7 +143,7 @@
       "open": 969.99,
       "day_high": 975,
       "day_low": 963,
-      "as_of": "2026-06-23T14:45:14+05:00",
+      "as_of": "2026-06-23T14:50:14+05:00",
       "source": "market_watch"
     },
     "AICL": {
@@ -156,7 +156,7 @@
       "open": 81,
       "day_high": 81,
       "day_low": 79.1,
-      "as_of": "2026-06-23T14:45:14+05:00",
+      "as_of": "2026-06-23T14:50:14+05:00",
       "source": "market_watch"
     },
     "NESTLE": {
@@ -169,7 +169,7 @@
       "open": 7699.99,
       "day_high": 7700,
       "day_low": 7555.02,
-      "as_of": "2026-06-23T14:45:14+05:00",
+      "as_of": "2026-06-23T14:50:14+05:00",
       "source": "market_watch"
     },
     "SYS": {
@@ -182,7 +182,7 @@
       "open": 151.88,
       "day_high": 151.88,
       "day_low": 149,
-      "as_of": "2026-06-23T14:45:14+05:00",
+      "as_of": "2026-06-23T14:50:14+05:00",
       "source": "market_watch"
     },
     "ATRL": {
@@ -195,7 +195,7 @@
       "open": 906.26,
       "day_high": 908,
       "day_low": 900.21,
-      "as_of": "2026-06-23T14:45:14+05:00",
+      "as_of": "2026-06-23T14:50:14+05:00",
       "source": "market_watch"
     },
     "HBL": {
@@ -208,7 +208,7 @@
       "open": 294.95,
       "day_high": 296.5,
       "day_low": 294,
-      "as_of": "2026-06-23T14:45:14+05:00",
+      "as_of": "2026-06-23T14:50:14+05:00",
       "source": "market_watch"
     },
     "DGKC": {
@@ -221,7 +221,7 @@
       "open": 218.3,
       "day_high": 220.6,
       "day_low": 215.81,
-      "as_of": "2026-06-23T14:45:14+05:00",
+      "as_of": "2026-06-23T14:50:14+05:00",
       "source": "market_watch"
     },
     "INDU": {
@@ -234,7 +234,7 @@
       "open": 2065,
       "day_high": 2067,
       "day_low": 2050,
-      "as_of": "2026-06-23T14:45:14+05:00",
+      "as_of": "2026-06-23T14:50:14+05:00",
       "source": "market_watch"
     }
   },
