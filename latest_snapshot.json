@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-01T11:00:24+05:00",
+  "timestamp": "2026-07-01T11:05:24+05:00",
   "source": "dps.psx.com.pk",
   "market_status": "open",
   "watchlist": {
@@ -24,32 +24,8 @@
   },
   "indices": {
     "KSE100": null,
-    "KSE30": {
-      "symbol": "KSE30",
-      "close": 53716.03,
-      "prev_close": 53112.84,
-      "change": 603.1900000000023,
-      "change_pct": 1.1357,
-      "volume": 117750757,
-      "open": 53273.8659,
-      "day_high": null,
-      "day_low": null,
-      "as_of": "2026-06-30T11:00:00.000Z",
-      "source": "eod_only"
-    },
-    "KMI30": {
-      "symbol": "KMI30",
-      "close": 257327.46,
-      "prev_close": 254200.24,
-      "change": 3127.220000000001,
-      "change_pct": 1.2302,
-      "volume": 113951640,
-      "open": 255038.9593,
-      "day_high": null,
-      "day_low": null,
-      "as_of": "2026-06-30T11:00:00.000Z",
-      "source": "eod_only"
-    },
+    "KSE30": null,
+    "KMI30": null,
     "ALLSHR": null,
     "BKTI": {
       "symbol": "BKTI",
@@ -68,8 +44,10 @@
     "KMIALLSHR": null
   },
   "errors": [
-    "market_watch:520 <none> from https://dps.psx.com.pk/market-watch",
-    "KSE100:520 <none> from https://dps.psx.com.pk/timeseries/eod/KSE100",
+    "market_watch:502 Bad Gateway from https://dps.psx.com.pk/market-watch",
+    "KSE100:502 Bad Gateway from https://dps.psx.com.pk/timeseries/eod/KSE100",
+    "KSE30:502 Bad Gateway from https://dps.psx.com.pk/timeseries/eod/KSE30",
+    "KMI30:502 Bad Gateway from https://dps.psx.com.pk/timeseries/eod/KMI30",
     "ALLSHR:520 <none> from https://dps.psx.com.pk/timeseries/eod/ALLSHR",
     "OGTI:520 <none> from https://dps.psx.com.pk/timeseries/eod/OGTI",
     "KMIALLSHR:520 <none> from https://dps.psx.com.pk/timeseries/eod/KMIALLSHR"
