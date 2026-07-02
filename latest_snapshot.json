@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-02T10:00:24+05:00",
+  "timestamp": "2026-07-02T10:05:24+05:00",
   "source": "dps.psx.com.pk",
   "market_status": "open",
   "watchlist": {
@@ -52,7 +52,19 @@
     },
     "ALLSHR": null,
     "BKTI": null,
-    "OGTI": null,
+    "OGTI": {
+      "symbol": "OGTI",
+      "close": 36942.77,
+      "prev_close": 36898.66,
+      "change": 44.109999999993306,
+      "change_pct": 0.1195,
+      "volume": 7947574,
+      "open": 36974.091,
+      "day_high": null,
+      "day_low": null,
+      "as_of": "2026-07-01T11:00:00.000Z",
+      "source": "eod_only"
+    },
     "KMIALLSHR": null
   },
   "errors": [
@@ -60,7 +72,6 @@
     "KSE100:520 <none> from https://dps.psx.com.pk/timeseries/eod/KSE100",
     "ALLSHR:520 <none> from https://dps.psx.com.pk/timeseries/eod/ALLSHR",
     "BKTI:520 <none> from https://dps.psx.com.pk/timeseries/eod/BKTI",
-    "OGTI:520 <none> from https://dps.psx.com.pk/timeseries/eod/OGTI",
     "KMIALLSHR:520 <none> from https://dps.psx.com.pk/timeseries/eod/KMIALLSHR"
   ]
 }
