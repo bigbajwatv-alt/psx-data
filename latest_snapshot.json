@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-01T15:30:24+05:00",
+  "timestamp": "2026-07-02T09:30:25+05:00",
   "source": "dps.psx.com.pk",
   "market_status": "open",
   "watchlist": {
@@ -23,31 +23,43 @@
     "INDU": null
   },
   "indices": {
-    "KSE100": null,
-    "KSE30": {
-      "symbol": "KSE30",
-      "close": 53716.03,
-      "prev_close": 53112.84,
-      "change": 603.1900000000023,
-      "change_pct": 1.1357,
-      "volume": 117750757,
-      "open": 53273.8659,
+    "KSE100": {
+      "symbol": "KSE100",
+      "close": 184050.1,
+      "prev_close": 180301.7,
+      "change": 3748.399999999994,
+      "change_pct": 2.079,
+      "volume": 472430783,
+      "open": 180733.4635,
       "day_high": null,
       "day_low": null,
-      "as_of": "2026-06-30T11:00:00.000Z",
+      "as_of": "2026-07-01T11:00:00.000Z",
+      "source": "eod_only"
+    },
+    "KSE30": {
+      "symbol": "KSE30",
+      "close": 54944.21,
+      "prev_close": 53716.03,
+      "change": 1228.1800000000003,
+      "change_pct": 2.2864,
+      "volume": 207718790,
+      "open": 53853.8206,
+      "day_high": null,
+      "day_low": null,
+      "as_of": "2026-07-01T11:00:00.000Z",
       "source": "eod_only"
     },
     "KMI30": {
       "symbol": "KMI30",
-      "close": 257327.46,
-      "prev_close": 254200.24,
-      "change": 3127.220000000001,
-      "change_pct": 1.2302,
-      "volume": 113951640,
-      "open": 255038.9593,
+      "close": 260634.87,
+      "prev_close": 257327.46,
+      "change": 3307.4100000000035,
+      "change_pct": 1.2853,
+      "volume": 119115472,
+      "open": 257940.0627,
       "day_high": null,
       "day_low": null,
-      "as_of": "2026-06-30T11:00:00.000Z",
+      "as_of": "2026-07-01T11:00:00.000Z",
       "source": "eod_only"
     },
     "ALLSHR": null,
@@ -57,7 +69,6 @@
   },
   "errors": [
     "market_watch:520 <none> from https://dps.psx.com.pk/market-watch",
-    "KSE100:520 <none> from https://dps.psx.com.pk/timeseries/eod/KSE100",
     "ALLSHR:520 <none> from https://dps.psx.com.pk/timeseries/eod/ALLSHR",
     "BKTI:520 <none> from https://dps.psx.com.pk/timeseries/eod/BKTI",
     "OGTI:520 <none> from https://dps.psx.com.pk/timeseries/eod/OGTI",
