@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-09T09:30:52+05:00",
+  "timestamp": "2026-07-09T09:35:52+05:00",
   "source": "dps.psx.com.pk",
   "market_status": "open",
   "watchlist": {
@@ -23,19 +23,7 @@
     "INDU": null
   },
   "indices": {
-    "KSE100": {
-      "symbol": "KSE100",
-      "close": 181629.36,
-      "prev_close": 186255.55,
-      "change": -4626.190000000002,
-      "change_pct": -2.4838,
-      "volume": 571941942,
-      "open": 184405.8738,
-      "day_high": null,
-      "day_low": null,
-      "as_of": "2026-07-08T11:00:00.000Z",
-      "source": "eod_only"
-    },
+    "KSE100": null,
     "KSE30": null,
     "KMI30": {
       "symbol": "KMI30",
@@ -57,6 +45,7 @@
   },
   "errors": [
     "market_watch:520 <none> from https://dps.psx.com.pk/market-watch",
+    "KSE100:520 <none> from https://dps.psx.com.pk/timeseries/eod/KSE100",
     "KSE30:520 <none> from https://dps.psx.com.pk/timeseries/eod/KSE30",
     "ALLSHR:520 <none> from https://dps.psx.com.pk/timeseries/eod/ALLSHR",
     "BKTI:520 <none> from https://dps.psx.com.pk/timeseries/eod/BKTI",
