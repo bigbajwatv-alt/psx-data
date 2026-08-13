@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-13T14:40:37+05:00",
+  "timestamp": "2026-08-13T14:45:37+05:00",
   "source": "dps.psx.com.pk",
   "market_status": "open",
   "watchlist": {
@@ -23,44 +23,33 @@
     "INDU": null
   },
   "indices": {
-    "KSE100": null,
-    "KSE30": null,
-    "KMI30": {
-      "symbol": "KMI30",
-      "close": 253344.42,
-      "prev_close": 253007.71,
-      "change": 336.71000000002095,
-      "change_pct": 0.1331,
-      "volume": 99856690,
-      "open": 253226.498,
+    "KSE100": {
+      "symbol": "KSE100",
+      "close": 180311.21,
+      "prev_close": 179846.68,
+      "change": 464.52999999999884,
+      "change_pct": 0.2583,
+      "volume": 226161451,
+      "open": 179931.0074,
       "day_high": null,
       "day_low": null,
       "as_of": "2026-08-12T11:00:00.000Z",
       "source": "eod_only"
     },
+    "KSE30": null,
+    "KMI30": null,
     "ALLSHR": null,
     "BKTI": null,
-    "OGTI": {
-      "symbol": "OGTI",
-      "close": 35688.43,
-      "prev_close": 35518.9,
-      "change": 169.52999999999884,
-      "change_pct": 0.4773,
-      "volume": 8685311,
-      "open": 35561.4804,
-      "day_high": null,
-      "day_low": null,
-      "as_of": "2026-08-12T11:00:00.000Z",
-      "source": "eod_only"
-    },
+    "OGTI": null,
     "KMIALLSHR": null
   },
   "errors": [
     "market_watch:502 Bad Gateway from https://dps.psx.com.pk/market-watch",
-    "KSE100:502 Bad Gateway from https://dps.psx.com.pk/timeseries/eod/KSE100",
     "KSE30:520 <none> from https://dps.psx.com.pk/timeseries/eod/KSE30",
-    "ALLSHR:502 Bad Gateway from https://dps.psx.com.pk/timeseries/eod/ALLSHR",
+    "KMI30:502 Bad Gateway from https://dps.psx.com.pk/timeseries/eod/KMI30",
+    "ALLSHR:520 <none> from https://dps.psx.com.pk/timeseries/eod/ALLSHR",
     "BKTI:502 Bad Gateway from https://dps.psx.com.pk/timeseries/eod/BKTI",
+    "OGTI:502 Bad Gateway from https://dps.psx.com.pk/timeseries/eod/OGTI",
     "KMIALLSHR:502 Bad Gateway from https://dps.psx.com.pk/timeseries/eod/KMIALLSHR"
   ]
 }
